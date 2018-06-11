@@ -3,6 +3,7 @@ categories:
 - meetings
 layout: page
 title: Local Chapters
+permalink: /local/
 created: 1223642962
 ---
 <h2>About</h2>

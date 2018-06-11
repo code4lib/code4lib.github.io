@@ -3,6 +3,7 @@ categories:
 - irc
 layout: page
 title: "#code4lib irc channel faq"
+permalink: /irc/faq
 created: 1142364428
 ---
 Like any community, the #code4lib IRC channel can be intimidating to newcomers. For those who are new to the channel, here are some answers to Frequently Asked Questions.
