@@ -4,6 +4,7 @@ categories:
 - code4lib 2012
 layout: page
 title: Code4Lib 2012 Schedule
+permalink: /conference/2012/schedule
 created: 1319065801
 ---
 <p>The schedule for the 2012 Code4Lib Conference in Seattle, Washington.</p>
@@ -12,7 +13,8 @@ created: 1319065801
 <br />
 <br/>
 
-<p id="preconf"><span class="date">Monday, February 6</span></p>
+<p id="preconf">
+<h3><span class="date">Monday, February 6</span></h3></p>
 
 
 <dl class="day">

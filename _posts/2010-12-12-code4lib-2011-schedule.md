@@ -4,6 +4,7 @@ categories:
 - code4lib 2011
 layout: page
 title: Code4Lib 2011 schedule
+permalink: /conference/2011/schedule
 created: 1292176382
 ---
 <p>The schedule for the 2011 Code4Lib Conference in Bloomington, IN. If you would like this schedule in your calendering app <a href="http://suda.co.uk/projects/microformats/hcalendar/get-cal.php?uri=http://code4lib.org/conference/2011/schedule">convert</a> the hCalendar in this page to iCal.</p>
@@ -29,7 +30,7 @@ created: 1292176382
 
 </ul>
 
-<p class"date">Morning Pre-Conferences (09:00 - 12:00)</p>
+<p class="date">Morning Pre-Conferences (09:00 - 12:00)</p>
 
 <ul>
 
@@ -55,7 +56,7 @@ created: 1292176382
 
 <li><strong><a href="http://wiki.code4lib.org/index.php/2011_Preconference_Proposals#Islandora_Repository_System">Islandora Repository System</a></strong> (<span class="links">Location: Walnut</span>)</li>
 
-<li><strong><a href="http://wiki.code4lib.org/index.php/2011_Preconference_Proposals#Code4Lib_Preconference_Unconference">A Code4Lib Preconference Unconference</strong></a> (<span class="links">Location: Dogwood </span>)</li>
+<li><strong><a href="http://wiki.code4lib.org/index.php/2011_Preconference_Proposals#Code4Lib_Preconference_Unconference">A Code4Lib Preconference Unconference</a></strong> (<span class="links">Location: Dogwood </span>)</li>
 
 </ul>
 
@@ -82,7 +83,7 @@ created: 1292176382
 
 <p>
 (Some descriptions were abbreviated. Complete descriptions are on the individual pages for each session.)</p>
-</dl>
+
 
 <p><span class="date">Tuesday, February 8</span></p>
 
@@ -94,12 +95,12 @@ The day begins at Whittenberger Auditorium.  After the keynote talk, we will mov
 
 <dt class="vevent" id="hcal801"><abbr class="dtstart" title="2011-02-08T08:00:00-05:00">08:00</abbr>-<abbr class="dtend" title="2011-02-08T09:00:00-05:00">09:00</abbr> - <span class="summary">Registration / Breakfast<span class="links"></span></span></dt>
 
-<dt class="vevent" id="hcal802"><abbr class="dtstart" title="2011-02-08T09:00:00-05:00">09:00</abbr>-<abbr class="dtend" title="2011-02-08T09:15:00-05:00">09:15</abbr> - <span class="summary"><strong>Welcome</strong> - Brenda Johnson (Dean of Libraries, Indiana University) / Orientation / Housekeeping</strong></span></dt>
+<dt class="vevent" id="hcal802"><abbr class="dtstart" title="2011-02-08T09:00:00-05:00">09:00</abbr>-<abbr class="dtend" title="2011-02-08T09:15:00-05:00">09:15</abbr> - <span class="summary"><strong>Welcome</strong> - Brenda Johnson (Dean of Libraries, Indiana University) / Orientation / Housekeeping</span></dt>
 
 <li> Session #1 will be the activity happening at Whittenberger the morning of Tuesday Feb. 8th.  The stream will go live at 8:45AM and end at 11:00AM, or terminated by the video crew when the presentations conclude. <a href="http://www.indiana.edu/~video/stream/liveflash.html?filename=C4L2011_session_1">Live video</a>.  <a href="http://www.indiana.edu/~video/stream/launchflash.html?format=MP4&amp;folder=vic&amp;filename=C4L2011_session_1_20110208.mp4">Archived stream.</a>
 </li>
 
-<dt class="vevent" id="hcal803"><abbr class="dtstart" title="2011-02-08T09:15:00-05:00">09:15</abbr>-<abbr class="dtend" title="2011-02-08T09:45:00-05:00">09:45</abbr> - <span class="summary"><strong>Introductory remarks</strong> - Brad Wheeler (Vice-President for Information Technology, Indiana University)</strong></span> </dt>
+<dt class="vevent" id="hcal803"><abbr class="dtstart" title="2011-02-08T09:15:00-05:00">09:15</abbr>-<abbr class="dtend" title="2011-02-08T09:45:00-05:00">09:45</abbr> - <span class="summary"><strong>Introductory remarks</strong> - Brad Wheeler (Vice-President for Information Technology, Indiana University)</span> </dt>
 
 <dt class="vevent" id="hcal804"><abbr class="dtstart" title="2011-02-08T09:45:00-05:00">09:45</abbr>-<abbr class="dtend" title="2011-02-08T10:05:00-05:00">10:05</abbr> - <span class="summary">Break</span></dt>
 
@@ -134,7 +135,7 @@ The day begins at Whittenberger Auditorium.  After the keynote talk, we will mov
 
 <dt class="vevent" id="hcal817"><abbr class="dtstart" title="2011-02-08T15:10:00-05:00">15:10</abbr>-<abbr class="dtend" title="2011-02-08T16:00:00-05:00">16:00</abbr> - <span class="summary"><a href="/conference/2011/breakout" class="url"><strong>Breakout Sessions 1</strong></a> - Alumni Hall, Solarium, and Whittenberger Auditorium</span></dt>
 
-<dt class="vevent" id="hcal818"><abbr class="dtstart" title="2011-02-08T16:00:00-05:00">16:00</abbr>-<abbr class="dtend" title="2011-02-08T17:00:00-05:00">17:00</abbr> - <span class="summary"><a href="/conference/2011/lightning" class="url"><strong>Lightning Talks 1</a></strong></span></dt>
+<dt class="vevent" id="hcal818"><abbr class="dtstart" title="2011-02-08T16:00:00-05:00">16:00</abbr>-<abbr class="dtend" title="2011-02-08T17:00:00-05:00">17:00</abbr> - <span class="summary"><a href="/conference/2011/lightning" class="url"><strong>Lightning Talks 1</strong></a></span></dt>
 
 <dt class="vevent" id="hcal819"><abbr title="2011-02-08T17:00:00-05:00" class="dtstart">17:00</abbr>-<abbr class="dtend" title="2011-02-08T17:15:00-05:00">17:15</abbr> - <span class="summary">Breakout reports and daily wrap-up</span></dt>
 
@@ -151,7 +152,7 @@ The day begins at Whittenberger Auditorium.  After the keynote talk, we will mov
 
 <dt class="vevent" id="hcal901"><abbr class="dtstart" title="2011-02-09T08:00:00-05:00">08:00</abbr>-<abbr class="dtend" title="2011-02-09T09:00:00-05:00">09:00</abbr> - <span class="summary">Breakfast</span></dt>
 
-<dt class="vevent" id="hcal45"><abbr class="dtstart" title="2011-02-08T09:00:00-05:00">09:00</abbr>-<abbr class="dtend" title="2011-02-08T09:15:00-05:00">09:15</abbr> - <span class="summary"><span class="summary">Housekeeping, Introductions</span></dt>
+<dt class="vevent" id="hcal45"><abbr class="dtstart" title="2011-02-08T09:00:00-05:00">09:00</abbr>-<abbr class="dtend" title="2011-02-08T09:15:00-05:00">09:15</abbr> - <span class="summary">Housekeeping, Introductions</span></dt>
 
 <dt class="vevent" id="hcal902"><abbr class="dtstart" title="2011-02-09T09:15:00-05:00">09:15</abbr>-<abbr class="dtend" title="2011-02-09T09:35:00-05:00">09:35</abbr> - <span class="summary"><strong><a href="/conference/2011/JohnsonHorst" class="url">A Community-Based Approach to Developing a Digital Exhibit at Notre Dame Using the Hydra Framework</a></strong> -  Rick Johnson and Dan Brubaker Horst<br /><span class="links">We will cover: Why we chose to adopt the Hydra Framework instead of creating our own solution; Why the community based approach is so appealing; How we were welcomed into the Hydra development community; Why we chose to create something beyond basic Blacklight search and facet browse; How to create your own Digital Exhibit using Hydra including: Metadata management, Custom Browse and Search.
 </span></span></dt>
@@ -181,7 +182,7 @@ In this talk, I will show how breaking the construction of the library website i
 
 <dt class="vevent" id="hcal914"><abbr class="dtstart" title="2011-02-09T14:20:00-05:00">14:20</abbr>-<abbr class="dtend" title="2011-02-09T14:40:00-05:00">14:40</abbr> - <span class="summary">Break</span></dt>
 
-<dt class="vevent" id="hcal915"><abbr class="dtstart" title="2011-02-09T14:40:00-05:00">14:40</abbr>-<abbr class="dtend" title="2011-02-09T15:50:00-05:00">15:50</abbr> - <span class="summary"><a href="/conference/2011/breakout" class="url"><strong>Breakout Sessions 2</a></strong> - Alumni Hall, Solarium, Maple, and Walnut rooms</span></dt>
+<dt class="vevent" id="hcal915"><abbr class="dtstart" title="2011-02-09T14:40:00-05:00">14:40</abbr>-<abbr class="dtend" title="2011-02-09T15:50:00-05:00">15:50</abbr> - <span class="summary"><a href="/conference/2011/breakout" class="url"><strong>Breakout Sessions 2</strong></a> - Alumni Hall, Solarium, Maple, and Walnut rooms</span></dt>
 
 <dt class="vevent" id="hcal916"><abbr class="dtstart" title="2011-02-09T15:50:00-05:00">15:50</abbr>-<abbr class="dtend" title="2011-02-09T17:00:00-05:00">17:00</abbr> - <span class="summary"><a href="/conference/2011/lightning" class="url"><strong>Lightning Talks 2</strong></a></span></dt>
 
@@ -211,7 +212,7 @@ In this talk, I will show how breaking the construction of the library website i
 
 <dt class="vevent" id="hcal1005"><abbr class="dtstart" title="2011-02-10T09:55:00-05:00">09:55</abbr>-<abbr class="dtend" title="2011-02-10T10:15:00-05:00">10:15</abbr> - <span class="summary">Break</span></dt>
 
-<dt class="vevent" id="hcal1006"><abbr class="dtstart" title="2011-02-10T10:15:00-05:00">10:15</abbr>-<abbr class="dtend" title="2011-02-10T11:00:00-05:00">11:00</abbr> - <span class="summary"><a href="/conference/2011/lightning" class="url"><strong>Lightning Talks 3</a></strong></span></dt>
+<dt class="vevent" id="hcal1006"><abbr class="dtstart" title="2011-02-10T10:15:00-05:00">10:15</abbr>-<abbr class="dtend" title="2011-02-10T11:00:00-05:00">11:00</abbr> - <span class="summary"><a href="/conference/2011/lightning" class="url"><strong>Lightning Talks 3</strong></a></span></dt>
 
 <dt class="vevent" id="hcal1007"><abbr class="dtstart" title="2011-02-10T11:00:00-05:00">11:00</abbr>-<abbr class="dtend" title="2011-02-10T11:20:00-05:00">11:20</abbr> - <span class="summary"><strong><a href="/conference/2011/Dushay" class="url">Practical Relevancy Testing</a> </strong> - Naomi Dushay<br /><span class="links">Evaluating search result relevancy is difficult for any sizable amount of data, since human vetted ideal search results are essentially non-existent. This is true even for library collections, despite dedicated librarians and their familiarity with the collections. So how can we evaluate if search engine configuration changes (e.g. boosting, field analysis, search analysis settings) are an improvement? How can we ensure the results for query A don’t degrade while we try to improve results for query B? Why yes, Virginia, automatable tests are the answer. This talk will show you how you can easily write these tests from your hidden goldmine of human vetted relevancy rankings. <a href="http://www.stanford.edu/~ndushay/code4lib2011/">http://www.stanford.edu/~ndushay/code4lib2011/</a></span></span></dt>
 

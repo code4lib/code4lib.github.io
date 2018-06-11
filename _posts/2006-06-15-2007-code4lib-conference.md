@@ -10,9 +10,10 @@ categories:
 - code4lib 2007
 layout: page
 title: 2007 Code4Lib Conference
+permalink: /conference/2007
 created: 1150396752
 ---
-<strong>The <a href="/2007/schedule">Conference Schedule</a> links to pages for each talk as well as to a <a href="http://code4lib.org/2007/lightningtalks">Lightning Talk page</a>, which has links to presentation slides and video when they are available.</strong>
+<strong>The <a href="/conference/2007/schedule">Conference Schedule</a> links to pages for each talk as well as to a <a href="/conference/2007/lightningtalks">Lightning Talk page</a>, which has links to presentation slides and video when they are available.</strong>
 
 <strong>code4lib 2007 is...</strong>
 

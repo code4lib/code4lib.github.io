@@ -4,6 +4,7 @@ categories:
 - code4lib 2008
 layout: page
 title: code4lib 2008 conference
+permalink: /conference/2008
 created: 1184780330
 ---
 <br><center><strong>For presentation files see the individual presentation pages on the <a href="/conference/2008/schedule">conference schedule</a></strong>.</center><br/>

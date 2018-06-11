@@ -4,6 +4,7 @@ categories:
 - code4lib 2010
 layout: page
 title: Code4Lib 2010 Schedule
+permalink: /conference/2010/schedule
 created: 1260479717
 ---
 <p>The schedule for the 2010 Code4Lib Conference in Asheville, NC.</p>

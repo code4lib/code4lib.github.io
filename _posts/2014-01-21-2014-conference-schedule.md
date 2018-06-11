@@ -4,6 +4,7 @@ categories:
 - code4lib 2014
 layout: page
 title: 2014 Conference Schedule
+permalink: /conference/2014/schedule
 created: 1390348747
 ---
 <p>Schedule for the 2014 Code4Lib Conference in Raleigh, NC.</p>
@@ -89,28 +90,22 @@ Descriptions</a></dt>
     (Video stream)</a>
 </li>
 <li>11:20-11:40 - <a href="/conference/2014/wilson">Personalize Your Google
-    Analytics Data with Custom Events and Variables</a> - Josh
-    Wilson <a href="/files/Wilson-c4l14.pdf">(Slides)</a> <a href="http://www.youtube.com/watch?v=_8MJATYsqbY&feature=share&t=1h41m59s">(Video
+    Analytics Data with Custom Events and Variables</a> - Josh Wilson <a href="/files/Wilson-c4l14.pdf">(Slides)</a> <a href="http://www.youtube.com/watch?v=_8MJATYsqbY&feature=share&t=1h41m59s">(Video
     stream)</a></li>
 <li>11:40-12:00 - <a href="/conference/2014/back">Discovering your Discovery
-    System in Real Time</a> - Godmar Back and Annette
-    Bailey <a href="http://www.youtube.com/watch?v=_8MJATYsqbY&feature=share&t=1h59m25s">(Video
+    System in Real Time</a> - Godmar Back and Annette Bailey <a href="http://www.youtube.com/watch?v=_8MJATYsqbY&feature=share&t=1h59m25s">(Video
     stream)</a></li>
 <li>12:10-13:10 - <em>Lunch</em></li>
 <li>13:10-13:15 - <em>Housekeeping</em></li>
 <li>13:15-13:35 - <a href="/conference/2014/scott">Structured Data NOW:
-    seeding schema.org in library systems</a> - Dan
-    Scott <a href="http://goo.gl/Z3PWwS">(Slides)</a> <a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=2m3s">(Video
+    seeding schema.org in library systems</a> - Dan Scott <a href="http://goo.gl/Z3PWwS">(Slides)</a> <a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=2m3s">(Video
     stream)</a></li>
 <li>13:35-13:55 - <a href="/conference/2014/westrum">Next Generation Catalogue
-- RDF as a Basis for New Services</a> - Anne-Lena Westrum, Benjamin Rokseth,
-Asgeir Rekkavik, and Petter Goksøyr
+- RDF as a Basis for New Services</a> - Anne-Lena Westrum, Benjamin Rokseth, Asgeir Rekkavik, and Petter Goksøyr
 Åsen <a href="/files/Rekkavik-Westrum-c4l14.pptx">(Slides)</a> <a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=25m53s">(Video
 stream)</a></li>
 <li>13:55-14:15 - <a href="/conference/2014/beswick">More Like This:
-    Approaches to Recommending Related Items using Subject Headings</a> -
-    Kevin
-    Beswick <a href="/files/morelikethis-nonwide.pdf">(Slides)</a> <a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=47m57s">(Video
+    Approaches to Recommending Related Items using Subject Headings</a> - Kevin Beswick <a href="/files/morelikethis-nonwide.pdf">(Slides)</a> <a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=47m57s">(Video
     stream)</a></li>
 <li>14:15-14:30 - <em>Break (coffee and food)</em></li>
 <li>14:30-15:20
@@ -122,8 +117,8 @@ Sessions I (Reports on Wiki)</a></strong></li>
 Talks I</a></strong><a href="http://www.youtube.com/watch?v=fCaBnzZZDug&feature=share&t=1h10m53s"> (Video stream)</a></li>
 <li>16:40-16:50 - Daily Wrap-up</li>
 <li>17:00-19:30
-- <em><a href="https://twitter.com/search?q=%23c4l14%20hunt&amp;src=typd"></a>Tour
-of Hunt Library @ NCSU</em></li>
+- <em><a href="https://twitter.com/search?q=%23c4l14%20hunt&amp;src=typd">Tour
+of Hunt Library @ NCSU</a></em></li>
 </ul>
 
 

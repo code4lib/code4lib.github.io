@@ -13,6 +13,7 @@ categories:
 - code4lib 2007
 layout: page
 title: 2007 Code4Lib Conference Lightning Talks
+permalink: /conference/2007/lightningtalks
 created: 1150397106
 ---
 <img src="http://www.code4lib.org/files/lightning.jpg" width="100" align="left" style="padding: 15px" />A lightning talk is a fast paced 5 minute talk on the topic of your choosing. If you'd like to do a lightning talk please add your name, topic to this page. You can do more than one if you want, but if the lots fill up (there are 30 of them) you might have to choose which one you want to do.

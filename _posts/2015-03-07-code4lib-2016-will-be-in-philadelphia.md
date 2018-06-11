@@ -3,6 +3,7 @@ categories:
 - code4lib2016
 layout: story
 title: Code4Lib 2016 will be in Philadelphia
+permalink: /conference/2016/philadelphia
 created: 1425771610
 ---
 <p>

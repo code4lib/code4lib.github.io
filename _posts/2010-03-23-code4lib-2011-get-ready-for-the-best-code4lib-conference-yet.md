@@ -4,6 +4,7 @@ categories:
 - code4lib 2011
 layout: page
 title: 'Code4Lib 2011: Get Ready for the Best Code4lib Conference Yet!'
+permalink: /conference/2011
 created: 1269347746
 ---
 Code4lib 2011 is a loosely-structured conference for library technologists to commune, gather/create/share ideas and software, be inspired, and forge collaborations.

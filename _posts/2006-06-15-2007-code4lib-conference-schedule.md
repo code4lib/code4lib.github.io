@@ -9,6 +9,7 @@ categories:
 - code4lib 2007
 layout: page
 title: 2007 Code4Lib Conference Schedule
+permalink: /conference/2007/schedule
 created: 1150396975
 ---
 <p>Presentations and videos are on individual presentation pages and the <span class="summary"><a href="/2007/lightningtalks">Lightning Talks</a></span> page. In addition to <a href="http://video.google.com/videosearch?q=code4lib+2007&sitesearch=&start=0">Google Video</a>, video is being hosted in high def format at the <a href="http://www.archive.org/search.php?query=code4lib%20AND%202007%20AND%20collection%3Aopensource_movies">Internet Archive</a>.

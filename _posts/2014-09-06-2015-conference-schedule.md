@@ -3,6 +3,7 @@ categories:
 - code4lib 2015
 layout: page
 title: 2015 Conference Schedule
+permalink: /conference/2015/schedule
 created: 1410030541
 ---
 <div itemscope itemtype="http://schema.org/BusinessEvent">

@@ -3,6 +3,7 @@ categories:
 - code4lib 2013
 layout: page
 title: Code4Lib 2013 Schedule
+permalink: /conference/2013/schedule
 created: 1351897007
 ---
 Schedule for the 2013 Code4Lib Conference in Chicago, IL.
@@ -26,7 +27,7 @@ Schedule for the 2013 Code4Lib Conference in Chicago, IL.
 <li><a href="http://wiki.code4lib.org/index.php/2013_preconference_proposals#Drupal4lib_Sub-con_Barcamp">Drupal4lib Sub-con Barcamp</a></li>
 </ul>
 
-<p class"date"><a href="http://wiki.code4lib.org/index.php/2013_preconference_proposals#Half_Day_Morning">Morning Pre-Conferences</a> (09:00 - 12:00)</p>
+<p class="date"><a href="http://wiki.code4lib.org/index.php/2013_preconference_proposals#Half_Day_Morning">Morning Pre-Conferences</a> (09:00 - 12:00)</p>
 <ul>
 <li><a href="http://wiki.code4lib.org/index.php/2013_preconference_proposals#Open_space_session">Open space session</a></li>
 <li><a href="http://wiki.code4lib.org/index.php/2013_preconference_proposals#Delivery_services">Delivery services</a></li>
