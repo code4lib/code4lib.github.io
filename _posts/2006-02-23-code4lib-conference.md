@@ -22,7 +22,7 @@ created: 1140709209
 <li><a href="/conference/2010/">code4lib 2010</a> - Asheville, NC. February 22 - 25.  See the <a href="/conference/2010/schedule">schedule</a> for presentations/videos.</li>
 <li><a href="/conference/2009/">code4lib 2009</a> - Providence, RI. February 23 - 26.  See the <a href="/conference/2009/schedule">schedule</a> for presentations/videos.</li>
 <li><a href="/conference/2008/">code4lib 2008</a> - Portland, OR. February 25 - 28.  See the <a href="/conference/2008/schedule">schedule</a> for presentations/videos.</li>
-<li><a href="/conference/2007/">code4lib 2007</a> - Athens, GA. February 28 - March 2.  See the <a href="/2007/schedule">schedule</a> for presentations/videos.</li>
+<li><a href="/conference/2007/">code4lib 2007</a> - Athens, GA. February 28 - March 2.  See the <a href="/conference/2007/schedule">schedule</a> for presentations/videos.</li>
 <li><a href="/conference/2006/">code4lib 2006</a> - Corvallis, OR. February 15 - 17. See the <a href="/conference/2006/schedule">schedule</a> for presentation slides.</li>
 </ul>
 

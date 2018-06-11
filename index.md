@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Code4Lib.org was migrated from Drupal to Jekyll in June 2018. Some
+links may still be broken. To report issues or help fix see:
+<a href="https://github.com/code4lib/code4lib.org">https://github.com/code4lib/code4lib.org</a>
