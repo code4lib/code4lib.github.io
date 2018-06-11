@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2009
-layout: story
+layout: page
 title: code4lib2009 keynote voting
 created: 1222787452
 ---

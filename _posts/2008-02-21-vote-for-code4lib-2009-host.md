@@ -7,7 +7,7 @@ excerpt: "[<strong>NOTE: Click <a href=\"/node/241\">here</a> to see the whole p
 categories:
 - conferences
 - code4lib 2009
-layout: story
+layout: page
 title: Vote for Code4Lib 2009 Host!
 created: 1203607038
 ---

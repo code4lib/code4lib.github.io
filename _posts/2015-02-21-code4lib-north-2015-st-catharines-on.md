@@ -1,7 +1,7 @@
 ---
 categories:
 - meetings
-layout: story
+layout: page
 title: 'Code4Lib North 2015: St. Catharines, ON'
 created: 1424552436
 ---

@@ -3,7 +3,7 @@ excerpt: "If you're active in Code4Lib and you'll be attending ALA Midwinter in 
   in January, put this on your meeting calendar:\r\n\r\nLITA Town Hall Meeting, Monday,
   January 26, 8:00am - 10:00am (includes breakfast!)\r\n\r"
 categories: []
-layout: blog
+layout: page
 title: Calling all Code4Libers Attending Midwinter
 created: 1228513198
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: blog
+layout: page
 title: Discussion for Elsevier App Challenge during Code4Lib 2012
 created: 1325186817
 ---

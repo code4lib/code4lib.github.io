@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: story
+layout: page
 title: code4lib group on LInkedIn
 created: 1215086514
 ---

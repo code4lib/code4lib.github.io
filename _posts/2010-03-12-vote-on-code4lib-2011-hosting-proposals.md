@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2011
-layout: blog
+layout: page
 title: Vote on Code4Lib 2011 hosting proposals
 created: 1268443406
 ---

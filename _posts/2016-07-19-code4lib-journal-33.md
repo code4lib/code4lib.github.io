@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: story
+layout: page
 title: 'Code4Lib Journal #33'
 created: 1468942327
 ---

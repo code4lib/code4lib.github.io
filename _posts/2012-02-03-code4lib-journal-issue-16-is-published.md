@@ -17,7 +17,7 @@ excerpt: "<strong><a href=\"http://journal.code4lib.org/articles/6616\">Editoria
   XSLT’s SQL Extension with Encyclopedia Virginia</a></strong>\r\n\r\nMatthew Gibson\r\n\r"
 categories:
 - journal
-layout: story
+layout: page
 title: Code4Lib Journal Issue 16 is published!
 created: 1328306415
 ---

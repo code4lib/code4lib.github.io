@@ -10,7 +10,7 @@ excerpt: "If you have a blog please consider adding a playing card to your site:
   logs. \r"
 categories:
 - conferences
-layout: story
+layout: page
 title: code4lib card
 created: 1135016991
 ---

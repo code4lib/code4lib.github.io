@@ -3,7 +3,7 @@ categories:
 - metadata
 - conferences
 - code4lib 2006
-layout: story
+layout: page
 title: conference schedule in hCalendar
 created: 1137170473
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - metadata
-layout: story
+layout: page
 title: barton data
 created: 1164662870
 ---

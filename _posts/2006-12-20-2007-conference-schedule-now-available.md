@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2007
-layout: blog
+layout: page
 title: 2007 Conference Schedule Now Available
 created: 1166629867
 ---

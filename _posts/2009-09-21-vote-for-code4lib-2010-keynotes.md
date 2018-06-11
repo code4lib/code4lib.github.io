@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: blog
+layout: page
 title: Vote for code4lib 2010 keynotes!
 created: 1253561650
 ---

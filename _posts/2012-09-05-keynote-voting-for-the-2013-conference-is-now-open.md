@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2013
-layout: blog
+layout: page
 title: Keynote voting for the 2013 conference is now open!
 created: 1346876411
 ---

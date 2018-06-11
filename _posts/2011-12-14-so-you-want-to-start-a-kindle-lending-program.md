@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: blog
+layout: page
 title: So you want to start a Kindle lending program
 created: 1323903061
 ---

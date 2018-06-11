@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: blog
+layout: page
 title: 2010 Code4Lib Conference Prepared Talks Voting Now Open!
 created: 1258432157
 ---

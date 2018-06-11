@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2006
-layout: story
+layout: page
 title: Holiday Inn Express
 created: 1139851961
 ---

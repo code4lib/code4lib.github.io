@@ -1,7 +1,7 @@
 ---
 categories:
 - irc
-layout: story
+layout: page
 title: "#code4lib logging"
 created: 1142868643
 ---

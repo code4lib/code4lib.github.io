@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: blog
+layout: page
 title: Issue 38 of the Code4Lib Journal
 created: 1508340226
 ---

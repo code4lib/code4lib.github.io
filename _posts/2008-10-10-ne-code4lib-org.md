@@ -1,7 +1,7 @@
 ---
 categories:
 - meetings
-layout: story
+layout: page
 title: ne.code4lib.org
 created: 1223641637
 ---

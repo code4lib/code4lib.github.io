@@ -9,7 +9,7 @@ excerpt: "If you are in town after the conference and are looking for something 
 categories:
 - conferences
 - code4lib 2006
-layout: story
+layout: page
 title: Portland Jazz Festival
 created: 1137689406
 ---

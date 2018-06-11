@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: blog
+layout: page
 title: LinkedIn Group Growing Fast
 created: 1216138580
 ---

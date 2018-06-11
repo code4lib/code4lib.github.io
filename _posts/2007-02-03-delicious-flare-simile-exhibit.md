@@ -10,7 +10,7 @@ excerpt: "In looking for a solution to organize  a local elementary school libra
 categories:
 - ruby
 - code4lib 2007
-layout: blog
+layout: page
 title: Delicious!  Flare + SIMILE Exhibit
 created: 1170570191
 ---

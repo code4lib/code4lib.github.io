@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: story
+layout: page
 title: planet code4lib & blogs
 created: 1133620022
 ---

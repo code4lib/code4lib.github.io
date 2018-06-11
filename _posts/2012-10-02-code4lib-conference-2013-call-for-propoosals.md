@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2013
-layout: story
+layout: page
 title: Code4Lib Conference 2013 Call for Propoosals
 created: 1349206991
 ---

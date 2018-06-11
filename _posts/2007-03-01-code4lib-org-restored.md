@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2007
-layout: story
+layout: page
 title: Code4Lib.org Restored
 created: 1172792764
 ---

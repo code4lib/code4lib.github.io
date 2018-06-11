@@ -9,7 +9,7 @@ excerpt: "Oregon State University Libraries is proud to announce the recipients 
   his education in computer programming and information science.\r"
 categories:
 - code4lib 2007
-layout: story
+layout: page
 title: 2007 Code4lib Scholarship Recipients
 created: 1170701915
 ---

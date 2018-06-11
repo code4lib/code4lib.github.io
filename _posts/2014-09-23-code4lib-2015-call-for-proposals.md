@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2015
-layout: story
+layout: page
 title: 'Code4Lib 2015: Call for Proposals'
 created: 1411488765
 ---

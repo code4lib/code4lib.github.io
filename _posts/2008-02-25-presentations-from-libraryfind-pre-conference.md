@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: story
+layout: page
 title: Presentations from LibraryFind pre-conference
 created: 1204010518
 ---

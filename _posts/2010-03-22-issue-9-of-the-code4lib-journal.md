@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: blog
+layout: page
 title: Issue 9 of the Code4Lib Journal
 created: 1269282915
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: blog
+layout: page
 title: Code4Lib 2010 Hosting Proposals
 created: 1234812134
 ---

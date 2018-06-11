@@ -2,7 +2,7 @@
 categories:
 - irc
 - java
-layout: story
+layout: page
 title: "#code4lib logging"
 created: 1168432944
 ---

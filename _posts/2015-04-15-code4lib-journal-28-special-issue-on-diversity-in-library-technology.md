@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: story
+layout: page
 title: 'Code4Lib Journal #28: Special Issue on Diversity in Library Technology'
 created: 1429108689
 ---

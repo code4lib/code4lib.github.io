@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2014
-layout: blog
+layout: page
 title: Code4Lib 2014 Conference Proposals
 created: 1364488857
 ---

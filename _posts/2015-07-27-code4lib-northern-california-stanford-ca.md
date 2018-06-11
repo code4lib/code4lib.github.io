@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: story
+layout: page
 title: 'Code4Lib Northern California: Stanford, CA'
 created: 1438018724
 ---

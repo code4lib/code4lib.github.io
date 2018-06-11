@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: story
+layout: page
 title: code4lib2010 venue voting
 created: 1235104057
 ---

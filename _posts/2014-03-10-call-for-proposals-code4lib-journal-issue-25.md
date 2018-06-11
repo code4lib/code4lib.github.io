@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: blog
+layout: page
 title: 'Call for proposals: Code4Lib Journal, issue 25'
 created: 1394475792
 ---

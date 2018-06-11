@@ -19,7 +19,7 @@ excerpt: "The Code4Lib 2014 Keynote Speakers Committee is excited to announce th
 categories:
 - conferences
 - code4lib 2014
-layout: blog
+layout: page
 title: Code4Lib 2014 Keynote Speakers
 created: 1384281682
 ---

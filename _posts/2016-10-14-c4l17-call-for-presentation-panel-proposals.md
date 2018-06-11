@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: story
+layout: page
 title: 'C4L17: Call for Presentation/Panel proposals'
 created: 1476461105
 ---

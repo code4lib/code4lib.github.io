@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: story
+layout: page
 title: Code4Lib 2010 Registration
 created: 1260992067
 ---

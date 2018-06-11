@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: blog
+layout: page
 title: Code4Lib 2008 will be in Portland, OR
 created: 1172365619
 ---

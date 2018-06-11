@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: story
+layout: page
 title: Call for Code4Lib 2009 Hosting Proposals
 created: 1201907163
 ---

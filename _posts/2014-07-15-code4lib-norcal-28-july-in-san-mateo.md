@@ -2,7 +2,7 @@
 categories:
 - conferences
 - meetings
-layout: story
+layout: page
 title: Code4Lib NorCal 28 July in San Mateo
 created: 1405459776
 ---

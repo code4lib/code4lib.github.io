@@ -5,7 +5,7 @@ excerpt: "I received the following email today, which is in reference to the Cod
   with Groups. We introduced a new searchable directory in July, and last Thursday,
   we made some changes to the group management tools.</p>"
 categories: []
-layout: blog
+layout: page
 title: Update from LinkedIn
 created: 1219440647
 ---

@@ -10,7 +10,7 @@ excerpt: "<h3><a name=\"My_Adventures_in_Getting_Data_into_the_ArchivistsToolkit
   buttons on phpmyadmn. We ended up with two tables; one described the donors, the
   other the accessions linked to donors by via donor ids.</p>"
 categories: []
-layout: blog
+layout: page
 title: My Adventures in Getting Data into the ArchivistsToolkit
 created: 1173704410
 ---

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: blog
+layout: page
 title: Code4Lib Blog Anthology
 created: 1171402866
 ---

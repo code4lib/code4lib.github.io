@@ -7,7 +7,7 @@ excerpt: "If you are doing a presentation and wants your desktop to be captured 
   for Windows</a>:\r"
 categories:
 - code4lib 2008
-layout: blog
+layout: page
 title: Desktop Presenter software
 created: 1204056946
 ---

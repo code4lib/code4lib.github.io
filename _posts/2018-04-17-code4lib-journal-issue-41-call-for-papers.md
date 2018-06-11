@@ -6,7 +6,7 @@ excerpt: "We are now accepting proposals for publication in our 41st issue. Don'
   or to journal@code4lib.org by Friday, May 11, 2018.  When submitting, please include
   the title  \r\nor subject of the proposal in the subject line of the email message."
 categories: []
-layout: story
+layout: page
 title: Code4Lib Journal Issue 41 Call for Papers
 created: 1523973918
 ---

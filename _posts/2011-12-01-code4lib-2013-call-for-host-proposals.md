@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: story
+layout: page
 title: Code4Lib 2013 Call for Host Proposals
 created: 1322757039
 ---

@@ -11,7 +11,7 @@ excerpt: "[<strong>Update</strong> (2006-03-16): the new home for unAPI and this
   that the <a href=\"http://cipolo.med.yale.edu/mailman/listinfo/gcs-pcs-list\">gcs-pcs-list</a>
   is the list of record for unAPI development.\r"
 categories: []
-layout: story
+layout: page
 title: unapi revision 1
 created: 1140163347
 ---

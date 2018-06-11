@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: blog
+layout: page
 title: ruby-marc 0.5.0 released
 created: 1336416659
 ---

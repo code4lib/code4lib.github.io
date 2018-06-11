@@ -13,7 +13,7 @@ categories:
 - conferences
 - code4lib 2007
 - code4lib 2008
-layout: blog
+layout: page
 title: Polling for interest in a European code4lib
 created: 1170773569
 ---

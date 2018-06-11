@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: story
+layout: page
 title: Issue 37 of the Code4Lib Journal
 created: 1500426976
 ---

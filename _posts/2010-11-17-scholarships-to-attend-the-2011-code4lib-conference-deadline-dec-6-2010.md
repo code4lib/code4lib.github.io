@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2011
-layout: blog
+layout: page
 title: Scholarships to Attend the 2011 Code4Lib Conference  (Deadline Dec. 6, 2010)
 created: 1289999061
 ---

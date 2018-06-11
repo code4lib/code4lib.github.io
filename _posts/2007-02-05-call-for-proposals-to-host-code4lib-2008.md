@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: blog
+layout: page
 title: Call for Proposals to Host Code4Lib 2008
 created: 1170703175
 ---

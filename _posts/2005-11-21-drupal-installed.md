@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: story
+layout: page
 title: drupal installed
 created: 1132635313
 ---

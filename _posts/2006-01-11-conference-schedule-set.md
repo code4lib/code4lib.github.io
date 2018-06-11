@@ -10,7 +10,7 @@ excerpt: "The Code4Lib <a href=\"/2006/schedule\">Conference Schedule</a> is now
 categories:
 - conferences
 - code4lib 2006
-layout: story
+layout: page
 title: Conference Schedule Set
 created: 1136992363
 ---

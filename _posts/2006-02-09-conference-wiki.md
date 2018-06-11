@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: story
+layout: page
 title: conference wiki
 created: 1139505205
 ---
