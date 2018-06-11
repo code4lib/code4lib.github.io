@@ -1,0 +1,33 @@
+Although the Code4Lib logo is released under a Creative Commons Attribution-Share Alike 3.0 United States License (http://creativecommons.org/licenses/by-sa/3.0/us/), for consistency sake it would be best to adhere to the guidelines below when creating derivative works.
+
+--------
+
+Colors:
+
+Brown (everything but curly brackets)
+
+ -CMYK: C 29, M 79, Y 71, K 73
+ -RGB: R 82, G 45, B 36
+ -Pantone: PMS 4695 C
+ -HEX: 522D24
+ -B&W: 90% Black
+ -Reverse: 30% Black
+
+Blue (curly brackets)
+
+ -CMYK: C 59, M 8, Y 9, K 19
+ -RGB: R 94, G 156, B 174
+ -Pantone: PMS 549 C
+ -HEX: 5E9CAE
+ -B&W: 40% Black
+ -Reverse: 60% Black
+
+--------
+
+Fonts:
+
+The logo is based on the font Centabel Book.
+
+When additional text is added for variations of Code4Lib, the font used is Tunga. This is a Microsoft Font. It can also be found on various websites for use machines not running Windows. The size is around 70-80pt, depending on the amount of text, with tracking of 150. It is in all caps and placed somewhere around the Code4Lib logo that is visually pleasing. This text is also brown.
+
+Visit http://www.adeliedesign.com/c4liblogo/ for variations you can work from.

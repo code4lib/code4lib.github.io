@@ -1,0 +1,189 @@
+unAPI revision 0
+================
+
+Background
+
+unAPI is a simple website API convention. There are many wonderful
+APIs and protocols for syndicating, searching, and harvesting content
+from diverse services on the web. They're all great, and they're all
+already widely used, but they're all different. We want one API for
+the most basic operations necessary to perform simple clipboard-copy
+functions across all sites. We also want this API to be able to be
+easily layered on top of other well-known APIs.
+
+                              Objective
+
+The objective of unAPI is to enable web sites with HTML interfaces to
+information-rich objects to simultaneously publish richly structured
+metadata for those objects, or those objects themselves, in a
+predictable and consistent way for machine processing.
+
+                             How it works
+
+unAPI consists of three parts:
+
+ 1. A URI microformat: describes a standard way of identifying
+    individual information-rich objects on arbitrary web pages;
+ 2. An HTML "autodiscovery" link pointing to a unAPI service
+    applicable to objects on particular sites;
+ 3. A small set of HTTP interface functions for accessing identified
+    objects and information about them. Some of these functions have a
+    standardized response format.
+
+1. A URI microformat
+
+(note: this has not been endorsed by the microformat project). for
+identifiable objects referenced on a page, add an HTML block inside
+the parent element representing those objects that looks like this:
+
+  <span class="uri">some-uri</span>
+
+For example, if you have a reference to the Pubmed reference with pmid
+12345678, you would publish:
+
+  <span class="uri">info:pmid/12345678</span>
+
+Inside the object representation's parent element. For example:
+
+  <div class="reference"><span
+  class="uri">info:pmid/12345678</span><!--other HTML elements
+  rendered for this referenced item--></div>
+
+It is not required that the span-uri element be the first child of the
+parent element.
+
+2. An autodiscovery link pointing to an appropriate unAPI service
+
+Each web page containing at least one span-uri must also contain an
+HTML LINK element for unAPI autodiscovery, having the following
+attribute values:
+
+  <link rel="meta" type="text/javascript" title="unAPI"
+  href="http://example.com/unapi/" />
+
+...where the value of the href attribute is a URL where unAPI requests
+are to be directed, with the trailing slash.
+
+3. HTTP interface functions
+
+The basic unAPI functions. All responses are expressed in JSON. All
+responses comprise a two-item list including:
+
+1. A header object with a required key "status" and status code value,
+and and optional key "message" with a string value providing further
+explaination for a particular status, and
+Possible status codes are from HTTP and include:
+
+  * 200: OK, any successful request.
+  * 400: Bad request, for requests that are incorrect or outside of
+    this specification.
+  * 404: Not found, for requests on URIs or specific URI
+    representation formats not available to this server.
+
+Valid examples of the header object include:
+
+  `{"status": 200}'
+
+  `{"status": 400, "message": "Unknown function"}'
+
+(spaces after ':'s added for readability here and in subsequent json
+examples)
+
+2. A response object, as defined below.
+
+For each of the following function definitions, UNAPI means "the full
+URL to an unAPI service", e.g. http://example.com/unapi , and URI
+means "some URI of interest", e.g. info:pmid/12345678. URIs in unAPI
+HTTP calls must be url-encoded.
+
+  * go: Go immediately to the application's standard HTML
+    dissemination of this URI, which could be a table of contents, or
+    a thumbnail, etc. For example:
+
+  UNAPI/go/URI
+
+unAPI/go has no specified response syntax; an HTML page should be
+expected.
+
+  * formats: List the metadata and object formats available for
+    objects at this site. For example:
+
+  UNAPI/formats
+
+unAPI/formats responses are a JSON object with object format names as
+keys and an object containing key/value pairs describing the format as
+values. Examples of format names (keys) might be any of "dc", "opml",
+"atom", "mods", or "didl". Supported format descriptor keys are:
+
+  * docs - a pointer to where information about this format may be
+    found
+  * name - a human-readable brief description of the format
+  * schema - a pointer to the format schema, if applicable
+  * type - the MIME type of the format
+
+An example response (not including the required header):
+
+  `{"mods": {"docs": "http://www.loc.gov/standards/mods/", "type":
+  "application/xml", "name": "Metadata Object Description Schema",
+  "schema": "http://www.loc.gov/mods/v3
+  http://www.loc.gov/standards/mods/v3/mods-3-0.xsd"}, "dc": {"docs":
+  "http://dublincore.org/", "type": "application/xml", "name": "Dublin
+  Core Metadata Element Set, Version 1.1", "schema":
+  "http://dublincore.org/documents/2003/04/02/dc-xml-guidelines/"}}'
+
+  * URI/formats: List the metadata and object formats available for
+    the object identified by this URI. For example:
+
+  UNAPI/URI/formats
+
+unAPI/URI/formats responses are defined as exactly the same as for
+UNAPI/formats, but only listing formats available for a particular
+URI, which may differ from the site-wide list.
+
+  * URI/SOMEFORMAT
+
+Returns the specified object in the specified format. For example:
+
+  UNAPI/URI/dc
+
+Would directly return a Dublin Core metadata record for the object
+identified by URI. Nothing limits unAPI to returning only metadata,
+however; it could as easily return objects themselves in bare formats,
+such as an image:
+
+  UNAPI/URI/jpeg
+
+Or in an object+metadata wrapper structure such as MPEG21 DIDL or
+METS:
+
+  UNAPI/URI/mets
+
+UNAPI/URI/SOMEFORMAT has no specified response syntax; the media-type
+and data should be as expected for the format requested.
+
+                      Example complete response
+
+This is an example response to the UNAPI/formats function.
+
+  `[{"status": 200}, {"mods": {"docs":
+  "http://www.loc.gov/standards/mods/", "type": "application/xml",
+  "name": "Metadata Object Description Schema", "schema":
+  "http://www.loc.gov/mods/v3
+  http://www.loc.gov/standards/mods/v3/mods-3-0.xsd"}, "dc": {"docs":
+  "http://dublincore.org/", "type": "application/xml", "name": "Dublin
+  Core Metadata Element Set, Version 1.1", "schema":
+  "http://dublincore.org/documents/2003/04/02/dc-xml-guidelines/"}}]'
+
+                             Open Issues
+
+Open for debate. Code wins over theory: simpler, easier-to-understand,
+less time-to-implement, etc.
+
+  * Should JSON and XML both be acceptable response formats? Should it
+    be something else entirely, like microformat-marked-up XHTML?
+  * Do we need response codes?
+  * Can the path order be more consistent?
+  * Are GET params better than fixed paths?
+  * Should we have a UNAPI/services function that lists all available
+    services with paths (e.g. rss, atom, opensearch, oai, etc.)
+  * Should there be an UNAPI/search function?

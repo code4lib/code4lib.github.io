@@ -1,0 +1,164 @@
+unAPI revision 1
+================
+
+Background
+
+unAPI is a simple website API convention. There are many wonderful
+APIs and protocols for syndicating, searching, and harvesting content
+from diverse services on the web. They're all great, and they're all
+already widely used, but they're all different. We want one API for
+the most basic operations necessary to perform simple clipboard-copy
+functions across all sites. We also want this API to be able to be
+easily layered on top of other well-known APIs.
+
+                              Objective
+
+The objective of unAPI is to enable web sites with HTML interfaces to
+information-rich objects to simultaneously publish richly structured
+metadata for those objects, or those objects themselves, in a
+predictable and consistent way for machine processing.
+
+                             How it works
+
+unAPI consists of three parts:
+
+ 1. A URI microformat: describes a standard way of identifying
+    individual information-rich objects on arbitrary web pages;
+ 2. An HTML "autodiscovery" link pointing to a unAPI service
+    applicable to objects on particular sites;
+ 3. A small set of HTTP interface functions for accessing identified
+    objects and information about them. Some of these functions have a
+    standardized response format.
+
+To minimize the scope of this specification, unAPI uses existing HTTP
+status codes with the meaning most appropriate for a particular unAPI
+response. See the section "Notes on HTTP status codes and error
+handling" below for a detailed summary.
+
+1. A URI microformat
+
+(note: this has not been endorsed by the microformats.org project).
+For identifiable objects referenced on a page, add an HTML SPAN block
+representing those objects that looks like this:
+
+  <span class="unapi-uri" title="URI"></span>
+
+You may place whatever you like, or nothing, inside the span. For
+example, if you have a reference to the Pubmed reference with pmid
+12345678, you could publish:
+
+  <span class="unapi-uri" title="info:pmid/12345678">PMID
+  12345678</span>
+
+2. An autodiscovery link pointing to an appropriate unAPI service
+
+Each web page containing at least one span should also contain an HTML
+LINK element for unAPI autodiscovery, having the following attribute
+values:
+
+  <link rel="meta" type="application/xml" title="unAPI"
+  href="http://example.com/unapi/" />
+
+...where the value of the href attribute is a URL where unAPI requests
+are to be directed, without the trailing '?'.
+
+3. HTTP interface functions
+
+The basic unAPI functions. There are three functions, which are
+specified with zero, one, or two GET key/value parameters. Note:
+"UNAPI" below is shorthand for "some unAPI base URL".
+
+1. UNAPI (no parameters)
+
+Returns a list of metadata formats supported at the site in a simple
+XML structure. Content-type must be "application/xml", and status code
+should be 200. The schema looks like:
+
+formats
+> format (can repeat)
+>> name (required; shorthand human-readable format name)
+>> type (required; should be a valid, accepted mime-type)
+>> docs (optional; should consist of a single url)
+>> namespace_uri (optional; should consist of a single url)
+>> schema_location (optional; should consist of a single url)
+
+An example response for a site that supports "oai_dc" and "mods"
+formats might be:
+
+<formats>
+<format>
+<name>oai_dc</name>
+<type>application/xml</name>
+<namespace_uri>http://www.openarchives.org/OAI/2.0/oai_dc/</namespace_uri>
+<schema_location>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema_location>
+</format>
+<format>
+<name>mods</name>
+<type>application/xml</name>
+<docs>http://www.loc.gov/standards/mods/</docs>
+</format>
+</formats>
+
+2. UNAPI?uri=URI
+
+In this section (and below), URI means "some URI of interest", e.g.
+info:pmid/12345678. URIs in unAPI HTTP calls must be url-encoded.
+
+Returns a list of metadata formats available for the specific object
+identified by URI. Content-type must be "application/xml", and status
+code should be 300 (Multiple Choices). The content payload is exactly
+the same as for the sitewide function described above, with the single
+addition of a "uri" element to indicate the requested URI.
+
+formats
+> uri (required, should be the requested URI)
+> format (can repeat)
+>> name (required; shorthand human-readable format name)
+>> type (required; should be a valid, accepted mime-type)
+>> docs (optional; should consist of a single url)
+>> namespace_uri (optional; should consist of a single url)
+>> schema_location (optional; should consist of a single url)
+
+An example response for an object available in "oai_dc" and "jpeg"
+formats might be:
+
+<formats>
+<uri>info:sid/example.com/12345</uri>
+<format>
+<name>oai_dc</name>
+<type>application/xml</name>
+<namespace_uri>http://www.openarchives.org/OAI/2.0/oai_dc/</namespace_uri>
+<schema_location>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema_location>
+</format>
+<format>
+<name>jpeg</name>
+<type>image/jpeg</name>
+</format>
+</formats>
+
+3. UNAPI?uri=URI&format=FORMAT
+
+In this section (and below), FORMAT means "some FORMAT as specified by
+the <name> element of the unAPI format list responses," e.g. oai_dc.
+
+Redirects the user to the object specified by URI in the format
+specified by FORMAT. The content-type should be the content-type
+specified in the <type> element within the unAPI format response for
+this format.
+
+            Notes on HTTP status codes and error handling
+
+unAPI uses existing HTTP status codes with the most explicitly
+appropriate meaning.
+
+  * the UNAPI function should return status code 200 Ok
+  * the UNAPI?uri=URI function should return status code 300 Multiple
+    Choices
+  * requests with non-unAPI parameters or an invalid combination of
+    unAPI parameters (e.g. "UNAPI?format=FORMAT") should return status
+    code 400 Bad Request
+  * requests for a URI that is not available on the server should
+    return 404 Not Found
+  * requests for a URI that is available on the server but for a
+    format that is not available for that URI should return status
+    code 406 Not Acceptable

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Code4Lib 2007 Presentation Audio</title>
+  <link rel="alternate" href="http://code4lib.org/2007/"/>
+  <link rel="self" href="http://code4lib.org/files/c4l07presaudio.xml" />
+  <updated>2007-03-17T20:00:00Z</updated>
+  <author>
+    <name>Code4Lib</name>
+    <uri>http://code4lib.org</uri>
+  </author>
+  <id>http://code4lib.org/files/c4l07presaudio.xml</id>
+  <logo>http://code4lib.org/themes/panizzi/logo.png</logo>
+  <rights>All audio licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License</rights>
+
+  <entry>
+    <title>Karen Schneider Keynote - Hurry up please it's time</title>
+    <link rel="alternate" href="http://code4lib.org/2007/schneider"/>
+    <link rel="enclosure" href="http://streaming.msu.edu/storemedia/download/ebyryan/c4l07audio/code4lib07_keynote_karen.mp3" type="audio/mpeg" length="48574080"/>
+    <id>http://code4lib.org/2007/schneider</id>
+    <author>
+    	<name>Karen Schneider</name>
+    </author>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <content>Keynote Presentation by Karen Schneider at Code4Lib 2007 in Athens, GA. The topic is broadly the future of libraries and of librarianship.</content>
+  </entry>
+</feed>

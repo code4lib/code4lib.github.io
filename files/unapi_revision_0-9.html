@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>unAPI revision 0</title>
+  <style>
+    h1 { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; font-size: 22px; font-weight: bold; }
+  div.writeboardbody { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; font-size: 14px; line-height: 19px; color: #000; }
+  div.writeboardbody h1 { font-size: 130%; }
+  div.writeboardbody h2 { font-size: 100%; }
+  div.writeboardbody h3 { font-size: 100%; }
+  </style>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1>unAPI revision 0</h1>
+
+<div class="writeboardbody">
+  <h1>Background</h1>
+
+
+	<p>unAPI is a simple website <span class="caps">API</span> convention.  There are many wonderful APIs and protocols for syndicating, searching, and harvesting content from diverse services on the web.  They&#8217;re all <strong>great</strong>, and they&#8217;re all already <strong>widely used</strong>, but they&#8217;re all <strong>different</strong>.  We want <strong>one <span class="caps">API</span></strong> for the most basic operations necessary to perform simple clipboard-copy functions across all sites.  We also want this <span class="caps">API</span> to be able to be easily layered on top of other well-known APIs.</p>
+
+
+	<h1>Objective</h1>
+
+
+	<p>The objective of unAPI is to enable web sites with <span class="caps">HTML</span> interfaces to information-rich objects to simultaneously publish richly structured metadata for those objects, or those objects themselves, in a predictable and consistent way for machine processing.</p>
+
+
+	<h1>How it works</h1>
+
+
+	<p>unAPI consists of three parts:</p>
+
+
+	<ol>
+	<li><span class="caps">A URI</span> microformat: describes a standard way of identifying individual information-rich objects on arbitrary web pages;</li>
+		<li>An <span class="caps">HTML </span>&#8220;autodiscovery&#8221; link pointing to a unAPI service applicable to objects on particular sites;</li>
+		<li>A small set of <span class="caps">HTTP</span> interface functions for accessing identified objects and information about them.  Some of these functions have a standardized response format.</li>
+	</ol>
+
+
+	<h2>1. <span class="caps">A URI</span> microformat</h2>
+
+
+	<p>(<strong>note</strong>: this has <em>not</em> been endorsed by the microformat project).  for identifiable objects referenced on a page, add an <span class="caps">HTML</span> block inside the parent element representing those objects that looks like this:</p>
+
+
+<blockquote>
+	<p>&lt;span class=&#8221;uri&#8221;&gt;some-uri&lt;/span&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>For example, if you have a reference to the Pubmed reference with pmid 12345678, you would publish:</p>
+
+
+<blockquote>
+	<p>&lt;span class=&#8221;uri&#8221;&gt;info:pmid/12345678&lt;/span&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>Inside the object representation&#8217;s parent element.  For example:</p>
+
+
+<blockquote>
+	<p>&lt;div class=&#8221;reference&#8221;&gt;&lt;span class=&#8221;uri&#8221;&gt;info:pmid/12345678&lt;/span&gt;&lt;!&#8212;other <span class="caps">HTML</span> elements rendered for this referenced item&#8212;&gt;&lt;/div&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>It is not required that the span-uri element be the first child of the parent element.</p>
+
+
+	<h2>2. An autodiscovery link pointing to an appropriate unAPI service</h2>
+
+
+	<p>Each web page containing at least one span-uri must also contain an <span class="caps">HTML LINK</span> element for unAPI autodiscovery, having the following attribute values:</p>
+
+
+<blockquote>
+	<p>&lt;link rel=&#8221;meta&#8221; type=&#8221;text/javascript&#8221; title=&#8221;unAPI&#8221; 
+     href=&#8221;http://example.com/unapi/&#8221; /&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>...where the value of the href attribute is a <span class="caps">URL</span> where unAPI requests are to be directed, with the trailing slash.</p>
+
+
+	<h2>3. <span class="caps">HTTP</span> interface functions</h2>
+
+
+	<p>The basic unAPI functions.  All responses are expressed in <a href="http://www.crockford.com/JSON/"><span class="caps">JSON</span></a>.  All responses comprise a two-item list including:</p>
+
+
+	<p>1. A header object with a required key &#8220;status&#8221; and status code value, and and optional key &#8220;message&#8221; with a string value providing further explaination for a particular status, and<br />Possible status codes are from <span class="caps">HTTP</span> and include:</p>
+
+
+	<ul>
+	<li>200: OK, any successful request.</li>
+		<li>400: Bad request, for requests that are incorrect or outside of this specification.</li>
+		<li>404: Not found, for requests on URIs or specific <span class="caps">URI</span> representation formats not available to this server.</li>
+	</ul>
+
+
+	<p>Valid examples of the header object include:</p>
+
+
+<blockquote>
+	<p>&#8216;{&#8220;status&#8221;: 200}&#8217;</p>
+
+</blockquote>
+
+
+
+
+<blockquote>
+	<p>&#8216;{&#8220;status&#8221;: 400, &#8220;message&#8221;: &#8220;Unknown function&#8221;}&#8217;</p>
+
+</blockquote>
+
+
+
+
+	<p>(spaces after &#8217;:&#8217;s added for readability here and in subsequent json examples)</p>
+
+
+	<p>2. A response object, as defined below.</p>
+
+
+	<p>For each of the following function definitions, <span class="caps">UNAPI</span> means &#8220;the full <span class="caps">URL</span> to an unAPI service&#8221;, e.g. http://example.com/unapi , and <span class="caps">URI</span> means &#8220;some <span class="caps">URI</span> of interest&#8221;, e.g. info:pmid/12345678.  URIs in unAPI <span class="caps">HTTP</span> calls must be url-encoded.</p>
+
+
+	<ul>
+	<li><strong>go</strong>: Go immediately to the application&#8217;s standard <span class="caps">HTML</span> dissemination of this <span class="caps">URI</span>, which could be a table of contents, or a thumbnail, etc. For example:</li>
+	</ul>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/go/URI</p>
+
+</blockquote>
+
+
+
+
+	<p>unAPI/go has no specified response syntax; an <span class="caps">HTML</span> page should be expected.</p>
+
+
+	<ul>
+	<li><strong>formats</strong>: List the metadata and object formats available for objects at this site.  For example:</li>
+	</ul>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/formats</p>
+
+</blockquote>
+
+
+
+
+	<p>unAPI/formats responses are a <span class="caps">JSON</span> object with object format names as keys and an object containing key/value pairs describing the format as values.  Examples of format names (keys) might be any of &#8220;dc&#8221;, &#8220;opml&#8221;, &#8220;atom&#8221;, &#8220;mods&#8221;, or &#8220;didl&#8221;.  Supported format descriptor keys are:</p>
+
+
+	<ul>
+	<li>docs &#8211; a pointer to where information about this format may be found</li>
+		<li>name &#8211; a human-readable brief description of the format</li>
+		<li>schema &#8211; a pointer to the format schema, if applicable</li>
+		<li>type &#8211; the <span class="caps">MIME</span> type of the format</li>
+	</ul>
+
+
+	<p>An example response (not including the required header):</p>
+
+
+<blockquote>
+	<p>&#8216;{&#8220;mods&#8221;: {&#8220;docs&#8221;: &#8220;http://www.loc.gov/standards/mods/&#8221;, &#8220;type&#8221;: &#8220;application/xml&#8221;, &#8220;name&#8221;: &#8220;Metadata Object Description Schema&#8221;, &#8220;schema&#8221;: &#8220;http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd&#8221;}, &#8220;dc&#8221;: {&#8220;docs&#8221;: &#8220;http://dublincore.org/&#8221;, &#8220;type&#8221;: &#8220;application/xml&#8221;, &#8220;name&#8221;: &#8220;Dublin Core Metadata Element Set, Version 1.1&#8221;, &#8220;schema&#8221;: &#8220;http://dublincore.org/documents/2003/04/02/dc-xml-guidelines/&#8221;}}&#8217;</p>
+
+</blockquote>
+
+
+
+
+	<ul>
+	<li><strong>URI/formats</strong>: List the metadata and object formats available for the object identified by this <span class="caps">URI</span>.  For example:</li>
+	</ul>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/URI/formats</p>
+
+</blockquote>
+
+
+
+
+	<p>unAPI/URI/formats responses are defined as exactly the same as for <span class="caps">UNAPI</span>/formats, but only listing formats available for a particular <span class="caps">URI</span>, which may differ from the site-wide list.</p>
+
+
+	<ul>
+	<li><strong>URI/SOMEFORMAT</strong></li>
+	</ul>
+
+
+	<p>Returns the specified object in the specified format.  For example:</p>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/URI/dc</p>
+
+</blockquote>
+
+
+
+
+	<p>Would directly return a Dublin Core metadata record for the object identified by <span class="caps">URI</span>.  Nothing limits unAPI to returning only metadata, however; it could as easily return objects themselves in bare formats, such as an image:</p>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/URI/jpeg</p>
+
+</blockquote>
+
+
+
+
+	<p>Or in an object+metadata wrapper structure such as <span class="caps">MPEG21 DIDL</span> or <span class="caps">METS</span>:</p>
+
+
+<blockquote>
+	<p><span class="caps">UNAPI</span>/URI/mets</p>
+
+</blockquote>
+
+
+
+
+	<p><span class="caps">UNAPI</span>/URI/SOMEFORMAT has no specified response syntax; the media-type and data should be as expected for the format requested.</p>
+
+
+	<h1>Example complete response</h1>
+
+
+	<p>This is an example response to the <span class="caps">UNAPI</span>/formats function.</p>
+
+
+<blockquote>
+	<p>&#8216;[{&#8220;status&#8221;: 200}, {&#8220;mods&#8221;: {&#8220;docs&#8221;: &#8220;http://www.loc.gov/standards/mods/&#8221;, &#8220;type&#8221;: &#8220;application/xml&#8221;, &#8220;name&#8221;: &#8220;Metadata Object Description Schema&#8221;, &#8220;schema&#8221;: &#8220;http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd&#8221;}, &#8220;dc&#8221;: {&#8220;docs&#8221;: &#8220;http://dublincore.org/&#8221;, &#8220;type&#8221;: &#8220;application/xml&#8221;, &#8220;name&#8221;: &#8220;Dublin Core Metadata Element Set, Version 1.1&#8221;, &#8220;schema&#8221;: &#8220;http://dublincore.org/documents/2003/04/02/dc-xml-guidelines/&#8221;}}]&#8217;</p>
+
+</blockquote>
+
+
+
+
+	<h1>Open Issues</h1>
+
+
+	<p>Open for debate.  Code wins over theory: simpler, easier-to-understand, less time-to-implement, etc.</p>
+
+
+	<ul>
+	<li>Should <span class="caps">JSON</span> and <span class="caps">XML</span> both be acceptable response formats?  Should it be something else entirely, like microformat-marked-up <span class="caps">XHTML</span>?</li>
+		<li>Do we need response codes?</li>
+		<li>Can the path order be more consistent?</li>
+		<li>Are <span class="caps">GET</span> params better than fixed paths?</li>
+		<li>Should we have a <span class="caps">UNAPI</span>/services function that lists all available services with paths (e.g. rss, atom, opensearch, oai, etc.)</li>
+		<li>Should there be an <span class="caps">UNAPI</span>/search function?</li>
+	</ul>
+</div>
+
+</body>
+</html>

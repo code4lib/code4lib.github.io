@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>unAPI revision 1</title>
+  <style>
+    h1 { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; font-size: 22px; font-weight: bold; }
+  div.writeboardbody { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; font-size: 14px; line-height: 19px; color: #000; }
+  div.writeboardbody h1 { font-size: 130%; }
+  div.writeboardbody h2 { font-size: 100%; }
+  div.writeboardbody h3 { font-size: 100%; }
+  </style>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1>unAPI revision 1</h1>
+
+<div class="writeboardbody">
+  <h1>Background</h1>
+
+
+	<p>unAPI is a simple website <span class="caps">API</span> convention.  There are many wonderful APIs and protocols for syndicating, searching, and harvesting content from diverse services on the web.  They&#8217;re all great, and they&#8217;re all already widely used, but they&#8217;re all different.  We want one <span class="caps">API</span> for the most basic operations necessary to perform simple clipboard-copy functions across all sites.  We also want this <span class="caps">API</span> to be able to be easily layered on top of other well-known APIs.</p>
+
+
+	<h1>Objective</h1>
+
+
+	<p>The objective of unAPI is to enable web sites with <span class="caps">HTML</span> interfaces to information-rich objects to simultaneously publish richly structured metadata for those objects, or those objects themselves, in a predictable and consistent way for machine processing.</p>
+
+
+	<h1>How it works</h1>
+
+
+	<p>unAPI consists of three parts:</p>
+
+
+	<ol>
+	<li><span class="caps">A URI</span> microformat: describes a standard way of identifying individual information-rich objects on arbitrary web pages;</li>
+		<li>An <span class="caps">HTML </span>&#8220;autodiscovery&#8221; link pointing to a unAPI service applicable to objects on particular sites;</li>
+		<li>A small set of <span class="caps">HTTP</span> interface functions for accessing identified objects and information about them.  Some of these functions have a standardized response format.</li>
+	</ol>
+
+
+	<p>To minimize the scope of this specification, unAPI uses existing <span class="caps">HTTP</span> status codes with the meaning most appropriate for a particular unAPI response.  See the section &#8220;Notes on <span class="caps">HTTP</span> status codes and error handling&#8221; below for a detailed summary.</p>
+
+
+	<h2>1. <span class="caps">A URI</span> microformat</h2>
+
+
+	<p>(<strong>note</strong>: this has <em>not</em> been endorsed by the microformats.org project).  For identifiable objects referenced on a page, add an <span class="caps">HTML SPAN</span> block representing those objects that looks like this:</p>
+
+
+<blockquote>
+	<p>&lt;span class=&#8221;unapi-uri&#8221; title=&#8221;URI&#8221;&gt;&lt;/span&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>You may place whatever you like, or nothing, inside the span.  For example, if you have a reference to the Pubmed reference with pmid 12345678, you could publish:</p>
+
+
+<blockquote>
+	<p>&lt;span class=&#8221;unapi-uri&#8221; title=&#8221;info:pmid/12345678&#8221;&gt;PMID 12345678&lt;/span&gt;</p>
+
+</blockquote>
+
+
+
+
+	<h2>2. An autodiscovery link pointing to an appropriate unAPI service</h2>
+
+
+	<p>Each web page containing at least one span should also contain an <span class="caps">HTML LINK</span> element for unAPI autodiscovery, having the following attribute values:</p>
+
+
+<blockquote>
+	<p>&lt;link rel=&#8221;meta&#8221; type=&#8221;application/xml&#8221; title=&#8221;unAPI&#8221; 
+     href=&#8221;http://example.com/unapi/&#8221; /&gt;</p>
+
+</blockquote>
+
+
+
+
+	<p>...where the value of the href attribute is a <span class="caps">URL</span> where unAPI requests are to be directed, without the trailing &#8217;?&#8217;.</p>
+
+
+	<h2>3. <span class="caps">HTTP</span> interface functions</h2>
+
+
+	<p>The basic unAPI functions.  There are three functions, which are specified with zero, one, or two <span class="caps">GET</span> key/value parameters.  Note: &#8220;UNAPI&#8221; below is shorthand for &#8220;some unAPI base <span class="caps">URL</span>&#8221;.</p>
+
+
+	<p>1. <span class="caps">UNAPI </span>(no parameters)</p>
+
+
+	<p>Returns a list of metadata formats supported at the site in a simple <span class="caps">XML</span> structure.  Content-type must be &#8220;application/xml&#8221;, and status code should be 200.  The schema looks like:</p>
+
+
+	<p>formats<br />> format (can repeat)<br />>> name (required; shorthand human-readable format name)<br />>> type (required; should be a valid, accepted mime-type)<br />>> docs (optional; should consist of a single url)<br />>> namespace_uri (optional; should consist of a single url)<br />>> schema_location (optional; should consist of a single url)</p>
+
+
+	<p>An example response for a site that supports &#8220;oai_dc&#8221; and &#8220;mods&#8221; formats might be:</p>
+
+
+	<p>&lt;formats&gt;<br />&lt;format&gt;<br />&lt;name&gt;oai_dc&lt;/name&gt;<br />&lt;type&gt;application/xml&lt;/name&gt;  <br />&lt;namespace_uri&gt;http://www.openarchives.org/OAI/2.0/oai_dc/&lt;/namespace_uri&gt;<br />&lt;schema_location&gt;http://www.openarchives.org/OAI/2.0/oai_dc.xsd&lt;/schema_location&gt;<br />&lt;/format&gt;<br />&lt;format&gt;<br />&lt;name&gt;mods&lt;/name&gt;<br />&lt;type&gt;application/xml&lt;/name&gt;  <br />&lt;docs&gt;http://www.loc.gov/standards/mods/&lt;/docs&gt;<br />&lt;/format&gt;<br />&lt;/formats&gt;</p>
+
+
+	<p>2. <span class="caps">UNAPI</span>?uri=URI</p>
+
+
+	<p>In this section (and below), <span class="caps">URI</span> means &#8220;some <span class="caps">URI</span> of interest&#8221;, e.g. info:pmid/12345678.  URIs in unAPI <span class="caps">HTTP</span> calls must be url-encoded.</p>
+
+
+	<p>Returns a list of metadata formats available for the specific object identified by <span class="caps">URI</span>.  Content-type must be &#8220;application/xml&#8221;, and status code should be 300 (Multiple Choices).   The content payload is exactly the same as for the sitewide function described above, with the single addition of a &#8220;uri&#8221; element to indicate the requested <span class="caps">URI</span>.</p>
+
+
+	<p>formats<br />> uri (required, should be the requested <span class="caps">URI</span>)<br />> format (can repeat)<br />>> name (required; shorthand human-readable format name)<br />>> type (required; should be a valid, accepted mime-type)<br />>> docs (optional; should consist of a single url)<br />>> namespace_uri (optional; should consist of a single url)<br />>> schema_location (optional; should consist of a single url)</p>
+
+
+	<p>An example response for an object available in &#8220;oai_dc&#8221; and &#8220;jpeg&#8221; formats might be:</p>
+
+
+	<p>&lt;formats&gt;<br />&lt;uri&gt;info:sid/example.com/12345&lt;/uri&gt;<br />&lt;format&gt;<br />&lt;name&gt;oai_dc&lt;/name&gt;<br />&lt;type&gt;application/xml&lt;/name&gt;  <br />&lt;namespace_uri&gt;http://www.openarchives.org/OAI/2.0/oai_dc/&lt;/namespace_uri&gt;<br />&lt;schema_location&gt;http://www.openarchives.org/OAI/2.0/oai_dc.xsd&lt;/schema_location&gt;<br />&lt;/format&gt;<br />&lt;format&gt;<br />&lt;name&gt;jpeg&lt;/name&gt;<br />&lt;type&gt;image/jpeg&lt;/name&gt;  <br />&lt;/format&gt;<br />&lt;/formats&gt;</p>
+
+
+	<p>3. <span class="caps">UNAPI</span>?uri=URI&#38;format=FORMAT</p>
+
+
+	<p>In this section (and below), <span class="caps">FORMAT</span> means &#8220;some <span class="caps">FORMAT</span> as specified by the &lt;name&gt; element of the unAPI format list responses,&#8221; e.g. oai_dc.</p>
+
+
+	<p>Redirects the user to the object specified by <span class="caps">URI</span> in the format specified by <span class="caps">FORMAT</span>.  The content-type should be the content-type specified in the &lt;type&gt; element within the unAPI format response for this format.</p>
+
+
+	<h1>Notes on <span class="caps">HTTP</span> status codes and error handling</h1>
+
+
+	<p>unAPI uses existing <span class="caps">HTTP</span> status codes with the most explicitly appropriate meaning.</p>
+
+
+	<ul>
+	<li>the <span class="caps">UNAPI</span> function should return status code 200 Ok</li>
+		<li>the <span class="caps">UNAPI</span>?uri=URI function should return status code 300 Multiple Choices</li>
+		<li>requests with non-unAPI parameters or an invalid combination of unAPI parameters (e.g. &#8220;UNAPI?format=FORMAT&#8221;) should return status code 400 Bad Request</li>
+		<li>requests for a <span class="caps">URI</span> that is not available on the server should return 404 Not Found</li>
+		<li>requests for a <span class="caps">URI</span> that is available on the server but for a format that is not available for that <span class="caps">URI</span> should return status code 406 Not Acceptable</li>
+	</ul>
+</div>
+
+</body>
+</html>

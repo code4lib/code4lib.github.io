@@ -1,0 +1,25 @@
+Code4Lib Logo is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License (http://creativecommons.org/licenses/by-sa/3.0/us/).
+
+--------
+
+You are free:
+
+* to Share -- to copy, distribute, display and perform the work
+
+* to Remix -- to make derivative works
+
+--------
+
+Under the following conditions:
+
+* Attribution. You must attribute the work in the manner specified: When making the work available for download, please provide a link to http://www.adeliedesign.com/c4liblogo/. If it is only being displayed, no link is needed.
+
+* Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar, or compatible license. Please provide a link to the source at http://www.adeliedesign.com/c4liblogo/.
+
+* Please see http://www.adeliedesign.com/c4liblogo/ or the file guidelines.txt for details on creation of derivatives. 
+
+--------
+
+# For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+
+# Apart from the remix rights granted under this license, nothing in this license impairs or restricts the author's moral rights.
