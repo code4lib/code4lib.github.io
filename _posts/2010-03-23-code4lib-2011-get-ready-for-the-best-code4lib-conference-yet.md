@@ -4,7 +4,7 @@ categories:
 - code4lib 2011
 layout: page
 title: 'Code4Lib 2011: Get Ready for the Best Code4lib Conference Yet!'
-permalink: /conference/2011
+permalink: /conference/2011/
 created: 1269347746
 ---
 Code4lib 2011 is a loosely-structured conference for library technologists to commune, gather/create/share ideas and software, be inspired, and forge collaborations.
@@ -34,14 +34,14 @@ Airport Shuttle: <a href="http://bloomingtonshuttle.com/airport.html">Bloomingto
 Note, if you are a conference speaker we have reserved you a space for registration but you still need to register using the link above and you will be allowed to register up until Dec 23, 2010, please make sure you choose prepared talk speaker or pre-conference speaker in your selection. To see a list of all accepted talk speakers please see - <a href="http://wiki.code4lib.org/index.php/2011_presenter_list">http://wiki.code4lib.org/index.php/2011_presenter_list</a>;. If you are a speaker and need help with registration please contact the <a href="http://wiki.code4lib.org/index.php/2011_committees_sign-up_page#Program_Committee">Code4Lib 2011 Program Planning Committee</a>.
 
 All other registrations are first come, first served, we will have a wait list once we hit the 250 person mark for the conference.
- 
+
 At the conference, there will be opportunities to sign up to give lightning talks and  organize breakouts.
 
 
 <strong>Event tag: c4l11</strong>
 
 <em> Want to help plan the conference? </em>
-To participate in planning, see <a href="http://groups.google.com/group/code4libcon">the community's conference planning listserv</a> and <a href="http://wiki.code4lib.org/index.php/Category:Code4Lib2011">wiki</a>. 
+To participate in planning, see <a href="http://groups.google.com/group/code4libcon">the community's conference planning listserv</a> and <a href="http://wiki.code4lib.org/index.php/Category:Code4Lib2011">wiki</a>.
 Read the <a href="https://wiki.dlib.indiana.edu/confluence/display/EVENTS/Code4Lib+2011+Proposal">Bloomington Code4Lib Proposal</a>.
 
 

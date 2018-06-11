@@ -11,8 +11,8 @@ created: 1140709209
 <p>Code4Lib conferences are subject to our community maintained <a href="https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md">CodeofConduct4Lib</a>
 
 <ul>
-<li><a href="/conference/2018/">code4lib 2018</a> - Washington, D.C. February 13-16. See the <a href="/conference/2018">announcement</a>.</li>
-<li><a href="/conference/2017/">code4lib 2017</a> - Los Angeles, CA. March 6-9. See the <a href="/conference/2017">announcement</a>.</li>
+<li><a href="/conference/2018/">code4lib 2018</a> - Washington, D.C. February 13-16. See the <a href="/conference/2018/">announcement</a>.</li>
+<li><a href="/conference/2017/">code4lib 2017</a> - Los Angeles, CA. March 6-9. See the <a href="/conference/2017/">announcement</a>.</li>
 <li><a href="/conference/2016/">code4lib 2016</a> - Philadelphia, PA. March 7-10. See the <a href="/conference/2016/philadelphia">initial announcement</a>.</li>
 <li><a href="/conference/2015/">code4lib 2015</a> - Portland, OR. February 9-12. See the <a href="/conference/2015/schedule">schedule</a>.</li>
 <li><a href="/conference/2014/">code4lib 2014</a> - Raleigh, NC. March 24-27. See the <a href="/conference/2014/schedule">schedule</a>.</li>

@@ -10,7 +10,7 @@ categories:
 - code4lib 2007
 layout: page
 title: 2007 Code4Lib Conference
-permalink: /conference/2007
+permalink: /conference/2007/
 created: 1150396752
 ---
 <strong>The <a href="/conference/2007/schedule">Conference Schedule</a> links to pages for each talk as well as to a <a href="/conference/2007/lightningtalks">Lightning Talk page</a>, which has links to presentation slides and video when they are available.</strong>
@@ -35,7 +35,7 @@ created: 1150396752
 
 <dt><strong>Location</strong></dt>
 <ul>
-<li><a href="http://www.georgiacenter.uga.edu/">The Georgia Center for Continuing Education</a> in <a href="http://maps.google.com/maps?f=q&hl=en&q=1197+South+Lumpkin+Street,+Athens,+Georgia+30602&ie=UTF8&om=1">Athens, Georgia, USA</a>.</li> 
+<li><a href="http://www.georgiacenter.uga.edu/">The Georgia Center for Continuing Education</a> in <a href="http://maps.google.com/maps?f=q&hl=en&q=1197+South+Lumpkin+Street,+Athens,+Georgia+30602&ie=UTF8&om=1">Athens, Georgia, USA</a>.</li>
 </ul>
 <dd></dd>
 
@@ -55,7 +55,7 @@ created: 1150396752
 
 <dt><strong>Accommodations</strong></dt>
 <ul>
-<li>The Georgia Center has a hotel attached, and rooms are blocked off for the conference that can be reserved at the time of registration. <b>Update:</b>The Georgia Center hotel is now fully booked, try <a href="http://www.code4lib.org/files/overflow.pdf">other hotels nearby</a>. 
+<li>The Georgia Center has a hotel attached, and rooms are blocked off for the conference that can be reserved at the time of registration. <b>Update:</b>The Georgia Center hotel is now fully booked, try <a href="http://www.code4lib.org/files/overflow.pdf">other hotels nearby</a>.
 </li>
 <li><a href="/node/147">Accommodation Sharing Notices</a>
 </li>
@@ -98,4 +98,3 @@ Fly into:
 
 
 <p><a href="mailto:corrado@TCNJ.EDU?subject=2007 Permission to Record&body=I agree to allow my participation in the 2007 Code4Lib Conference to be electronically recorded. I understand that any resulting products may be made available on the web under the Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License (http://creativecommons.org/licenses/by-nc-sa/2.5/). I agree to my name being associated with any recording of me, or supporting materials of such recordings, that may be made available on the web.">Email your permission to be recorded</a></p>
-
