@@ -26,6 +26,23 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+// Header logo
+
+.site-title {
+  float: none !important;
+}
+
+.site-logo {
+  display:block;
+  margin:auto;
+  padding: 0.5em;
+}
+
+.site-nav {
+  float: none !important;
+  text-align: center;
+}
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
