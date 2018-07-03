@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2015
-layout: page
+layout: post
 title: 2015 Conference Schedule
 permalink: /conference/2015/schedule
 created: 1410030541

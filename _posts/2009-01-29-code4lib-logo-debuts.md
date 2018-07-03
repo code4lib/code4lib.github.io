@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Code4Lib Logo Debuts
 created: 1233265064
 ---

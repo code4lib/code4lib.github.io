@@ -1,7 +1,7 @@
 ---
 categories:
 - python
-layout: page
+layout: post
 title: solrpy google code project
 created: 1221701727
 ---

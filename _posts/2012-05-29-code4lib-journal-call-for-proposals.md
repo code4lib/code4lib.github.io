@@ -18,7 +18,7 @@ excerpt: "Call for Proposals (and apologies for cross-posting): \r\n \r\nThe Cod
   the library environment\r\n* Assessment and user studies \r\n \r"
 categories:
 - journal
-layout: page
+layout: post
 title: Code4Lib Journal - Call for Proposals
 created: 1338339522
 ---

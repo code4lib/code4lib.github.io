@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Building Mountains Out of Molehills
 created: 1198802154
 ---

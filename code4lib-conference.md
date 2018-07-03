@@ -6,6 +6,7 @@ layout: page
 title: Code4Lib conference
 permalink: /conference/
 created: 1140709209
+legacy-date: 2006-02-23
 ---
 <p>The Code4Lib conference was born in a <a href="/irc">chatroom</a> discussion in November 2005*. code4lib members quickly coalesced around the idea, and Jeremy Frumkin stepped forward to host it at Oregon State University. It was such a success that the code4lib community has continued hosting the conference annually.</p>
 <p>Code4Lib conferences are subject to our community maintained <a href="https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md">CodeofConduct4Lib</a>

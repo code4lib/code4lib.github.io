@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Kill the search button II - the handheld devices are coming - Jørn Thøgersen,
   Michael Poltorak Nielsen
 created: 1327623159

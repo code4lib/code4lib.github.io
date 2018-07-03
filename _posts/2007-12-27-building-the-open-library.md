@@ -3,7 +3,7 @@ excerpt: "<b>Aaron Swartz</b> - Tech Lead, Open Library"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Building the Open Library
 created: 1198798515
 ---

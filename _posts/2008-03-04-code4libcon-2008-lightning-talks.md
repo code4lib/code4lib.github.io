@@ -7,7 +7,7 @@ excerpt: "<h2>Lightning Talks 1 (Tuesday 16:15-17:30)</h2>\r\n<ul>\r\n<li>Creati
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4libcon 2008 Lightning Talks
 created: 1204649618
 ---

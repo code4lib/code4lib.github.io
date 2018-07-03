@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: DLF ILS Discovery Interface Task Force API recommendation
 created: 1198801436
 ---

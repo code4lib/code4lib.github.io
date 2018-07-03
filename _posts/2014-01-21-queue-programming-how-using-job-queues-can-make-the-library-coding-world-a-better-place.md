@@ -18,7 +18,7 @@ excerpt: "Birkin James Diana, Brown University\r\n\r\nIn 2007 we built a system 
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Queue Programming -- how using job queues can make the Library coding world
   a better place
 created: 1390337743

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: jobs.code4lib.org studied
 created: 1442508438
 ---

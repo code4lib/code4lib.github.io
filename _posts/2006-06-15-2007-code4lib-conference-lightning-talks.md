@@ -11,7 +11,7 @@ excerpt: "<img src=\"http://www.code4lib.org/files/lightning.jpg\" width=\"100\"
   need to make three.</p>"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 2007 Code4Lib Conference Lightning Talks
 permalink: /conference/2007/lightningtalks
 created: 1150397106

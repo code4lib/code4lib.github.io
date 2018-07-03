@@ -14,7 +14,7 @@ excerpt: "Emily Reynolds\r\nCode4Lib trip report\r\n31 March 2014\r\n\r\n\r\nAs 
   librarians and archivists have so many intertwined concerns, I was glad to see the
   archival community represented.\r\n\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Emily Reynolds
 created: 1397844680
 ---

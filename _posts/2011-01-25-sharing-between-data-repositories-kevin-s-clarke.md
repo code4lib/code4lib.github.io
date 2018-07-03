@@ -6,7 +6,7 @@ excerpt: "<strong>Sharing Between Data Repositories</strong>\r\n\r\n<ul>\r\n<li>
   - 11:40\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Sharing Between Data Repositories - Kevin S. Clarke
 created: 1296015693
 ---

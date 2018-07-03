@@ -8,7 +8,7 @@ excerpt: "<b>Dan Chudnov</b>\r\n\r\nWhat if we could share our libraries like we
   here</a>.\r\n\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Fun with ZeroConfMetaOpenSearch
 created: 1166479097
 ---

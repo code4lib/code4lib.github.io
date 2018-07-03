@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: We Are All Disabled! Universal Web Design Making Web Services Accessible for
   Everyone
 created: 1390335930

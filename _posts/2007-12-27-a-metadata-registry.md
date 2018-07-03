@@ -4,7 +4,7 @@ categories:
 - metadata
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: A Metadata Registry
 created: 1198801659
 ---

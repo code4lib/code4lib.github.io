@@ -10,7 +10,7 @@ excerpt: "<a href=\"http://iu.berkeley.edu/rdhyee\">Raymond Yee</a>\r\n\r\nI wil
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Teaching the Library and Information Community How to Remix Information
 created: 1136909767
 ---

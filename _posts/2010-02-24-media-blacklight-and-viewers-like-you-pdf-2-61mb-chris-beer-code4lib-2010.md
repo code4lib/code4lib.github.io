@@ -5,7 +5,7 @@ excerpt: "<strong>Media, Blacklight, and Viewers Like You</strong>\r\n\r\n<ul>\r
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Media, Blacklight, and Viewers Like You (pdf, 2.61MB) - Chris Beer - Code4Lib
   2010
 created: 1267075177

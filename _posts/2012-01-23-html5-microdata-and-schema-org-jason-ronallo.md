@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: HTML5 Microdata and Schema.org - Jason Ronallo
 created: 1327338145
 ---

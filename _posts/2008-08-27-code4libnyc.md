@@ -6,7 +6,7 @@ excerpt: "We want to introduce you to a new group convening in the NYC area: Cod
   library staff interested in the coding, deployment, and design of library software,
   systems, and web services. \r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4LibNYC
 created: 1219845252
 ---

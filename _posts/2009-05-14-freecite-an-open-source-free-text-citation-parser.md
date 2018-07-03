@@ -8,7 +8,7 @@ excerpt: "<strong>Chris Shoemaker</strong>, Public Display\r\n\r\nFreeCite is an
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: FreeCite - An Open Source Free-Text Citation Parser
 created: 1242347575
 ---

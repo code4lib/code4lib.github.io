@@ -6,7 +6,7 @@ excerpt: "<strong>fiwalk With Me: Building Emergent Pre-Ingest Workflows for Dig
   2011</a>, Wednesday 9 February, 13:40 - 14:00\r\n\r\n<a href=\"http://www.slideshare.net/anarchivist/fiwalk-with-me-building-emergent-preingest-workflows-for-digital-archival-records-using-open-source-forensic-software\">Slides</a>\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'fiwalk With Me: Building Emergent Pre-Ingest Workflows for Digital Archival
   Records using Open Source Forensic Software - Mark M'
 created: 1296008009

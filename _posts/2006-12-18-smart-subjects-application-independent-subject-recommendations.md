@@ -10,7 +10,7 @@ excerpt: "<b>Tito Sierra</b>\r\n\r\nThe Smart Subjects tool attempts to increase
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Smart Subjects - Application Independent Subject Recommendations
 created: 1166479737
 ---

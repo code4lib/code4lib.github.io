@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Refinery — An open source locally deployable web platform for the analysis
   of large document collections
 created: 1417819260

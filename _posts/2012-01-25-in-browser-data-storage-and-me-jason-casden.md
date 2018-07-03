@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: In-browser data storage and me - Jason Casden
 created: 1327558748
 ---

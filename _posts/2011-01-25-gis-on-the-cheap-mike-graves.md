@@ -6,7 +6,7 @@ excerpt: "<strong><a href=\"https://docs.google.com/present/edit?id=0AaAHjV7nFQ2
   - 13:20\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: GIS on the Cheap - Mike Graves
 created: 1296007511
 ---

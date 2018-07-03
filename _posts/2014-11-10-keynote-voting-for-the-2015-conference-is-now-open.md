@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Keynote voting for the 2015 conference is now open!
 created: 1415646256
 ---

@@ -7,7 +7,7 @@ excerpt: "<strong>Letting In the Light: Using Solr as an External Search Compone
   bthiell@cfa.harvard.edu</li>\r\n</ul>\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Letting In the Light: Using Solr as an External Search Component - Jay Luker
   and Benoit Thiell'
 created: 1296086640

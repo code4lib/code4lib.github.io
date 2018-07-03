@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: page
+layout: post
 title: Results of the journal name vote
 created: 1143843546
 ---

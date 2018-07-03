@@ -17,7 +17,7 @@ excerpt: "&nbsp;\r\nOregon State University and the Digital Library Federation a
 categories:
 - conferences
 - code4lib 2012
-layout: page
+layout: post
 title: 'Code4Lib 2012 Scholarship (deadline: December 9, 2011)'
 created: 1322610068
 ---

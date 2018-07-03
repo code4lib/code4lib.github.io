@@ -8,7 +8,7 @@ excerpt: "If your organization would like to help sponsor the Code4Lib 2011 Conf
   from the podium at the opening and closing\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Code4Lib 2011 Sponsorship
 created: 1285272541
 ---

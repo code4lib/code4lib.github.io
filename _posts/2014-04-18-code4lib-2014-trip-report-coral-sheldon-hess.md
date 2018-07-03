@@ -8,7 +8,7 @@ excerpt: "Coral Sheldon Hess\r\nFrom: http://www.sheldon-hess.org/coral/2014/04/
   else involved with the conference for this amazing learning experience!\r\n\r\nThings
   that went well\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Coral Sheldon Hess
 created: 1397844612
 ---

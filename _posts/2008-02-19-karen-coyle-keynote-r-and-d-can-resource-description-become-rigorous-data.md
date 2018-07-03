@@ -9,7 +9,7 @@ excerpt: "Work is beginning to transform the eloquent yet arcane texts called\r\
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: 'Karen Coyle Keynote - R&D: Can Resource Description become Rigorous Data?'
 created: 1203444579
 ---

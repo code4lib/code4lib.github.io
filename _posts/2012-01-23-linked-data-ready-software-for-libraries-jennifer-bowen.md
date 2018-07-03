@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: "“Linked-Data-Ready” Software for Libraries - Jennifer Bowen"
 created: 1327337731
 ---

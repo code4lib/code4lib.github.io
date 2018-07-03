@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Keynote #2: catfish, cthulhu, code, clouds and Levenshtein distance - Paul
   Jones - Code4Lib 2010'
 created: 1267077162

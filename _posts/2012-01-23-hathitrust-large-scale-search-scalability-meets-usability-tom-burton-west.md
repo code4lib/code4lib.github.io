@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'HathiTrust Large Scale Search: Scalability meets Usability - Tom Burton-West'
 created: 1327338930
 ---

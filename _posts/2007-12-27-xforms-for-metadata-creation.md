@@ -4,7 +4,7 @@ excerpt: "<b>Winona Salesky</b> - Digital Initiatives Librarian, University of V
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: XForms for Metadata creation
 created: 1198802500
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Under the Hood of Hadoop Processing at OCLC Research
 created: 1390337860
 ---

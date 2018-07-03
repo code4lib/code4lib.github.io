@@ -13,7 +13,7 @@ excerpt: "There was a session at code4lib 2006 on using IM bots to deliver libra
 categories:
 - perl
 - code4lib 2006
-layout: page
+layout: post
 title: CUFTS2 AIM/AOL/ICQ bot
 created: 1141083107
 ---

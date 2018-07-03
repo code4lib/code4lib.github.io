@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Awesome Pi, LOL!
 created: 1417819248
 ---

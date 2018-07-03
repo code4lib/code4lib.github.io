@@ -17,7 +17,7 @@ excerpt: "Code4Lib Conference 2014\r\nScholarship Brief Report\r\n\r\n\r\nArie N
   since I’m coming from Indonesia, a country far away from The United States.\r\n\r\n\r"
 categories:
 - code4lib 2014
-layout: page
+layout: post
 title: CODE4LIB 2014 Trip Report - Arie Nugraha
 created: 1397844263
 ---

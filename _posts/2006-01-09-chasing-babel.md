@@ -10,7 +10,7 @@ excerpt: "<a href=\"http://www.oclc.org/research/staff/smith.htm\">Devon Smith</
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Chasing Babel
 created: 1136873082
 ---

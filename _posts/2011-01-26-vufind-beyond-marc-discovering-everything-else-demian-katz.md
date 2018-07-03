@@ -5,7 +5,7 @@ excerpt: "<strong>VuFind Beyond MARC: Discovering Everything Else</strong>\r\n\r
   8 February, 14:10 - 14:30\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'VuFind Beyond MARC: Discovering Everything Else - Demian Katz'
 created: 1296087065
 ---

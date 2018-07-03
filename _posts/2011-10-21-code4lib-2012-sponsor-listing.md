@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: code4lib 2012 Sponsor Listing
 created: 1319225953
 ---

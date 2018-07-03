@@ -9,7 +9,7 @@ excerpt: "Breakout sessions at <a href=\"/conference/2011/schedule\">Code4Lib 20
   attend. \r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 2011 Breakout Sessions
 created: 1296088599
 ---

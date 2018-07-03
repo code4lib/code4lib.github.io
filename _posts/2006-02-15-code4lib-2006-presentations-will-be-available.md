@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: code4lib 2006 presentations will be available
 created: 1140019565
 ---

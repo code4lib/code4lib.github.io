@@ -11,7 +11,7 @@ excerpt: "<a href=\"http://www.oclc.org/research/staff/hickeyt.htm\">Thomas Hick
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 1,000 Lines of Code, and other topics from OCLC Research
 created: 1136907282
 ---

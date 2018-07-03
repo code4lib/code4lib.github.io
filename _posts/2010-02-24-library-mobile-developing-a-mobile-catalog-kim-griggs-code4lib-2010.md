@@ -8,7 +8,7 @@ excerpt: "<strong>library/mobile: Developing a Mobile Catalog</strong>\r\n\r\n<u
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'library/mobile: Developing a Mobile Catalog - Kim Griggs - Code4Lib 2010'
 created: 1267077473
 ---

@@ -4,7 +4,7 @@ excerpt: "Brown University and Oregon State University are proud to announce the
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 2010 Code4lib Scholarship Recipients
 created: 1263657339
 ---

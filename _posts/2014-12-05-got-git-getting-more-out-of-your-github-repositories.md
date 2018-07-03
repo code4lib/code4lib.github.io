@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Got Git? Getting More Out of Your GitHub Repositories
 created: 1417819323
 ---

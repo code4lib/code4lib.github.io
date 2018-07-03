@@ -10,7 +10,7 @@ excerpt: "<b>Michael Doran</b>\r\n\r\nThis presentation will cover the copyright
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 'The Intellectual Property Disclosure Process: Releasing Open Source Software
   in Academia'
 created: 1171043988

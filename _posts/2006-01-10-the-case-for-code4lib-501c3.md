@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: The Case for Code4Lib 501c(3)
 created: 1136909396
 ---

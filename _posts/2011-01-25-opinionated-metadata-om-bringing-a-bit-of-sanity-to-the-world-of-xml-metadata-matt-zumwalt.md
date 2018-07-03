@@ -5,7 +5,7 @@ excerpt: "<strong>Opinionated Metadata (OM): Bringing a Bit of Sanity to the Wor
   2011</a>, Wednesday 9 February, 10:35 - 10:55\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Opinionated Metadata (OM): Bringing a Bit of Sanity to the World of XML Metadata
   - Matt Zumwalt'
 created: 1296005933

@@ -10,7 +10,7 @@ excerpt: "<b>Ed Summers</b>\r\n\r\nThe Atom Publishing Protocol is an HTTP based
   flashvars=\"\"> </embed>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Atom Publishing Protocol Primer
 created: 1166479506
 ---

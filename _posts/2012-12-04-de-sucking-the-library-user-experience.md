@@ -15,7 +15,7 @@ excerpt: "<strong>De-sucking the Library User Experience</strong>\r\n<ul>\r\n<li
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: De-sucking the Library User Experience
 created: 1354665188
 ---

@@ -11,7 +11,7 @@ excerpt: "<strong>Call for proposals - Code4lib 2006</strong>\r\n\r\nWe are now 
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Code4lib 2006 Call For Proposals
 created: 1133477085
 ---

@@ -6,7 +6,7 @@ excerpt: "<a href=\"http://docs.google.com/Presentation?docid=dgq78tgg_40c565pjd
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: The Making of The Code4Lib Journal
 created: 1198802045
 ---

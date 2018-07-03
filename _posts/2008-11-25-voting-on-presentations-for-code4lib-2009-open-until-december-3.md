@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Voting On Presentations for code4lib 2009 Open until December 3
 created: 1227662756
 ---

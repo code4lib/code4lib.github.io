@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Making your digital objects embeddable around the web
 created: 1417819304
 ---

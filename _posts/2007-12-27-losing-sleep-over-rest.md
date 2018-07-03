@@ -3,7 +3,7 @@ excerpt: "<b>Jospeh Dalton</b> - NYPL Labs<br />\r\n<b>Jay Datema</b> - NYPL Lab
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Losing sleep over REST?
 created: 1198817848
 ---

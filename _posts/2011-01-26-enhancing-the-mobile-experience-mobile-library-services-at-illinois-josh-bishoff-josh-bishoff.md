@@ -5,7 +5,7 @@ excerpt: "<strong>Enhancing the Mobile Experience: Mobile Library Services at Il
   - 13:50\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Enhancing the Mobile Experience: Mobile Library Services at Illinois - Josh
   Bishoff - Josh Bishoff'
 created: 1296088161

@@ -8,7 +8,7 @@ excerpt: "<ul>\r\n<strong>Websites</strong>\r\n<li><a href=\"http://www.techesse
   language)</li>\r\n<li><a href=\"http://www.tldp.org/guides.html\">http://www.tldp.org/guides.html</a>
   (Linux guides)</li>\r"
 categories: []
-layout: page
+layout: post
 title: Learning to Scratch Our Own Itches
 created: 1151015364
 ---

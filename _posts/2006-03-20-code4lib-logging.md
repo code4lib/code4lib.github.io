@@ -1,7 +1,7 @@
 ---
 categories:
 - irc
-layout: page
+layout: post
 title: "#code4lib logging"
 created: 1142868643
 ---

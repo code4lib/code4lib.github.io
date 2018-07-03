@@ -11,7 +11,7 @@ excerpt: "<b>Emily Lynema</b>\r\n\r\nNCSU Libraries’ initial implementation of
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 'Free the Data: Creating a Web Services Interface to the Online Catalog'
 created: 1166479454
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Evergreen Keynote
 created: 1169065156
 ---

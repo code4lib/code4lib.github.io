@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Code4Lib 2014 Conference Diversity Scholarship Recipients
 created: 1389968545
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Pitfall! Working with Legacy Born Digital Materials in Special Collections
 created: 1354661104
 ---

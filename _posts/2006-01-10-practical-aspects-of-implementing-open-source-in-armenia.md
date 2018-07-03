@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Practical Aspects of Implementing Open Source in Armenia
 created: 1136910872
 ---

@@ -3,7 +3,7 @@ excerpt: "<b>Casey Durfee</b> - LibraryThing"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: MARCThing
 created: 1198799301
 ---

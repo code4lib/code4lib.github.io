@@ -6,7 +6,7 @@ excerpt: "<strong>Practical Relevancy Testing</strong>\r\n\r\n<ul>\r\n<li>Naomi 
   href=\"http://discovery-grindstone.blogspot.com\">http://discovery-grindstone.blogspot.com</a>\r\n</li>\r\n</ul>\r\n<br/>\r\n\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Practical Relevancy Testing - Naomi Dushay
 created: 1296015485
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - metadata
-layout: page
+layout: post
 title: barton data
 created: 1164662870
 ---

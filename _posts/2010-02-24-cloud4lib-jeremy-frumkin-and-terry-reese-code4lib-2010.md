@@ -6,7 +6,7 @@ excerpt: "<strong>Cloud4Lib</strong>\r\n\r\n<ul>\r\n<li>Jeremy Frumkin, Universi
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Cloud4Lib - Jeremy Frumkin and Terry Reese - Code4Lib 2010
 created: 1267070003
 ---

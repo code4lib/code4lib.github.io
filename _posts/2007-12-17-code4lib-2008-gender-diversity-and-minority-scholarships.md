@@ -8,7 +8,7 @@ excerpt: "Oregon State University and Code4lib are offering scholarships to prom
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4lib 2008 Gender Diversity and Minority Scholarships
 created: 1197933573
 ---

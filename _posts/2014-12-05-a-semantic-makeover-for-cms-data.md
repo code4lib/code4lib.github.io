@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: A Semantic Makeover for CMS Data
 created: 1417818966
 ---

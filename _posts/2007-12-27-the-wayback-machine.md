@@ -3,7 +3,7 @@ excerpt: "<b>Brad Tofel</b> - Lead Developer, Wayback Machine, Internet Archive"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: The Wayback Machine
 created: 1198799389
 ---

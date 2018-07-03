@@ -19,7 +19,7 @@ excerpt: "<strong>Linked Open Communism: Better discovery through data dis- and 
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'Linked Open Communism: Better discovery through data dis- and re- aggregation'
 created: 1354664904
 ---

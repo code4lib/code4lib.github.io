@@ -1,18 +1,26 @@
 ---
+excerpt: "code4lib isn't entirely about code or libraries. It is a volunteer-driven
+  collective of hackers, designers, architects, curators, catalogers, artists and
+  instigators from around the world, who largely work for and with libraries, archives
+  and museums on technology \"stuff.\" It started in the fall of 2003 as a <a href=\"https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB\">mailing
+  list</a> when a group of library programmers decided to create an overarching community
+  agnostic towards any particular language or technology. \r\n\r\nCode4Lib is dedicated
+  to providing a harassment-free community experience for everyone regardless of gender,
+  sexual orientation, disability, physical appearance, body size, race, or religion.
+  For more information, please see our emerging <a href=\"https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md\">CodeofConduct4Lib</a>.\r\n\r\n"
+categories: []
 layout: page
 title: About
 permalink: /about/
+created: 1297437091
+legacy-date: 2011-02-11
 ---
+code4lib isn't entirely about code or libraries. It is a volunteer-driven collective of hackers, designers, architects, curators, catalogers, artists and instigators from around the world, who largely work for and with libraries, archives and museums on technology "stuff." It started in the fall of 2003 as a <a href="https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB">mailing list</a> when a group of library programmers decided to create an overarching community agnostic towards any particular language or technology. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Code4Lib is dedicated to providing a harassment-free community experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. For more information, please see our emerging <a href="https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md">CodeofConduct4Lib</a>.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+code4lib grew out of other efforts such as the <a href="http://etig.wordpress.com/access/">Access Conference</a>, <a href="http://lists.webjunction.org/web4lib/">web4lib</a>, <a href="http://perl4lib.perl.org/">perl4lib</a>, /usr/lib/info (2003-2005, see <a href="http://web.archive.org/web/20050525004058/http://usrlib.info/">archive.org</a>) and <a href="http://oss4lib.org/">oss4lib</a> which allow technology folks in libraries, archives and museums to informally share approaches, techniques, and code across institutional and project divides. Soon after the mailing list was created, the community decided to setup a <a href="http://code4lib.org/irc">#code4lib</a> IRC channel (chat room) on freenode. The first face-to-face <a href="http://code4lib.org/conference">meeting</a> was held in 2005 in Chicago, Illinois, USA and the now-annual conference started in 2006 in Corvallis, Oregon, USA, and has continued since. <a href="http://code4lib.org/local">Local meetings</a> have also sprung up from time to time and are encouraged.  A volunteer effort manages an edited online <a href="http://journal.code4lib.org">journal</a> that publishes relevant articles from the field in a timely fashion. We existed for a number of years before deciding to develop a <a href="/logo/">logo</a>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Things get done because people share ideas, step up to lead, and work together, not because anyone is in charge. We prefer to make community decisions by holding open votes, e.g. on who gets to present at our conferences, where to host them, etc. If you've got an idea or an itch to scratch, please join in; we welcome your participation!
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you are interested in joining the community: sign up to the <a href="https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB">discussion list</a>; join the <a href="https://www.facebook.com/group.php?gid=2239622626">Facebook</a> or <a href="http://www.linkedin.com/groups?gid=134499">LinkedIn</a> groups; <a href="https://plus.google.com/u/0/communities/114587042187424680647">Google+ community</a>; follow us on <a href="http://twitter.com/code4lib">Twitter</a>; subscribe to our <a href="http://planet.code4lib.org/">blogs</a>; or get right to the heart of it in the chat room on <a href="http://code4lib.org/irc">IRC</a>. 

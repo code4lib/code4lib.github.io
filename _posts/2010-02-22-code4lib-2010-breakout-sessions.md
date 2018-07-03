@@ -8,7 +8,7 @@ excerpt: Those interested in the same project/problem can hang out in a space to
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Code4Lib 2010 Breakout Sessions
 created: 1266895737
 ---

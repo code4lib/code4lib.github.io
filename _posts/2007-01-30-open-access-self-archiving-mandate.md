@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Open Access Self-Archiving Mandate
 created: 1170185353
 ---

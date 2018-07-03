@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Discovering Digital Library User Behavior with Google Analytics - Kirk Hess
 created: 1327554397
 ---

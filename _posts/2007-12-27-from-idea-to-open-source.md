@@ -3,7 +3,7 @@ excerpt: "<b>Andrew Nagy</b> - Villanova University"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: From Idea to Open Source
 created: 1198799531
 ---

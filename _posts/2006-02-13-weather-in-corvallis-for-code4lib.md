@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Weather in Corvallis for Code4lib
 created: 1139874436
 ---

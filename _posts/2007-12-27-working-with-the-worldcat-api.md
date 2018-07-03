@@ -8,7 +8,7 @@ excerpt: "<b>David Walker</b> - California State University\r\nDavid Walker, fro
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Working with the WorldCat API
 created: 1198798652
 ---

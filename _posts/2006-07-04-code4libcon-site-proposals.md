@@ -12,7 +12,7 @@ excerpt: "<style>dt {padding-top:5px; color: #440000;}</style>\r\n<dl>\r\n<dt>Co
   here that brings in people in March (usually late March).</dd>\r"
 categories:
 - conferences
-layout: page
+layout: post
 title: Code4LibCon Site Proposals
 created: 1152037320
 ---

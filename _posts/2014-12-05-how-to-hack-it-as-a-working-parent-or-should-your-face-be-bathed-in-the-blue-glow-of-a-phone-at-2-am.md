@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'How to Hack it as a Working Parent: or, Should Your Face be Bathed in the
   Blue Glow of a Phone at 2 AM?'
 created: 1417819316

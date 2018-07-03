@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Your Chocolate is in My Peanut Butter! Mixing up Content and Presentation Layers
   to Build Smarter Books in Browsers with RDFa, Schema.org, and Linked Data Topics
 created: 1417819012

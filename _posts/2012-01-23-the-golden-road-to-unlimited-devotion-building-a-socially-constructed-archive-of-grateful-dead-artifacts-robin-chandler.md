@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'The Golden Road (To Unlimited Devotion): Building a Socially Constructed Archive
   of Grateful Dead Artifacts - Robin Chandler'
 created: 1327340767

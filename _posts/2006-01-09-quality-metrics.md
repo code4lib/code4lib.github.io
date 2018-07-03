@@ -10,7 +10,7 @@ excerpt: "<a href=\"http://br.endernet.org/~akrowne/elaine/\">Aaron Krowne</a>\r
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Quality Metrics
 created: 1136871728
 ---

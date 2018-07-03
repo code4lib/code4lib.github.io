@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2013
-layout: page
+layout: post
 title: Dates Set for Code4Lib 2013 in Chicago
 created: 1342037749
 ---

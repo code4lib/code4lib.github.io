@@ -7,7 +7,7 @@ excerpt: "Editorial Introduction - Issue 6\r\nChristine Schwartz\r\nhttp://journ
   to explore, experiment, and bring to your library users what they want and need.\r\n\r"
 categories:
 - journal
-layout: page
+layout: post
 title: 'Code4Lib Journal: new issue 6 now available'
 created: 1238525556
 ---
