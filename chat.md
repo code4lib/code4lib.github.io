@@ -1,6 +1,6 @@
 ---
 categories:
-  - irc
+- irc
 layout: page
 title: Chat
 permalink: /irc/
