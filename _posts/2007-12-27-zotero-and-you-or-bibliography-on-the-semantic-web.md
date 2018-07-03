@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Zotero and You, or Bibliography on the Semantic Web
 created: 1198798787
 permalink: /conference/2008/owens/

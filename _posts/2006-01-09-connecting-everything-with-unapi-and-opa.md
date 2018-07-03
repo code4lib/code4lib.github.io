@@ -9,7 +9,7 @@ excerpt: "<a href=\"http://onebiglibrary.net/\">Dan Chudnov</a>\r\n\r\nunAPI is 
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Connecting Everything with unAPI and OPA
 created: 1136871464
 permalink: /conference/2006/chudnov/

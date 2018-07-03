@@ -6,7 +6,7 @@ excerpt: "<strong>Taking Control of Library Metadata and Websites Using the eXte
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Taking Control of Library Metadata and Websites Using the eXtensible Catalog
   - Jennifer Bowen - Code4Lib 2010
 created: 1267072968

@@ -1,7 +1,7 @@
 ---
 categories:
 - metadata
-layout: page
+layout: post
 title: MIT Catalog Data
 created: 1164128267
 ---

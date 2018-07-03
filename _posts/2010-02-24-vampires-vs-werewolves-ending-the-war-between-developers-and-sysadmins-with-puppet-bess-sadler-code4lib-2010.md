@@ -6,7 +6,7 @@ excerpt: "<strong>Vampires vs. Werewolves: Ending the War Between Developers and
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Vampires vs. Werewolves: Ending the War Between Developers and Sysadmins with
   Puppet - Bess Sadler - Code4Lib 2010'
 created: 1267074745

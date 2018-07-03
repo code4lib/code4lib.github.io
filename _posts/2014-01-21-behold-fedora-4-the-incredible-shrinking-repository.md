@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Behold Fedora 4: The Incredible Shrinking Repository!'
 created: 1390336479
 ---

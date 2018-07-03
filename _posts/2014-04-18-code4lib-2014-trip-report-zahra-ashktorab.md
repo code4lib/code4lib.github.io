@@ -8,7 +8,7 @@ excerpt: "Zahra Ashktorab\r\nMarch 28, 2014\r\n\r\nCode4Lib Report\r\n\r\nI was 
   this conference, I made new contacts for future collaboration and attend talks ranging
   from Linked Open Data and Google Analytics.\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Zahra Ashktorab
 created: 1397845531
 ---

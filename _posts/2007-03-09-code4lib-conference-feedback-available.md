@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2007
-layout: page
+layout: post
 title: Code4Lib Conference Feedback Available
 created: 1173484112
 ---

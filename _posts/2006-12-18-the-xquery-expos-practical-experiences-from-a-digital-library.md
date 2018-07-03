@@ -10,7 +10,7 @@ excerpt: "<b>Kevin Clarke</b>\r\n\r\nPrinceton University has developed their cu
   posed and discussed.\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 'The XQuery Exposé: Practical Experiences from a Digital Library'
 created: 1166479664
 permalink: /conference/2007/clarke/

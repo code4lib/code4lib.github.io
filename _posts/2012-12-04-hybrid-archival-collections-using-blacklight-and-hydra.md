@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Hybrid Archival Collections Using Blacklight and Hydra
 created: 1354662909
 ---

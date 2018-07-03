@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: page
+layout: post
 title: Code4Lib Journal issue 25
 created: 1406050247
 ---

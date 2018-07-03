@@ -6,7 +6,7 @@ excerpt: "<strong>How to Implement A Virtual Bookshelf With Solr</strong>\r\n\r\
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: How to Implement A Virtual Bookshelf With Solr - Naomi Dushay and Jessie Keck
   - Code4Lib 2010
 created: 1267076411

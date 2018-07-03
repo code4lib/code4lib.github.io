@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Your code does not exist in a vacuum
 created: 1417818764
 ---

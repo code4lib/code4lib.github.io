@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2012 in Seattle
 created: 1296064601
 ---

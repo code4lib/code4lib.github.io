@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'ARCHITECTING ScholarSphere: How We Built a Repository App That Doesn''t Feel
   Like Yet Another Janky Old Repository App'
 created: 1354660782

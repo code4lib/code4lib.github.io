@@ -14,7 +14,7 @@ excerpt: "<strong>Citation search in SOLR and second-order operators</strong>\r\
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Citation search in SOLR and second-order operators
 created: 1354662799
 ---

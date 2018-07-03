@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2012
-layout: page
+layout: post
 title: Code4Lib 2012 Schedule
 permalink: /conference/2012/schedule
 created: 1319065801

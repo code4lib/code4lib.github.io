@@ -6,7 +6,7 @@ excerpt: "<strong>Matching Dirty Data – Yet Another Wheel</strong>\r\n\r\n<ul>
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Matching Dirty Data – Yet Another Wheel - Anjanette Young and Jeff Sherwood
   - Code4Lib 2010
 created: 1267073116

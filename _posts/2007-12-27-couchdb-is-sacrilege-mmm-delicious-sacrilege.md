@@ -3,7 +3,7 @@ excerpt: "<b>Dan Scott</b> - Laurentian University"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: CouchDB is sacrilege... mmm, delicious sacrilege
 created: 1198801342
 permalink: /conference/2008/scott/

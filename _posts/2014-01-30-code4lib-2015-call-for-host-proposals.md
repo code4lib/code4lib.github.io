@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: page
+layout: post
 title: Code4Lib 2015 Call for Host Proposals
 created: 1391099833
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - metadata
-layout: page
+layout: post
 title: 'Request for Proposals: Innovative Uses of CrossRef Metadata'
 created: 1181729309
 ---

@@ -6,7 +6,7 @@ excerpt: "<a href=\"http://omeka.org/presentations/code4lib2008/\">View slides</
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Show Your Stuff, using Omeka
 created: 1198817607
 permalink: /conference/2008/lester/

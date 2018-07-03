@@ -16,7 +16,7 @@ excerpt: "Andreas Orphanides, NCSU Libraries\r\n\r\nContent management is hard. 
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Dead-simple Video Content Management: Let Your Filesystem Do The Work'
 created: 1390336013
 ---

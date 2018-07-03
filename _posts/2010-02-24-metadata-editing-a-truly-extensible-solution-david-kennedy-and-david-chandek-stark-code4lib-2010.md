@@ -6,7 +6,7 @@ excerpt: "<strong>Metadata Editing – A Truly Extensible Solution</strong>\r\n\
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Metadata Editing – A Truly Extensible Solution - David Kennedy and David Chandek-Stark
   - Code4Lib 2010
 created: 1267073913

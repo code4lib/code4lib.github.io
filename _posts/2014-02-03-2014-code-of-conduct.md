@@ -19,7 +19,7 @@ excerpt: "Code4Lib seeks to provide a welcoming, fun, and safe community and con
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 2014 Code of Conduct
 created: 1391479836
 ---

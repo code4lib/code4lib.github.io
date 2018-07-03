@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Visualizing Solr Search Results with D3.js for User-Friendly Navigation of
   Large Results Sets
 created: 1390335713

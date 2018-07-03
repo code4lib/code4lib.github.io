@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2014
-layout: page
+layout: post
 title: Code4Lib 2014 Conference Prospectus for Sponsors
 created: 1370884629
 ---

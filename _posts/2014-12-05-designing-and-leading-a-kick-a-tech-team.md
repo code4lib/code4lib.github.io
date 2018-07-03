@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Designing and Leading a Kick A** Tech Team
 created: 1417818901
 ---

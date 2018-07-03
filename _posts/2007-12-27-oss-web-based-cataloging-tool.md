@@ -3,7 +3,7 @@ excerpt: "<b>Chris Catalfo</b> - Programmer, LibLime"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: OSS Web-based cataloging tool
 created: 1198802250
 permalink: /conference/2008/catalfo/

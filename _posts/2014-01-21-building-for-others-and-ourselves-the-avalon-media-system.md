@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Building for others (and ourselves): the Avalon Media System'
 created: 1390336205
 ---

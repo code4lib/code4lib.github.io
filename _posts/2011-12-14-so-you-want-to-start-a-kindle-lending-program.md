@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: So you want to start a Kindle lending program
 created: 1323903061
 ---

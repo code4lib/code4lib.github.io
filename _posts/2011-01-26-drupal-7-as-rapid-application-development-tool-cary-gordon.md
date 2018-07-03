@@ -7,7 +7,7 @@ excerpt: "<strong>Drupal 7 as Rapid Application Development Tool</strong>\r\n\r\
   disguised as an API, and learned that I could use it to solve problems.\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Drupal 7 as Rapid Application Development Tool - Cary Gordon
 created: 1296086229
 ---

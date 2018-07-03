@@ -6,7 +6,7 @@ excerpt: "<strong>A Better Advanced Search</strong>\r\n\r\n<ul>\r\n<li>Naomi Dus
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: A Better Advanced Search - Naomi Dushay and Jessie Keck - Code4Lib 2010
 created: 1267075737
 ---

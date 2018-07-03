@@ -6,7 +6,7 @@ excerpt: "Jill Sexton, Mike Daines, Greg Jansen, UNC Chapel Hill Libraries\r\n\r
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: A reusable application to enable self deposit of complex objects into a digital
   preservation environment
 created: 1390336812

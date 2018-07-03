@@ -9,7 +9,7 @@ excerpt: "The Code4Lib Journal (C4LJ) exists to foster community and share infor
   subject of the proposal in the subject line of the email message."
 categories:
 - journal
-layout: page
+layout: post
 title: Code4Lib Journal Issue 38 Call for Papers
 created: 1497280629
 ---

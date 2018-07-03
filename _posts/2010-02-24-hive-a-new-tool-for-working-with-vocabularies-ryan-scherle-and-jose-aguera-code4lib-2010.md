@@ -6,7 +6,7 @@ excerpt: "<strong>HIVE: A New Tool for Working With Vocabularies</strong>\r\n\r\
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'HIVE: A New Tool for Working With Vocabularies - Ryan Scherle and Jose Aguera
   - Code4Lib 2010'
 created: 1267073599

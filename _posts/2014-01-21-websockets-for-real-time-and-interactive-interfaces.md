@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: WebSockets for Real-Time and Interactive Interfaces
 created: 1390333077
 ---

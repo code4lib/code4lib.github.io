@@ -1,7 +1,7 @@
 ---
 categories:
 - irc
-layout: page
+layout: post
 title: 'regulars on the #code4lib irc channel'
 created: 1142353738
 ---

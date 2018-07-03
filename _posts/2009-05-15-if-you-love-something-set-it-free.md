@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: If You Love Something...Set it Free
 created: 1242382477
 ---

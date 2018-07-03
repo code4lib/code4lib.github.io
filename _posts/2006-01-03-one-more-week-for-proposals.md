@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2006
-layout: page
+layout: post
 title: one more week for proposals
 created: 1136330234
 ---

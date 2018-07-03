@@ -9,7 +9,7 @@ excerpt: "<b>Amy Begg De Groff and Luis Salazar</b>\r\n\r\nHoward County Library
   and carefully educated front of house staff\r\nopen minded and empowered customers\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Get Groovy at Your Public Library
 created: 1166479566
 permalink: /conference/2007/degroff/

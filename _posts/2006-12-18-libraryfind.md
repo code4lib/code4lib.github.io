@@ -10,7 +10,7 @@ excerpt: "<b>Terry Reese</b>\r\n\r\nOver the past 1/2 year, Oregon State Univers
   flashvars=\"\"> </embed>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: LibraryFind
 created: 1166479383
 permalink: /conference/2007/reese/

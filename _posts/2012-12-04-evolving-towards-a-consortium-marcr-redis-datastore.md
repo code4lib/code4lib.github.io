@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Evolving Towards a Consortium MARCR Redis Datastore
 created: 1354662651
 ---

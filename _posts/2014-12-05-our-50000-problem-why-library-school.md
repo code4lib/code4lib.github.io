@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Our $50,000 Problem: Why Library School?'
 created: 1417819320
 ---

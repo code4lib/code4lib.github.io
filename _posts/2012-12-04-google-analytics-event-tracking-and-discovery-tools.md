@@ -15,7 +15,7 @@ excerpt: "<strong>Google Analytics, Event Tracking and Discovery Tools</strong>\
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Google Analytics, Event Tracking and Discovery Tools
 created: 1354665337
 ---

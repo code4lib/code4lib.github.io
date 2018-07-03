@@ -6,7 +6,7 @@ excerpt: "<strong>Public Datasets in the Cloud</strong>\r\n\r\n<ul>\r\n<li>Rosal
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Public Datasets in the Cloud - Rosalyn Metz and Michael B. Klein - Code4Lib
   2010
 created: 1267071153

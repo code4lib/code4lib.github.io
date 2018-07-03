@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Book Reader Bingo: Which Page-Turner Should I Use?'
 created: 1417819101
 ---

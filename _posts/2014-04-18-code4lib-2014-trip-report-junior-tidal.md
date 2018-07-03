@@ -16,7 +16,7 @@ excerpt: "        As a recipient of Diversity Scholarship for the 9th annual Cod
   for differently abled patrons, and much more. The numerous lightning talks also
   provided a great wealth of information (all within 5 minutes!)\r\n\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Junior Tidal
 created: 1397845407
 ---

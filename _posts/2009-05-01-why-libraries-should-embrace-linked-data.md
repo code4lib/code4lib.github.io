@@ -9,7 +9,7 @@ excerpt: "<strong>Anders Söderbäck</strong>, National Library of Sweden\r\n\r\
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Why libraries should embrace Linked Data
 created: 1241210730
 ---

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'code4libBC: November 27 and 28, 2014'
 created: 1410395794
 ---

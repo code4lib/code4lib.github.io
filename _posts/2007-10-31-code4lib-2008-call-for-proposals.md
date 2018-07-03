@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4lib 2008 Call for Proposals
 created: 1193871353
 ---

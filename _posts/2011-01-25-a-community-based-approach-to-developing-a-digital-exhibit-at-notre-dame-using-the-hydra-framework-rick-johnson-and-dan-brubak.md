@@ -6,7 +6,7 @@ excerpt: "<strong>A Community-Based Approach to Developing a Digital Exhibit at 
   2011</a>, Wednesday 9 February, 09:15 - 09:35\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: A Community-Based Approach to Developing a Digital Exhibit at Notre Dame Using
   the Hydra Framework - Rick Johnson and Dan Brubak
 created: 1295989600

@@ -11,7 +11,7 @@ excerpt: "<b>Eric Larson, Nate Vack</b>\r\n\r\nWhat has your repository done for
   flashvars=\"\"> </embed>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: The BibApp
 created: 1166480032
 permalink: /conference/2007/larson/

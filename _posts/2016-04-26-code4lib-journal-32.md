@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: page
+layout: post
 title: 'Code4Lib Journal #32'
 created: 1461682093
 ---

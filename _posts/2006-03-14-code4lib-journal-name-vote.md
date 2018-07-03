@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Code4lib Journal Name Vote
 created: 1142370513
 ---

@@ -9,7 +9,7 @@ excerpt: "<strong>Chris Beer</strong>, WGBH Interactive; <strong>Courtney Michae
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'Visualizing Media Archives: A Case Study'
 created: 1242382963
 ---

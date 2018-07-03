@@ -11,7 +11,7 @@ excerpt: "<b>Joan Starr</b>\r\n\r\nAcademic digital libraries face serious chall
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Obstacles to Agility
 created: 1166479983
 permalink: /conference/2007/starr/

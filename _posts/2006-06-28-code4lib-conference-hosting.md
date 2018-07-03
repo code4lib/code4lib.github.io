@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: page
+layout: post
 title: Code4Lib Conference Hosting
 created: 1151543626
 ---

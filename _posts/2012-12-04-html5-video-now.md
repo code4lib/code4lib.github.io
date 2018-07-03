@@ -15,7 +15,7 @@ excerpt: "<strong>HTML5 Video Now!</strong>\r\n\r\n<ul>\r\n<li>Jason Ronallo, No
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: HTML5 Video Now!
 created: 1354665738
 ---

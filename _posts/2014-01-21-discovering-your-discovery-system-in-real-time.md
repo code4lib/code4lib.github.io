@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Discovering your Discovery System in Real Time
 created: 1390333692
 ---

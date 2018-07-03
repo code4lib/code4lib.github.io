@@ -8,7 +8,7 @@ excerpt: "<strong>Richard Wallis</strong>, Talis\r\n\r\nSolr enabled great innov
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Great facets, like your relevance, but can I have links to Amazon and Google
   Book Search?
 created: 1242347872

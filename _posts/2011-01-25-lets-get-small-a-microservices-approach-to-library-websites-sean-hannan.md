@@ -6,7 +6,7 @@ excerpt: "<strong>Let's Get Small: A Microservices Approach to Library Websites<
   2011</a>, Wednesday 9 February, 13:20 - 13:40\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Let''s Get Small: A Microservices Approach to Library Websites - Sean Hannan'
 created: 1296007775
 ---

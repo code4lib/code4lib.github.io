@@ -4,7 +4,7 @@ excerpt: "<strong>Ask Anything!</strong>\r\n\r\n<ul>\r\n<li>Facilitated by Dan C
   - 12:00\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Ask Anything! – Facilitated by Dan Chudnov
 created: 1296007054
 ---

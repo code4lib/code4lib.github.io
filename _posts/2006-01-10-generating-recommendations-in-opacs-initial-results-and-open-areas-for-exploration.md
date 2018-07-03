@@ -9,7 +9,7 @@ excerpt: "<a href=\"http://dream.sims.berkeley.edu/~cwhitney/\">Colleen Whitney<
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 'Generating Recommendations in OPACS: Initial Results and Open Areas for Exploration'
 created: 1136909528
 permalink: /conference/2006/whitney/

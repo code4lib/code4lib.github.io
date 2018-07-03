@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Your UI can make or break the application (to the user, anyway) - Robin Schaaf
 created: 1327340379
 ---

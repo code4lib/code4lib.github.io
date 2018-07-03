@@ -10,7 +10,7 @@ excerpt: "<b>Mike Rylander</b>\r\n\r\nAt PINES we have the luxury of a very supp
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: On the Herding of Cats
 created: 1166479191
 permalink: /conference/2007/rylander/

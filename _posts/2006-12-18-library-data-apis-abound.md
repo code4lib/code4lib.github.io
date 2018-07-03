@@ -10,7 +10,7 @@ excerpt: "<b>Richard Wallis</b>\r\n\r\nFrom Z39.50 to xISBN, they share the limi
   /></object>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Library Data APIs Abound!
 created: 1166479786
 permalink: /conference/2007/wallis/

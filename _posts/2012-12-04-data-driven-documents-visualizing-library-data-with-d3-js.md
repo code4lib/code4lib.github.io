@@ -18,7 +18,7 @@ excerpt: "<strong>Data-Driven Documents: Visualizing library data with D3.js</st
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'Data-Driven Documents: Visualizing library data with D3.js'
 created: 1354665641
 ---

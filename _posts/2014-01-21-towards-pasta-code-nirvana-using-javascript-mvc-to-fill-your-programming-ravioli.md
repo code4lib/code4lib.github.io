@@ -16,7 +16,7 @@ excerpt: "Bret Davidson, North Carolina State University Libraries\r\n\r\nJavaSc
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Towards Pasta Code Nirvana: Using JavaScript MVC to Fill Your Programming
   Ravioli'
 created: 1390337176

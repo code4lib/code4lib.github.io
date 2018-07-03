@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Your Catalog in Linked Data - Tom Johnson
 created: 1327337931
 ---

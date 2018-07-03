@@ -10,7 +10,7 @@ excerpt: "<a href=\"mailto:rchute@lanl.gov\">Ryan Chute</a>\r\n\r\nThe aDORe Arc
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Anatomy of aDORe
 created: 1136871976
 permalink: /conference/2006/liu/

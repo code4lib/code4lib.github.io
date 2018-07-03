@@ -2,7 +2,7 @@
 categories:
 - python
 - xml
-layout: page
+layout: post
 title: planet facelift
 created: 1134715916
 ---

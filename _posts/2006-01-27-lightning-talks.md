@@ -12,7 +12,7 @@ excerpt: "On Wednesday and Thursday there are 1 hour 15 minute slots for <i>Ligh
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Lightning Talks
 created: 1138402571
 permalink: /conference/2006/lightning/

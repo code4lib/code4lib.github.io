@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Docker? VMs? EC2? Yes! With Packer.io
 created: 1417819312
 ---

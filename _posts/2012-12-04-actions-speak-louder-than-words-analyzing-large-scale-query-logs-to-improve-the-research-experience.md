@@ -16,7 +16,7 @@ excerpt: "<strong>Actions speak louder than words: Analyzing large-scale query l
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'Actions speak louder than words: Analyzing large-scale query logs to improve
   the research experience'
 created: 1354665448

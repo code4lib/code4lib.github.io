@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Keynote #1: Cathy Marshall - Code4Lib 2010'
 created: 1267069309
 ---

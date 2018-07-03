@@ -9,7 +9,7 @@ excerpt: "<strong>Joshua Ferraro</strong>, LibLime\r\n\r\n‡biblios.net is a ne
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: A New Platform for Open Data - Introducing ‡biblios.net Web Services
 created: 1242346116
 ---

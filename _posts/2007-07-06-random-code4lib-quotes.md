@@ -9,7 +9,7 @@ excerpt: "<script type=\"text/javascript\">\r\n\r\nvar Quotes = function(){\r\n\
   == 'function') {\r"
 categories:
 - irc
-layout: page
+layout: post
 title: 'Random #code4lib Quotes'
 created: 1183754076
 ---

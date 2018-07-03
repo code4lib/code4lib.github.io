@@ -6,7 +6,7 @@ excerpt: "<strong>One Week | One Tool: Ultra-Rapid Open Source Development Among
   Tuesday 8 February, 13:50 - 14:10\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'One Week | One Tool: Ultra-Rapid Open Source Development Among Strangers -
   Scott Hanrath'
 created: 1296087429

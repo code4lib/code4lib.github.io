@@ -15,7 +15,7 @@ excerpt: "<a href=\"http://maisonbisson.com/blog/\">Casey Bisson</a>\r\n\r\nThe 
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: What Blog Applications Can Teach Us About Library Software Architecture
 created: 1136869548
 permalink: /conference/2006/bisson/

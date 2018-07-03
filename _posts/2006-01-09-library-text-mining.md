@@ -10,7 +10,7 @@ excerpt: "<a href=\"http://www.csc.liv.ac.uk/~azaroth/\">Rob Sanderson</a>\r\n\r
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Library Text Mining
 created: 1136872693
 permalink: /conference/2006/sanderson/

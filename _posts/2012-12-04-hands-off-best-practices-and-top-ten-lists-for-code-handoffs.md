@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Hands off! Best Practices and Top Ten Lists for Code Handoffs
 created: 1354663069
 ---

@@ -16,7 +16,7 @@ excerpt: "<strong>Visualizing Library Data</strong>\r\n\r\n<ul>\r\n<li> Karen Co
   href=\"http://www.librarywebchic.net/mashups\">Demos in action</a></li>\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Visualizing Library Data - Karen Coombs
 created: 1295983055
 ---

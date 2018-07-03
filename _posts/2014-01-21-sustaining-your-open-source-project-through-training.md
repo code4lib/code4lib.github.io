@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Sustaining your Open Source project through training
 created: 1390336338
 ---

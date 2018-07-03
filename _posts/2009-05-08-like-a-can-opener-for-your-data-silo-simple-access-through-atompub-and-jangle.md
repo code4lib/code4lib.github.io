@@ -8,7 +8,7 @@ excerpt: "<strong>Ross Singer</strong>, Talis\r\n\r\nJangle is an open specifica
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'Like a can opener for your data silo: simple access through AtomPub and Jangle'
 created: 1241804617
 ---

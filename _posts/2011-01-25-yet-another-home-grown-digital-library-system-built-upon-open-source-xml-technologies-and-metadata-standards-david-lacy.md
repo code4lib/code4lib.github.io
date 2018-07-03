@@ -6,7 +6,7 @@ excerpt: "<strong>(Yet Another) Home-Grown Digital Library System, Built Upon Op
   9 February, 14:00 - 14:20\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: "(Yet Another) Home-Grown Digital Library System, Built Upon Open Source XML
   Technologies and Metadata Standards - David Lacy"
 created: 1296008234
