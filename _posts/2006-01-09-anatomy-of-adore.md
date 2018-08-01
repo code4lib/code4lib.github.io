@@ -13,6 +13,7 @@ categories:
 layout: page
 title: Anatomy of aDORe
 created: 1136871976
+permalink: /conference/2006/liu
 ---
 <a href="mailto:rchute@lanl.gov">Ryan Chute</a>
 
