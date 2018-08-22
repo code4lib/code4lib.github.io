@@ -14,6 +14,7 @@ categories:
 layout: page
 title: Standards, Reusability, and the Mating Habits of Learning Content
 created: 1136872339
+permalink: /conference/2006/robson
 ---
 <a href="http://www.eduworks.net/robby/">Robby Robson</a>
 

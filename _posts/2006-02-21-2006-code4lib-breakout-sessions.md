@@ -15,6 +15,7 @@ categories:
 layout: page
 title: 2006 code4lib Breakout Sessions
 created: 1140537598
+permalink: /conference/2006/breakouts
 ---
 <p><strong>Wednesday, February 15</strong></p>
 

@@ -13,6 +13,7 @@ categories:
 layout: page
 title: Chasing Babel
 created: 1136873082
+permalink: /conference/2006/smith
 ---
 <a href="http://www.oclc.org/research/staff/smith.htm">Devon Smith</a>
 

@@ -18,6 +18,7 @@ categories:
 layout: page
 title: What Blog Applications Can Teach Us About Library Software Architecture
 created: 1136869548
+permalink: /conference/2006/bisson
 ---
 <a href="http://maisonbisson.com/blog/">Casey Bisson</a>
 

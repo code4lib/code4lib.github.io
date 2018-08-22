@@ -5,6 +5,7 @@ categories:
 layout: page
 title: 'AHAH: When Good is Better than Best'
 created: 1136917792
+permalink: /conference/2006/durfee
 ---
 Casey Durfee
 

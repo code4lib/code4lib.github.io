@@ -13,6 +13,7 @@ categories:
 layout: page
 title: Quality Metrics
 created: 1136871728
+permalink: /conference/2006/krowne
 ---
 <a href="http://br.endernet.org/~akrowne/elaine/">Aaron Krowne</a>
 
