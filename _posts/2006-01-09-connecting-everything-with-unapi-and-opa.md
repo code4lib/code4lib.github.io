@@ -12,6 +12,7 @@ categories:
 layout: page
 title: Connecting Everything with unAPI and OPA
 created: 1136871464
+permalink: /conference/2006/chudnov
 ---
 <a href="http://onebiglibrary.net/">Dan Chudnov</a>
 

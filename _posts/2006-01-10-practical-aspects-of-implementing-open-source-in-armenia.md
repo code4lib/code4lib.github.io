@@ -5,6 +5,7 @@ categories:
 layout: page
 title: Practical Aspects of Implementing Open Source in Armenia
 created: 1136910872
+permalink: /conference/2006/zargaryan
 ---
 Tigran Zargaryan
 

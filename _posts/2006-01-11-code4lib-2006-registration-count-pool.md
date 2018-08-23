@@ -6,7 +6,7 @@ layout: page
 title: code4lib 2006 registration count pool
 created: 1136992196
 ---
-How many people will have registered by the official start of the conference?  Which, by <a href="http://www.code4lib.org/2006/schedule">the schedule</a>, will be 0930 PST on February 15, 2006.
+How many people will have registered by the official start of the conference?  Which, by <a href="http://www.code4lib.org/conference/2006/schedule">the schedule</a>, will be 0930 PST on February 15, 2006.
 
 Put your guess and your name/nick, in the list below, sorted by guess amount.  Winner (closest to exact amount without going over) gets a six-pack of <a href="http://www.deschutesbrewery.com/BrewPub/OnTap/5832.aspx">black butte porter</a> from dchud.  Seriously. 
 

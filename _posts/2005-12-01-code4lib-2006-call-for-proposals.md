@@ -1,6 +1,6 @@
 ---
 excerpt: "<strong>Call for proposals - Code4lib 2006</strong>\r\n\r\nWe are now accepting
-  proposals for prepared talks for <a href=\"http://www.code4lib.org/2006\">Code4lib
+  proposals for prepared talks for <a href=\"http://www.code4lib.org/conference/2006\">Code4lib
   2006</a>. Code4lib 2006 is a loosely structured conference for library technologists
   to commune, gather/create/share ideas and software, be inspired, and forge collaborations.
   It is also an outgrowth of the Access HackFest, wrapped into a conference-ish format.
@@ -14,10 +14,11 @@ categories:
 layout: page
 title: Code4lib 2006 Call For Proposals
 created: 1133477085
+permalink: /conference/2006/proposals
 ---
 <strong>Call for proposals - Code4lib 2006</strong>
 
-We are now accepting proposals for prepared talks for <a href="http://www.code4lib.org/2006">Code4lib 2006</a>. Code4lib 2006 is a loosely structured conference for library technologists to commune, gather/create/share ideas and software, be inspired, and forge collaborations. It is also an outgrowth of the Access HackFest, wrapped into a conference-ish format. It is *the* event for technologists building digital libraries and digital information systems, tools, and software.
+We are now accepting proposals for prepared talks for <a href="/conference/2006">Code4lib 2006</a>. Code4lib 2006 is a loosely structured conference for library technologists to commune, gather/create/share ideas and software, be inspired, and forge collaborations. It is also an outgrowth of the Access HackFest, wrapped into a conference-ish format. It is *the* event for technologists building digital libraries and digital information systems, tools, and software.
 
 At least six time slots will be available for prepared talks. We will choose from among the proposals based on diversity of topics, usefulness, wow factor, and potential impact.
 

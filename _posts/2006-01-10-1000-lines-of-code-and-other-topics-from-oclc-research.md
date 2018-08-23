@@ -14,6 +14,7 @@ categories:
 layout: page
 title: 1,000 Lines of Code, and other topics from OCLC Research
 created: 1136907282
+permalink: /conference/2006/hickey
 ---
 <a href="http://www.oclc.org/research/staff/hickeyt.htm">Thomas Hickey</a>
 

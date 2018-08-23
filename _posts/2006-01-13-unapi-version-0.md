@@ -13,7 +13,7 @@ And:
 
         <p>"The objective of unAPI is to enable web sites with <span class="caps">HTML</span> interfaces to information-rich objects to simultaneously publish richly structured metadata for those objects, or those objects themselves, in a predictable and consistent way for machine processing."</p>
 
-This specification is being developed under the <a href="http://curtis.med.yale.edu/dchud/log/project/rogue/announcing-rogue-05">ROGUE 05</a> process.  The next revision, revision 1, is due on Thursday, 16 Feb 2006, and is dependent on at least three working implementations to move forward.  That date is also day 2 of <a href="http://code4lib.org/2006">code4lib 2006</a>; I will be speaking about unAPI on day 1, and hopefully we'll have a breakout session following up the talk which will be a great time to discuss the spec, to try implementing it, and to work on revision 1 for release the next day. :)
+This specification is being developed under the <a href="http://curtis.med.yale.edu/dchud/log/project/rogue/announcing-rogue-05">ROGUE 05</a> process.  The next revision, revision 1, is due on Thursday, 16 Feb 2006, and is dependent on at least three working implementations to move forward.  That date is also day 2 of <a href="http://code4lib.org/conference/2006">code4lib 2006</a>; I will be speaking about unAPI on day 1, and hopefully we'll have a breakout session following up the talk which will be a great time to discuss the spec, to try implementing it, and to work on revision 1 for release the next day. :)
 
 We are tracking milestones, notes, and document revisions within a private basecamp project, but interested parties are welcome to participate (contact me for access).
 
