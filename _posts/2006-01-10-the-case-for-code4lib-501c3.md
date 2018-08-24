@@ -5,7 +5,7 @@ categories:
 layout: page
 title: The Case for Code4Lib 501c(3)
 created: 1136909396
-permalink: /conference/2006/tennant
+permalink: /conference/2006/tennant/
 ---
 <a href="http://roytennant.com/">Roy Tennant</a>
 

@@ -13,7 +13,7 @@ categories:
 layout: page
 title: Chasing Babel
 created: 1136873082
-permalink: /conference/2006/smith
+permalink: /conference/2006/smith/
 ---
 <a href="http://www.oclc.org/research/staff/smith.htm">Devon Smith</a>
 
@@ -29,8 +29,8 @@ model of the metadata translation problem.
 [1] <a href="http://www.oclc.org/research/projects/mswitch/godby-dc2003.pdf">http://www.oclc.org/research/projects/mswitch/godby-dc2003.pdf</a>
 [2] <a href="http://staff.oclc.org/~smithde/seel/">http://staff.oclc.org/~smithde/seel/</a>
 
-Devon Smith 
+Devon Smith
 Senior Software Engineer
-Office of Research 
-OCLC Online Computer Library Center, Inc 
+Office of Research
+OCLC Online Computer Library Center, Inc
 http://www.oclc.org/research/

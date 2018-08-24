@@ -12,7 +12,7 @@ categories:
 layout: page
 title: 'Generating Recommendations in OPACS: Initial Results and Open Areas for Exploration'
 created: 1136909528
-permalink: /conference/2006/whitney
+permalink: /conference/2006/whitney/
 ---
 <a href="http://dream.sims.berkeley.edu/~cwhitney/">Colleen Whitney</a>
 

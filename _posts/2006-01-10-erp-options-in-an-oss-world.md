@@ -16,7 +16,7 @@ categories:
 layout: page
 title: ERP Options in an OSS World
 created: 1136914460
-permalink: /conference/2006/rhyno
+permalink: /conference/2006/rhyno/
 ---
 <a href="http://web2.uwindsor.ca/library/leddy/people/art/">Art Rhyno</a>
 

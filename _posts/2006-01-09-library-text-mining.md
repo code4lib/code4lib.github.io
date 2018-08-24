@@ -13,7 +13,7 @@ categories:
 layout: page
 title: Library Text Mining
 created: 1136872693
-permalink: /conference/2006/sanderson
+permalink: /conference/2006/sanderson/
 ---
 <a href="http://www.csc.liv.ac.uk/~azaroth/">Rob Sanderson</a>
 

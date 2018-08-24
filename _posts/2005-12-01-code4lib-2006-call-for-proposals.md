@@ -14,7 +14,7 @@ categories:
 layout: page
 title: Code4lib 2006 Call For Proposals
 created: 1133477085
-permalink: /conference/2006/proposals
+permalink: /conference/2006/proposals/
 ---
 <strong>Call for proposals - Code4lib 2006</strong>
 

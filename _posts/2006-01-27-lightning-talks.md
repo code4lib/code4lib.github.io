@@ -15,7 +15,7 @@ categories:
 layout: page
 title: Lightning Talks
 created: 1138402571
-permalink: /conference/2006/lightning
+permalink: /conference/2006/lightning/
 ---
 On Wednesday and Thursday there are 1 hour 15 minute slots for <i>Lightning Talks</i>. A lightning talk is a fast paced 5 minute talk on the topic of your choosing. If you'd like to do a lightning talk please add your name, topic to this page. You can do more than one if you want, but if the lots fill up (there are 30 of them) you might have to choose which one you want to do.
 

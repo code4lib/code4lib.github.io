@@ -15,7 +15,7 @@ categories:
 layout: page
 title: 2006 code4lib Breakout Sessions
 created: 1140537598
-permalink: /conference/2006/breakouts
+permalink: /conference/2006/breakouts/
 ---
 <p><strong>Wednesday, February 15</strong></p>
 
@@ -43,5 +43,5 @@ Suggested By Andrew Nagy</p>
 <p><em>The future of code4lib</em> (Roy Tennant)
 
 <p><em>More Lipstick on a Pig: Improving OPACs</em><br />
-Share ideas for ways to improve OPACs either by hacking/adding services/integrating services with vendor supplied OPACs or by exporting the data and presenting it in a custom app. 
+Share ideas for ways to improve OPACs either by hacking/adding services/integrating services with vendor supplied OPACs or by exporting the data and presenting it in a custom app.
 (Tom Burton-West)</p>

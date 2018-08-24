@@ -13,7 +13,7 @@ categories:
 layout: page
 title: 'Lipstick on a Pig: 7 Ways to Improve the Sex Life of Your OPAC'
 created: 1136914179
-permalink: /conference/2006/robertson
+permalink: /conference/2006/robertson/
 ---
 Jim Robertson
 

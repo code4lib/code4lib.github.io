@@ -13,7 +13,7 @@ categories:
 layout: page
 title: Teaching the Library and Information Community How to Remix Information
 created: 1136909767
-permalink: /conference/2006/yee
+permalink: /conference/2006/yee/
 ---
 <a href="http://iu.berkeley.edu/rdhyee">Raymond Yee</a>
 
