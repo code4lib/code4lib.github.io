@@ -13,6 +13,7 @@ categories:
 layout: page
 title: 'The XQuery Exposé: Practical Experiences from a Digital Library'
 created: 1166479664
+permalink: /conference/2007/clarke/
 ---
 <b>Kevin Clarke</b>
 

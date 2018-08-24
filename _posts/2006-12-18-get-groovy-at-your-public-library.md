@@ -12,6 +12,7 @@ categories:
 layout: page
 title: Get Groovy at Your Public Library
 created: 1166479566
+permalink: /conference/2007/degroff/
 ---
 <b>Amy Begg De Groff and Luis Salazar</b>
 

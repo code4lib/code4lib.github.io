@@ -14,12 +14,13 @@ categories:
 layout: page
 title: 'Free the Data: Creating a Web Services Interface to the Online Catalog'
 created: 1166479454
+permalink: /conference/2007/lynema/
 ---
 <b>Emily Lynema</b>
 
 NCSU Libraries’ initial implementation of its Endeca-powered catalog did little to utilize increased flexibility to create more interoperability.
 
-This talk would discuss current work to enable integration by creating a web services platform on top of the catalog. Examples include a web service supplying local availability for ISBN REST requests, an RSS layer for all catalog search/browse activities, and OpenSearch integration with the library website’s Quick Search (including experimentation with facet data in OpenSearch). 
+This talk would discuss current work to enable integration by creating a web services platform on top of the catalog. Examples include a web service supplying local availability for ISBN REST requests, an RSS layer for all catalog search/browse activities, and OpenSearch integration with the library website’s Quick Search (including experimentation with facet data in OpenSearch).
 
 <b>Presentation</b>
 
@@ -27,7 +28,7 @@ This talk would discuss current work to enable integration by creating a web ser
 
 <b>Watch Video</b>
 
-<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=4466664384458829806&hl=en" flashvars=""> </embed>
+<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=4466664384458829806&hl=en" flashvars="">
 
 <a href="http://video.google.com/videoplay?docid=4466664384458829806&hl=en">Video on Google</a>
 <a href="http://streaming.msu.edu/storemedia/download/ebyryan/code4lib07/code4lib07_pres_web_services_lynema.mp4">Download Video</a> (MPEG-4, 36.9 Mb, MSU Mirror)

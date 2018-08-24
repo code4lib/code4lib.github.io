@@ -13,7 +13,7 @@ created: 1161039538
 </a>
 </div>
 
-We are now accepting proposals for prepared talks for <a href="http://www.code4lib.org/2007">Code4lib 2007</a>.
+We are now accepting proposals for prepared talks for <a href="http://www.code4lib.org/conference/2007">Code4lib 2007</a>.
 
 Code4lib 2007 is a loosely structured conference for library
 technologists to commune, gather/create/share ideas and software, be

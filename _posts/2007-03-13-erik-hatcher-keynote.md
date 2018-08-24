@@ -10,6 +10,7 @@ categories:
 layout: page
 title: Erik Hatcher Keynote
 created: 1173810394
+permalink: /conference/2007/hatcher/
 ---
 Presentation on Solr, Libraries and more.
 

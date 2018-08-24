@@ -14,6 +14,7 @@ layout: page
 title: 'The Intellectual Property Disclosure Process: Releasing Open Source Software
   in Academia'
 created: 1171043988
+permalink: /conference/2007/doran/
 ---
 <b>Michael Doran</b>
 

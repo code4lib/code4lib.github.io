@@ -31,7 +31,7 @@ created: 1150396752
 <dt><strong>Dates</strong></dt>
 
 <dd>28 February - 2 March 2007</dd>
-<dd>(27 February <a href="/node/139">Lucene/Solr pre-conference</a>)</dd>
+<dd>(27 February <a href="/conference/2007/lucenesolr">Lucene/Solr pre-conference</a>)</dd>
 
 <dt><strong>Location</strong></dt>
 <ul>
@@ -41,13 +41,13 @@ created: 1150396752
 
 
 <dt><strong>Conference Schedule</strong></dt>
-<dd>Check out the incredible line-up in the <a href="/2007/schedule">Conference Schedule</a>. Notice all of the opportunities to give a five-minute talk during one of the Lightning Talks sessions, sign-ups will happen at the conference.</dd>
+<dd>Check out the incredible line-up in the <a href="/conference/2007/schedule">Conference Schedule</a>. Notice all of the opportunities to give a five-minute talk during one of the Lightning Talks sessions, sign-ups will happen at the conference.</dd>
 
 
 <dt><strong>Registration</strong></dt>
 <ul>
 <li> <a href="http://www.georgiacenter.uga.edu/conferences/2007/Feb/28/code4.phtml">Conference Registration</a> - USD$100  <strong>NOTE: Registration for the conference is full. You may still register and be placed on a waiting list.</strong></li>
-<li> <a href="/node/139">Pre-Conference Registration</a> - Free, but register</li>
+<li> <a href="/conference/2007/lucenesolr">Pre-Conference Registration</a> - Free, but register</li>
 <li> <a href="http://code4lib.org/wiki/ListofAttendees">List of Attendees</a></li>
 </ul>
 
@@ -83,7 +83,7 @@ Fly into:
 
 <li><em>Prepared talks</em> - 20 minutes, which must center on "tools" (some kick-ass new software library or integration platform), "specs" (how to get the most out of some protocols, or proposals for new ones), or "challenges" (Some Big Problem  we should collectively address). We will evaluate proposals on criteria of geekiness, usefulness, newness, and diversity of topics.</li>
 
-<li><em><a href="http://code4lib.org/2007/lightningtalks">Lightning talks</a></em>  - 5 minutes, those interested sign up on a wiki that opens at the start of the conference.  *Hard* 5 minute limit... at 4 minutes the next person gets up and starts attaching their screen, and somebody keeps a hard count.</li>
+<li><em><a href="/conference/2007/lightningtalks">Lightning talks</a></em>  - 5 minutes, those interested sign up on a wiki that opens at the start of the conference.  *Hard* 5 minute limit... at 4 minutes the next person gets up and starts attaching their screen, and somebody keeps a hard count.</li>
 
 <li><em><a href="http://code4lib.org/wiki/2007">Breakouts</a></em> - People interested in the same project/problem can hang out in a space together for 60-90 minute blocks. Somebody near to the project/problem can coordinate discussion, set up hackers, tackle a challenge session topic, etc. Larger groups will get separate space, smaller groups can just spread out in the larger conference room space.</li>
 
