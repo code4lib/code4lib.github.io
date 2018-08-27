@@ -13,6 +13,7 @@ categories:
 layout: page
 title: On the Herding of Cats
 created: 1166479191
+permalink: /conference/2007/rylander/
 ---
 <b>Mike Rylander</b>
 

@@ -13,10 +13,11 @@ categories:
 layout: page
 title: Atom Publishing Protocol Primer
 created: 1166479506
+permalink: /conference/2007/summers/
 ---
 <b>Ed Summers</b>
 
-The Atom Publishing Protocol is an HTTP based protocol for publishing and editing Web resources. It has direct relevance for libraries and archives that are increasingly interested in building repositories of content on the web. In this presentation I will cover why the protocol was created, how it is being developed, and how to build out and exercise a simple APP application. 
+The Atom Publishing Protocol is an HTTP based protocol for publishing and editing Web resources. It has direct relevance for libraries and archives that are increasingly interested in building repositories of content on the web. In this presentation I will cover why the protocol was created, how it is being developed, and how to build out and exercise a simple APP application.
 
 
 [<a href="http://inkdroid.org/talks/app/">slides</a>] [<a href="http://textualize.com/svn/app_primer/">code</a>]

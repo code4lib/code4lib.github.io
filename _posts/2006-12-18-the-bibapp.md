@@ -14,6 +14,7 @@ categories:
 layout: page
 title: The BibApp
 created: 1166480032
+permalink: /conference/2007/larson/
 ---
 <b>Eric Larson, Nate Vack</b>
 

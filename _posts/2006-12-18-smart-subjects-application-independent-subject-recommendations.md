@@ -13,10 +13,11 @@ categories:
 layout: page
 title: Smart Subjects - Application Independent Subject Recommendations
 created: 1166479737
+permalink: /conference/2007/sierra/
 ---
 <b>Tito Sierra</b>
 
-The Smart Subjects tool attempts to increase broader user discovery of relevant library resources by serendipitously recommending library subjects related to a user's search query. The prototype tool uses large locally created subject indexes consisting of rich topical keyword content harvested from local sources. An OpenSearch interface allows this recommendation service to be integrated flexibly and easily in a variety of web applications. 
+The Smart Subjects tool attempts to increase broader user discovery of relevant library resources by serendipitously recommending library subjects related to a user's search query. The prototype tool uses large locally created subject indexes consisting of rich topical keyword content harvested from local sources. An OpenSearch interface allows this recommendation service to be integrated flexibly and easily in a variety of web applications.
 
 <b>Presentation</b>
 

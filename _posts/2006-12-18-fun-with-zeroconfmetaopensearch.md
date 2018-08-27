@@ -11,6 +11,7 @@ categories:
 layout: page
 title: Fun with ZeroConfMetaOpenSearch
 created: 1166479097
+permalink: /conference/2007/chudnov/
 ---
 <b>Dan Chudnov</b>
 

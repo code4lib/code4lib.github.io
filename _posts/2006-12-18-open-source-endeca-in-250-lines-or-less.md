@@ -13,6 +13,7 @@ categories:
 layout: page
 title: Open-Source Endeca in 250 Lines or Less
 created: 1166479923
+permalink: /conference/2007/durfee/
 ---
 <b>Casey Durfee</b>
 

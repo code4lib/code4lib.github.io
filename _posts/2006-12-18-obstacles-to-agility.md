@@ -14,6 +14,7 @@ categories:
 layout: page
 title: Obstacles to Agility
 created: 1166479983
+permalink: /conference/2007/starr/
 ---
 <b>Joan Starr</b>
 

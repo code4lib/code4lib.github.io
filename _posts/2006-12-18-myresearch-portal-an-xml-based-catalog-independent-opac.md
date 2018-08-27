@@ -15,6 +15,7 @@ categories:
 layout: page
 title: 'MyResearch Portal: An XML based Catalog-Independent OPAC'
 created: 1166480090
+permalink: /conference/2007/nagy/
 ---
 <b>Andrew Nagy</b>
 

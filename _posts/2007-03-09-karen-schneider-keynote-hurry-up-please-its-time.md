@@ -10,6 +10,7 @@ categories:
 layout: page
 title: Karen Schneider Keynote "Hurry up please it's time"
 created: 1173474828
+permalink: /conference/2007/schneider/
 ---
 Karen's posting about the keynote: <a href="http://freerangelibrarian.com/2007/03/lockss_stock_and_keynote.php">LOCKSS, Stock, and Keynote</a>
 
@@ -22,7 +23,7 @@ Karen's posting about the keynote: <a href="http://freerangelibrarian.com/2007/0
 
 <b>Watch Video</b>
 
-<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-8994885552796060698&hl=en" flashvars=""> </embed>
+<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-8994885552796060698&hl=en" flashvars="">
 
 <a href="http://video.google.com/videoplay?docid=-8994885552796060698">Video on Google</a>
 <a href="http://streaming.msu.edu/storemedia/download/ebyryan/code4lib07/code4lib07_keynote_karen.mp4">Download Video</a> (MPEG-4, 108.9 Mb, MSU Mirror)

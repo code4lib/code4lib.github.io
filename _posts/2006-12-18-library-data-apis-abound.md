@@ -13,6 +13,7 @@ categories:
 layout: page
 title: Library Data APIs Abound!
 created: 1166479786
+permalink: /conference/2007/wallis/
 ---
 <b>Richard Wallis</b>
 
@@ -20,7 +21,7 @@ From Z39.50 to xISBN, they share the limitation of providing a single stream of 
 
 How to add value to data from one source with relevant data from another, and how do you orchestrate that interaction in a scalable way?
 
-A review and practical demonstration of augmentation APIs and their orchestration in a way that would make those used to Unix Pipes principles, feel at home. 
+A review and practical demonstration of augmentation APIs and their orchestration in a way that would make those used to Unix Pipes principles, feel at home.
 
 <b>Presentation</b>
 

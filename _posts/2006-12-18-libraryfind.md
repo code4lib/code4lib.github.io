@@ -13,6 +13,7 @@ categories:
 layout: page
 title: LibraryFind
 created: 1166479383
+permalink: /conference/2007/reese/
 ---
 <b>Terry Reese</b>
 

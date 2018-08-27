@@ -14,6 +14,7 @@ categories:
 layout: page
 title: Library-in-a-Box
 created: 1166479838
+permalink: /conference/2007/sadler/
 ---
 <b>Bess Sadler, Tigran Zargaryan</b>
 

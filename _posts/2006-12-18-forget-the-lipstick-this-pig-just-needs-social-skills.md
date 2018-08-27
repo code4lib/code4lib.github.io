@@ -17,6 +17,7 @@ categories:
 layout: page
 title: Forget the Lipstick. This Pig Just Needs Social Skills.
 created: 1166479264
+permalink: /conference/2007/tiburce/
 ---
 <b>Fabien Tiburce, Peter Giansante</b>
 
@@ -28,7 +29,7 @@ This session will describe the work that BiblioCommons has been undertaking to e
 
 <b>View Video</b>
 
-<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-6438660403122844289&hl=en" flashvars=""> </embed>
+<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-6438660403122844289&hl=en" flashvars="">
 
 <a href="http://video.google.com/videoplay?docid=-6438660403122844289&hl=en">Watch on Google</a>
 <a href="http://streaming.msu.edu/storemedia/download/ebyryan/code4lib07/code4lib07_pres_forget_lipstick_tiburce.mp4">Download Video</a> (MP4, 41.7 MB, MSU Mirror)
