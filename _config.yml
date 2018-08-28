@@ -35,6 +35,7 @@ header_pages:
 twitter_username: code4lib
 github_username:  code4lib
 youtube_username: code4lib
+mastodon_instance: code4lib.social
 
 # Build settings
 markdown: kramdown
