@@ -9,6 +9,7 @@ categories:
 layout: page
 title: Show Your Stuff, using Omeka
 created: 1198817607
+permalink: /conference/2008/lester/
 ---
 <a href="http://omeka.org/presentations/code4lib2008/">View slides</a>
 

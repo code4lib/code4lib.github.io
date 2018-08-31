@@ -6,6 +6,7 @@ categories:
 layout: page
 title: CouchDB is sacrilege... mmm, delicious sacrilege
 created: 1198801342
+permalink: /conference/2008/scott/
 ---
 <b>Dan Scott</b> - Laurentian University<br />
 CouchDB has gained buzz in the last year as an ad-hoc, schema-free, web-friendly data store. Slapstick hilarity results when a self- confessed relational database bigot experiments with CouchDB and reports on the good, the bad, and the meh. Translation into serious-ese: I will introduce CouchDB, show how one or more applications interact with it, and share any "wows" or "gotchas" that I ran into.

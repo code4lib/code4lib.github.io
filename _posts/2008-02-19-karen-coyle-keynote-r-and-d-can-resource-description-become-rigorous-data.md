@@ -12,6 +12,7 @@ categories:
 layout: page
 title: 'Karen Coyle Keynote - R&D: Can Resource Description become Rigorous Data?'
 created: 1203444579
+permalink: /conference/2008/kcoyle/
 ---
 Work is beginning to transform the eloquent yet arcane texts called
 "library cataloging records" into data elements that will play well in

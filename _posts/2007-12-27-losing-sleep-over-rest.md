@@ -6,6 +6,7 @@ categories:
 layout: page
 title: Losing sleep over REST?
 created: 1198817848
+permalink: /conference/2008/dalton/
 ---
 <b>Jospeh Dalton</b> - NYPL Labs<br />
 <b>Jay Datema</b> - NYPL Labs<br />

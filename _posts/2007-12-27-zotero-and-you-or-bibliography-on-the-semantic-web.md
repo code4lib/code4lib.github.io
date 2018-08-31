@@ -5,6 +5,7 @@ categories:
 layout: page
 title: Zotero and You, or Bibliography on the Semantic Web
 created: 1198798787
+permalink: /conference/2008/owens/
 ---
 <b>Trevor Owens</b> - Technology Evangelist, Center for History and New Media, George Mason University<br />
 Representatives from the Center for History and New Media will introduce Zotero, a free and open source extension for Firefox that allows you to collect, organize and archive your research materials. After a brief demo and explanation, we will discuss best practices for making your projects "Zotero ready" and other opportunities to integrate with your digital projects through the Zotero API. <a href="http://www.zotero.org/download/code4lib.ppt"> Presentation Slides </a>

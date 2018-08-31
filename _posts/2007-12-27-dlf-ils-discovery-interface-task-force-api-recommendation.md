@@ -5,6 +5,7 @@ categories:
 layout: page
 title: DLF ILS Discovery Interface Task Force API recommendation
 created: 1198801436
+permalink: /conference/2008/lynema/
 ---
 <b>Emily Lynema</b> - Systems Librarian for Digital Projects, North Carolina State University<br /><b>Terry Reese</b> - Oregon State University
 <br />

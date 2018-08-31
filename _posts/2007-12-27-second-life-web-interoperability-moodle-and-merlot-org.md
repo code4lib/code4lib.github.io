@@ -7,6 +7,7 @@ categories:
 layout: page
 title: Second Life Web Interoperability - Moodle and Merlot.org
 created: 1198818110
+permalink: /conference/2008/kemp/
 ---
 <b>Jeremy Kemp</b> - SJSU SLIS<br />
 <b>Dr. Jonathon Richter</b> - University of Oregon<br />

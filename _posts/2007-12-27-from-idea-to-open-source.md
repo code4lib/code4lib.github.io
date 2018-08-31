@@ -6,6 +6,7 @@ categories:
 layout: page
 title: From Idea to Open Source
 created: 1198799531
+permalink: /conference/2008/nagy/
 ---
 <b>Andrew Nagy</b> - Villanova University<br />
 Last year I spoke about my research and initial investigations of building a "Next Generation Catalog" using XML technologies coined as the MyResearch Portal. The software has since progressed into an open source project known as VuFind. In this presentation I will talk about architecture and design decisions that were made to turn VuFind into a viable open source project and what future plans are in store, as well as how making the project open source has aided the project (and put me into project leader overtime).

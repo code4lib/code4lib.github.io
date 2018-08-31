@@ -6,6 +6,7 @@ categories:
 layout: page
 title: Using a CSS Framework
 created: 1198817408
+permalink: /conference/2008/barr/
 ---
 <b>Chris Barr</b> - Villanova University<br />
 

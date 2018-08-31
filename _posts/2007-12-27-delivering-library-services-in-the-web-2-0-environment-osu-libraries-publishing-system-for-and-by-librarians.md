@@ -8,6 +8,7 @@ layout: page
 title: 'Delivering Library Services in the Web 2.0 environment: OSU Libraries Publishing
   System for and by Librarians'
 created: 1198801803
+permalink: /conference/2008/griggs/
 ---
 <b>Kim Griggs</b> - Oregon State University<br />
 <b>Margaret Mellinger</b> - Oregon State University<br />

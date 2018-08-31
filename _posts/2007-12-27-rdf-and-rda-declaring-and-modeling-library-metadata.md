@@ -6,6 +6,7 @@ categories:
 layout: page
 title: 'RDF and RDA: declaring and modeling library metadata'
 created: 1198817739
+permalink: /conference/2008/harper/
 ---
 <b>Corey A. Harper</b> - Metadata Services Librarian, New York University<br />
 

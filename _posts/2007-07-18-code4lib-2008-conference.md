@@ -32,9 +32,9 @@ Other places to stay: <a href="http://www.markspencer.com/">Mark Spencer Hotel</
 <b><a href="http://www.flypdx.com/">Portland International Airport (PDX)</a></b>
 Public Transit from PDX to the conference hotel:
 <ol>
-<li> Board MAX Red Line to City Center & Beaverton TC
-<li> Get off at Oak/ SW 1st Ave MAX Station
-<li>Walk 0.2 mile northwest to Embassy Suites Hotel (319 SW Pine St) -
+    <li> Board MAX Red Line to City Center & Beaverton TC
+    <li> Get off at Oak/ SW 1st Ave MAX Station
+    <li>Walk 0.2 mile northwest to Embassy Suites Hotel (319 SW Pine St) -
 </ol>
 Travel time: 39 minutes (including 5 minutes walking). At $20, the <a href="http://www.trimet.org/7daypass/index.htm">7-Day Pass</a> seems like a good deal, as it would cover both the airport-to-hotel and back trips (via MAX Light Rail), and all public transportation (bus/streetcar/light rail) in and around Portland.  (Single fare: $2.05; daypass: $4.20.) Rides within the downtown area <a href="http://www.trimet.org/fares/fareless.htm">"fareless square"</a> (which includes the hotel) are free. Visit <a href="http://www.trimet.org/index.htm">TriMet</a> for more public transit information.
 
@@ -49,7 +49,7 @@ Travel time: 39 minutes (including 5 minutes walking). At $20, the <a href="http
 
 <h3>Gender Diversity and Minority Scholarships for Code4lib 2008</h3>
 
-<a href="http://code4lib.org/node/208">Information on applying for the scholarships</a>
+<a href="/conference/2008/scholarship/">Information on applying for the scholarships</a>
 
 
 

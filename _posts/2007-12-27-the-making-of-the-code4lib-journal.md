@@ -9,6 +9,7 @@ categories:
 layout: page
 title: The Making of The Code4Lib Journal
 created: 1198802045
+permalink: /conference/2008/brinley/
 ---
 <a href="http://docs.google.com/Presentation?docid=dgq78tgg_40c565pjds">View slides</a>
 

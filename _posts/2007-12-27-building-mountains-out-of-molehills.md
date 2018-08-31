@@ -5,6 +5,7 @@ categories:
 layout: page
 title: Building Mountains Out of Molehills
 created: 1198802154
+permalink: /conference/2008/kennedy/
 ---
 <b>Patrick Kennedy</b> - Bibliocommons<br />
 <b>Ronald Braun</b> - Bibliocommons<br />

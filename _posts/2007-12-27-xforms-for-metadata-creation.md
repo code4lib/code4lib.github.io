@@ -7,6 +7,7 @@ categories:
 layout: page
 title: XForms for Metadata creation
 created: 1198802500
+permalink: /conference/2008/salesky/
 ---
 <b>Winona Salesky</b> - Digital Initiatives Librarian, University of Vermont<br />
 <b>Michael Park</b> - Brown University<br />

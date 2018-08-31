@@ -7,6 +7,7 @@ categories:
 layout: page
 title: The Code4Lib Future
 created: 1198801547
+permalink: /conference/2008/corrado/
 ---
 <a href=" http://ecorrado.us/scholarly/code4lib2008/">View slides</a>
 

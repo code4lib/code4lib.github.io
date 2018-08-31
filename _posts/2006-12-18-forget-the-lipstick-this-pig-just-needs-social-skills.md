@@ -25,7 +25,7 @@ Various (discrete and disparate) library systems have experimented with incorpor
 
 However, if this content was aggregated across jurisdictions (using a small footprint web-service model and centralized database), libraries could play a central role in the evolution of "social search" on the web. Specifically, if libraries put more emphasis on gathering structured data from patrons, this data could be integrated not only into the display of bibliographic records, but into the algorithms which guide the patron's searches and discovery processes. This includes natural language thesauri that link user tags to library classifications, user ratings factored into relevancy rankings, user-generated "bibliographies" (Pick Lists) linked to search terms, and the filtering of results by trusted groups of users - as selected by the Patron.
 
-This session will describe the work that BiblioCommons has been undertaking to explore implementation models for Social Discovery Systems in library environments, with seed funding form three Canadian Provinces.
+This session will describe the work that BiblioCommons has been undertaking to explore implementation models for Social Discovery Systems in library environments, with seed funding from three Canadian Provinces.
 
 <b>View Video</b>
 
