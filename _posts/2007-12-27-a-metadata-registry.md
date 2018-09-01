@@ -7,6 +7,7 @@ categories:
 layout: page
 title: A Metadata Registry
 created: 1198801659
+permalink: /conference/2008/phipps/
 ---
 <b>Jon Phipps</b> - NSDL Metadata Registry, Cornell University Libraries<br />
 

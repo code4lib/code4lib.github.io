@@ -6,6 +6,7 @@ categories:
 layout: page
 title: OSS Web-based cataloging tool
 created: 1198802250
+permalink: /conference/2008/catalfo/
 ---
 <b>Chris Catalfo</b> - Programmer, LibLime<br />
 

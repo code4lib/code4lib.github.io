@@ -11,6 +11,7 @@ categories:
 layout: page
 title: Working with the WorldCat API
 created: 1198798652
+permalink: /conference/2008/walker/
 ---
 <b>David Walker</b> - California State University
 David Walker, from California State University, will show a prototype that uses the new OCLC Grid Services WorldCat API. The presentation will detail the newly released WorldCat API, examining its strengths and weaknesses. The prototype will include some examples of how libraries might integrate the API with their local systems in order to build a custom WorldCat interface designed specifically for their users.

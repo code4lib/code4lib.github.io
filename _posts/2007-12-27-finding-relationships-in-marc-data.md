@@ -6,6 +6,7 @@ categories:
 layout: page
 title: Finding Relationships in MARC Data
 created: 1198801940
+permalink: /conference/2008/styles/
 ---
 <b>Rob Styles</b> - Programme Manager, Talis<br />
 

@@ -6,6 +6,7 @@ categories:
 layout: page
 title: The Wayback Machine
 created: 1198799389
+permalink: /conference/2008/tofel/
 ---
 <b>Brad Tofel</b> - Lead Developer, Wayback Machine, Internet Archive<br />
 Open source Wayback Machine 1.4 (Feb08) will conclude a year of substantial evolution of the tool. We will describe the new app framework designed to facilitate flexible configuration, customization, and integration with other applications and workflows, to extend file and repository support, and to eliminate dependencies on client-side javascript. We will also review added/enhanced replay modes and pluggable components, the multi-tier, exclusion management system, and improved performance, scalability and extensibility of the app.

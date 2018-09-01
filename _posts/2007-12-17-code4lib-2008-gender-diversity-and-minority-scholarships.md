@@ -11,12 +11,13 @@ categories:
 layout: page
 title: Code4lib 2008 Gender Diversity and Minority Scholarships
 created: 1197933573
+permalink: /conference/2008/scholarship/
 ---
 Oregon State University and Code4lib are offering scholarships to promote gender and cultural diversity.
 
 <h3>OSU / Code4lib Gender Diversity Scholarship</h3>
 
-The OSU / Code4lib Gender Diversity Scholarship will provide up to $1000 to cover travel costs and conference fees for one qualified attendee to the 2008 Code4lib conference (February 25-28 in Portland, OR). This scholarship is eligible to any woman interested in actively contributing to the mission and goals of the Code4lib Conference. 
+The OSU / Code4lib Gender Diversity Scholarship will provide up to $1000 to cover travel costs and conference fees for one qualified attendee to the 2008 Code4lib conference (February 25-28 in Portland, OR). This scholarship is eligible to any woman interested in actively contributing to the mission and goals of the Code4lib Conference.
 
 Applications will be judged by the scholarship committee on a combination of merit and need. The recipient of the scholarship will be asked to write-up a trip report of the conference.
 

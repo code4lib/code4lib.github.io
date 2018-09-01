@@ -10,6 +10,7 @@ categories:
 layout: page
 title: Code4libcon 2008 Lightning Talks
 created: 1204649618
+permalink: /conference/2008/lightning/
 ---
 <h2>Lightning Talks 1 (Tuesday 16:15-17:30)</h2>
 <ul>
