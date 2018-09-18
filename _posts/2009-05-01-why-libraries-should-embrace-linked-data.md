@@ -12,6 +12,7 @@ categories:
 layout: page
 title: Why libraries should embrace Linked Data
 created: 1241210730
+permalink: /conference/2009/soderback/
 ---
 <strong>Anders Söderbäck</strong>, National Library of Sweden
 

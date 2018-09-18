@@ -12,10 +12,11 @@ categories:
 layout: page
 title: A New Platform for Open Data - Introducing ‡biblios.net Web Services
 created: 1242346116
+permalink: /conference/2009/ferraro/
 ---
 <strong>Joshua Ferraro</strong>, LibLime
 
-‡biblios.net is a new Software-as-a-Service offering based on the open-source ‡biblios metadata editor. ‡biblios.net provides free access to the world's largest database of openly-licensed library records--available under the Open Data Commons license and accessible via ‡biblios.net_Web_Services (BWS). BWS is a simple set of APIs that enable applications to interact with the database. This talk introduces BWS and provides examples of how it can be used by libraries/museums/archives as a platform for storing Openly Licensed Data. 
+‡biblios.net is a new Software-as-a-Service offering based on the open-source ‡biblios metadata editor. ‡biblios.net provides free access to the world's largest database of openly-licensed library records--available under the Open Data Commons license and accessible via ‡biblios.net_Web_Services (BWS). BWS is a simple set of APIs that enable applications to interact with the database. This talk introduces BWS and provides examples of how it can be used by libraries/museums/archives as a platform for storing Openly Licensed Data.
 
 <p>&nbsp;</p>
 <strong>QuickTime Video:</strong>

@@ -11,6 +11,7 @@ categories:
 layout: page
 title: 'Like a can opener for your data silo: simple access through AtomPub and Jangle'
 created: 1241804617
+permalink: /conference/2009/singer/
 ---
 <strong>Ross Singer</strong>, Talis
 

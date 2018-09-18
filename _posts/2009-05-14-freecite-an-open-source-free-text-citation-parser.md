@@ -11,6 +11,7 @@ categories:
 layout: page
 title: FreeCite - An Open Source Free-Text Citation Parser
 created: 1242347575
+permalink: /conference/2009/shoemaker/
 ---
 <strong>Chris Shoemaker</strong>, Public Display
 

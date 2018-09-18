@@ -5,6 +5,7 @@ categories:
 layout: page
 title: If You Love Something...Set it Free
 created: 1242382477
+permalink: /conference/2009/davis/
 ---
 <strong>Ian Davis</strong>, Talis
 Keynote Address

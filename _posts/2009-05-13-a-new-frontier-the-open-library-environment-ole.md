@@ -10,6 +10,7 @@ categories:
 layout: page
 title: A new frontier - the Open Library Environment (OLE)
 created: 1242227665
+permalink: /conference/2009/mcgeary/
 ---
 <strong>Timothy McGeary</strong>, Lehigh University
 

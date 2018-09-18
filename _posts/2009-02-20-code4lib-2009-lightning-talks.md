@@ -10,26 +10,27 @@ categories:
 layout: page
 title: Code4Lib 2009 Lightning Talks
 created: 1235164772
+permalink: /conference/2009/lightning/
 ---
 Lightning talks on are scheduled on all three days of the conference.  A lightning talk is a fast paced 5 minute talk on a topic of your choosing. If you'd like to do a lightning talk please add your name and topic to the flipchart that will be available at the conference. You can do more than one if you want, but if the slots fill up (there are 39 of them) you might have to choose which one you want to do.
 
 <!-- BREAK -->
 
-Mark Jason Dominus has a nice page <a href="http://perl.plover.com/lt/lightning-talks.html">about lightning talk</a>s, which includes this summary of why you might want to do one:
+Mark Jason Dominus has a nice page <a href="http://perl.plover.com/lt/lightning-talks.html">about lightning talks</a>, which includes this summary of why you might want to do one:
 
-<em>Maybe you've never given a talk before, and you'd like to start small. For a Lightning Talk, you don't need to make slides, and if you do decide to make slides, you only need to make three.
+<em>Maybe you've never given a talk before, and you'd like to start small. For a Lightning Talk, you don't need to make slides, and if you do decide to make slides, you only need to make three.</em>
 
-Maybe you're nervous and you're afraid you'll mess up. It's a lot easier to plan and deliver a five minute talk than it is to deliver a long talk. And if you do mess up, at least the painful part will be over quickly.
+<em>Maybe you're nervous and you're afraid you'll mess up. It's a lot easier to plan and deliver a five minute talk than it is to deliver a long talk. And if you do mess up, at least the painful part will be over quickly.</em>
 
-Maybe you don't have much to say. Maybe you just want to ask a question, or invite people to help you with your project, or boast about something you did, or tell a short cautionary story. These things are all interesting and worth talking about, but there might not be enough to say about them to fill up thirty minutes.
+<em>Maybe you don't have much to say. Maybe you just want to ask a question, or invite people to help you with your project, or boast about something you did, or tell a short cautionary story. These things are all interesting and worth talking about, but there might not be enough to say about them to fill up thirty minutes.</em>
 
-Maybe you have a lot of things to say, and you're already going to give a long talk on one of them, and you don't want to hog the spotlight. There's nothing wrong with giving several Lightning Talks. Hey, they're only five minutes.</em>
+<em>Maybe you have a lot of things to say, and you're already going to give a long talk on one of them, and you don't want to hog the spotlight. There's nothing wrong with giving several Lightning Talks. Hey, they're only five minutes.</em>
 
-You might also like Mark Fowler's's <a href="http://www.perl.com/pub/a/2004/07/30/lightningtalk.html">Advice for Giving a Lightning Talk</a>
+You might also like Mark Fowler's <a href="http://www.perl.com/pub/a/2004/07/30/lightningtalk.html">Advice for Giving a Lightning Talk</a>
 
-See <a href="http://code4lib.org/conference/2008/lightning">2008 Lightning Talks</a>.
-<a href="http://code4lib.org/2007/lightningtalks"> 2007 Lightning Talks</a>.
-<a href="http://code4lib.org/2006/lightning">2006 Lightning Talks</a>.
+See <a href="/conference/2008/lightning">2008 Lightning Talks</a>.
+<a href="/conference/2007/lightningtalks"> 2007 Lightning Talks</a>.
+<a href="/conference/2006/lightning">2006 Lightning Talks</a>.
 
 <p><a href="mailto:roytennant@gmail.com">Email Roy Tennant</a> with presentation files and/or corrections to this page.</p>
 

@@ -12,6 +12,7 @@ layout: page
 title: Great facets, like your relevance, but can I have links to Amazon and Google
   Book Search?
 created: 1242347872
+permalink: /conference/2009/wallis/
 ---
 <strong>Richard Wallis</strong>, Talis
 
