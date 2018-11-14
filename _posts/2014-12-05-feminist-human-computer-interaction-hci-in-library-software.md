@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Feminist Human Computer Interaction (HCI) in Library Software
 created: 1417817605
 ---

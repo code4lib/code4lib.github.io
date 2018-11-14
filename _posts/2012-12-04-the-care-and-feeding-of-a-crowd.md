@@ -16,7 +16,7 @@ excerpt: "<strong>The Care and Feeding of a Crowd</strong>\r\n\r\n<ul>\r\n<li>Sh
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: The Care and Feeding of a Crowd
 created: 1354663225
 ---

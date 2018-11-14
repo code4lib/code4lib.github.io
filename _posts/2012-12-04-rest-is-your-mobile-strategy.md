@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: REST IS Your Mobile Strategy
 created: 1354664134
 ---

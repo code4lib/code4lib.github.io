@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Call for Proposals
 created: 1161039538
 ---

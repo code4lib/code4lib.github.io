@@ -9,7 +9,7 @@ excerpt: "<p>\r\n9am - 5pm, Tuesday February 27\r\n\r\n<strong>Location Updated<
   href=\"http://www.manning.com/hatcher/\">Java Development with Ant</a>. \r\n</p>"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 'code4lib 2007 pre-conference workshop: Lucene, Solr, and your data'
 created: 1166565951
 permalink: /conference/2007/lucenesolr/

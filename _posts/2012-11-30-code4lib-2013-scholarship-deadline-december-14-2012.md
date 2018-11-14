@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'Code4Lib 2013 Scholarship (deadline: December 14, 2012)'
 created: 1354301801
 ---

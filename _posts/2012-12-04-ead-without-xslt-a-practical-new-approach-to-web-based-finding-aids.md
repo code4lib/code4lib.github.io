@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'EAD without XSLT: A Practical New Approach to Web-Based Finding Aids'
 created: 1354661545
 ---

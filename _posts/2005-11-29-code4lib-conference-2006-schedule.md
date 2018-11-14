@@ -55,7 +55,7 @@ excerpt: "<p>\r\n<a href=\"http://suda.co.uk/projects/X2V/get-vcal.php?uri=http:
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 'code4lib Conference 2006: Schedule'
 permalink: /conference/2006/schedule/
 created: 1133281523

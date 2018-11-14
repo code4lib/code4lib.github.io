@@ -11,7 +11,7 @@ excerpt: "<h3>Purpose</h3>\r\n\r\n<p>Library technologists (developers, programm
   rag\" for libraries.</p>"
 categories:
 - journal
-layout: page
+layout: post
 title: 'code4lib journal: mission, format, guidelines'
 created: 1142395071
 ---

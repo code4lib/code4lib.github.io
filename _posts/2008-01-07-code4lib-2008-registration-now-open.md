@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4lib 2008 Registration now open!
 created: 1199728146
 ---

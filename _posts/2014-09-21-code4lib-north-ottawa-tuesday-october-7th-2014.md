@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Code4Lib North (Ottawa): Tuesday October 7th, 2014'
 created: 1411324683
 ---

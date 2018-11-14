@@ -13,6 +13,7 @@ layout: page
 title: About
 permalink: /about/
 created: 1297437091
+legacy-date: 2011-02-11
 ---
 code4lib isn't entirely about code or libraries. It is a volunteer-driven collective of hackers, designers, architects, curators, catalogers, artists and instigators from around the world, who largely work for and with libraries, archives and museums on technology "stuff." It started in the fall of 2003 as a <a href="https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB">mailing list</a> when a group of library programmers decided to create an overarching community agnostic towards any particular language or technology. 
 

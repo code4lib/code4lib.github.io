@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Code4lib 2007 Lighting Talks
 created: 1417742066
 ---

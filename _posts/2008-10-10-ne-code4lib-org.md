@@ -1,7 +1,7 @@
 ---
 categories:
 - meetings
-layout: page
+layout: post
 title: ne.code4lib.org
 created: 1223641637
 ---

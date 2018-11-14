@@ -4,7 +4,7 @@ excerpt: "<strong>Beyond Sacrilege: A CouchApp Catalog</strong>\r\n\r\n<ul>\r\n<
   2011</a>, Wednesday 9 February, 09:55 - 10:15\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Beyond Sacrilege: A CouchApp Catalog - Gabriel Farrell'
 created: 1296005240
 ---

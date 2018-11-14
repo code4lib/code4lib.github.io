@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Lies, Damned Lies, and Lines of Code Per Day - James Stuart
 created: 1327558890
 ---

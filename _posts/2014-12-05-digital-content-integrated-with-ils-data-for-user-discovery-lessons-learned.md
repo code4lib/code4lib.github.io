@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Digital Content Integrated with ILS Data for User Discovery: Lessons Learned'
 created: 1417819300
 ---

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Programmers are not projects: lessons learned from managing humans'
 created: 1417818918
 ---

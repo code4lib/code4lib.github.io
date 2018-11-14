@@ -8,7 +8,7 @@ excerpt: "<strong>Terence Ingram</strong>, National Library of Australia\r\n\r\n
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: RESTafarian-ism at the NLA
 created: 1241805134
 ---

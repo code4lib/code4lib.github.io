@@ -10,7 +10,7 @@ excerpt: "<b>Casey Durfee</b>\r\n\r\nI will detail how you can create an OPAC wi
   flashvars=\"\"> </embed>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Open-Source Endeca in 250 Lines or Less
 created: 1166479923
 permalink: /conference/2007/durfee/

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Lucene's Latest (for Libraries)
 created: 1390338006
 ---

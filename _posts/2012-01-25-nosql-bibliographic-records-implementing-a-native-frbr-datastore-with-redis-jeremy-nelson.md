@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'NoSQL Bibliographic Records: Implementing a Native FRBR Datastore with Redis
   - Jeremy Nelson'
 created: 1327557715

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Search Engine Relevancy Tuning - A Static Rank Framework for Solr/Lucene -
   Mike Schultz
 created: 1327557072

@@ -6,7 +6,7 @@ excerpt: "<strong>Iterative Development Done Simply</strong>\r\n\r\n<ul>\r\n<li>
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Iterative Development Done Simply - Emily Lynema - Code4Lib 2010
 created: 1267074568
 ---

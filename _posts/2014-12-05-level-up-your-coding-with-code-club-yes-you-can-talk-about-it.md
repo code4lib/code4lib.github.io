@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Level Up Your Coding with Code Club (yes, you can talk about it)
 created: 1417818941
 ---

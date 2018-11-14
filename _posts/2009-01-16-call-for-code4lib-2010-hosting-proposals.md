@@ -7,7 +7,7 @@ excerpt: "The Code4Lib Conference Planning Group is putting out a call for propo
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Call for Code4Lib 2010 Hosting Proposals
 created: 1232125129
 ---

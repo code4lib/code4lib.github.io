@@ -6,7 +6,7 @@ excerpt: "<p align='center'>Video and presentation files are linked to each talk
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4Lib 2008 Schedule
 permalink: /conference/2008/schedule/
 created: 1192551351

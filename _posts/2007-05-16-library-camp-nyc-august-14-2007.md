@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: page
+layout: post
 title: Library Camp NYC, August 14, 2007
 created: 1179333327
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Ask Anything! – Facilitated by Carmen Mitchell- Code4Lib 2012
 created: 1328297826
 ---

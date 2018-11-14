@@ -6,7 +6,7 @@ excerpt: "Lightning talks are scheduled on all three days <a href=\"/conference/
   lightning talk</a>s, which includes this summary of why you might want to do one:\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 2011 Lightning Talks
 created: 1296088359
 ---

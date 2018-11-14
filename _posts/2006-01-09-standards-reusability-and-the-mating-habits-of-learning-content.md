@@ -11,7 +11,7 @@ excerpt: "<a href=\"http://www.eduworks.net/robby/\">Robby Robson</a>\r\n\r\nDig
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Standards, Reusability, and the Mating Habits of Learning Content
 created: 1136872339
 permalink: /conference/2006/robson/

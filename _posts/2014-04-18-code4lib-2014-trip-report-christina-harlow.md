@@ -8,7 +8,7 @@ excerpt: "A Newbie, Troublesome Cataloger at Code4Lib\r\n\r\nChristina Harlow\r\
   the 2014 Code4Lib Conference was the best and most inviting conference that I have
   ever attended.\r\n        \r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Christina Harlow
 created: 1397844494
 ---

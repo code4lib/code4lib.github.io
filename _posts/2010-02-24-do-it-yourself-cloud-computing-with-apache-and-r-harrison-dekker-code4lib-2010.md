@@ -5,7 +5,7 @@ excerpt: "<strong>Do It Yourself Cloud Computing with Apache and R</strong>\r\n\
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Do It Yourself Cloud Computing with Apache and R - Harrison Dekker - Code4Lib
   2010
 created: 1267070442

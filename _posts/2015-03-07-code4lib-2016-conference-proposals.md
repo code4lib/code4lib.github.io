@@ -9,7 +9,7 @@ excerpt: "<h2>Accumulated Proposals by closing date of 2015-02-20 </h2>\r\n\r\n<
   the results</a>.</h3>"
 categories:
 - code4lib2016
-layout: page
+layout: post
 title: Code4Lib 2016 Conference Proposals
 created: 1425770067
 ---

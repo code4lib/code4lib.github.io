@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'BYOB: Build Your Own Bootstrap'
 created: 1417819308
 ---

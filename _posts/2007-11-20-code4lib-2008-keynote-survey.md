@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2008
-layout: page
+layout: post
 title: Code4lib 2008 Keynote Survey
 created: 1195554636
 ---

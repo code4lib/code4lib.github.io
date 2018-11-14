@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: See you next year in Asheville
 created: 1235846538
 ---

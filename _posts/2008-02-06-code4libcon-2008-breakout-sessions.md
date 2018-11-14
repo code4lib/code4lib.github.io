@@ -8,7 +8,7 @@ excerpt: "Anyone can propose a breakout session - please think about whether you
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Code4libcon 2008 Breakout Sessions
 created: 1202356009
 permalink: /conference/2008/breakout/

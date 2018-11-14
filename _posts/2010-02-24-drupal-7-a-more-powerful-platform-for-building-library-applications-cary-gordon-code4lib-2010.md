@@ -7,7 +7,7 @@ excerpt: "<strong>Drupal 7: A more powerful platform for building library applic
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Drupal 7: A more powerful platform for building library applications - Cary
   Gordon - Code4Lib 2010'
 created: 1267075924

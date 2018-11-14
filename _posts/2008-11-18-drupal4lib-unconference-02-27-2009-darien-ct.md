@@ -1,7 +1,7 @@
 ---
 categories:
 - conferences
-layout: page
+layout: post
 title: drupal4lib unconference (02/27/2009 Darien, CT)
 created: 1227060580
 ---

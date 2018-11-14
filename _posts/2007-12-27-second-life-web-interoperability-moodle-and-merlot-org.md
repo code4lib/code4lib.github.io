@@ -4,7 +4,7 @@ excerpt: "<b>Jeremy Kemp</b> - SJSU SLIS<br />\r\n<b>Dr. Jonathon Richter</b> - 
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Second Life Web Interoperability - Moodle and Merlot.org
 created: 1198818110
 permalink: /conference/2008/kemp/

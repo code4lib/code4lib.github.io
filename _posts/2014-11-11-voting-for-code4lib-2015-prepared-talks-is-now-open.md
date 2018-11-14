@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Voting for Code4Lib 2015 Prepared Talks is now open.
 created: 1415720352
 ---

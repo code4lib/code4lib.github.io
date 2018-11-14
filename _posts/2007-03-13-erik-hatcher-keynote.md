@@ -7,7 +7,7 @@ excerpt: "Presentation on Solr, Libraries and more.\r\n\r\n<b>Presentation</b>\r
   flashvars=\"\"> </embed>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Erik Hatcher Keynote
 created: 1173810394
 permalink: /conference/2007/hatcher/

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Logo Design Process Launched
 created: 1228324156
 ---

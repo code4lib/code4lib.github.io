@@ -13,7 +13,7 @@ excerpt: "Diversity Scholarship Trip Report\r\nCode4Lib, 2014\r\nRaleigh, NC\r\n
   my search worked out: I was offered a position, though I had not yet started when
   I finally applied for the diversity scholarship.\r\n\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report- Nabil Kashyap
 created: 1397845465
 ---

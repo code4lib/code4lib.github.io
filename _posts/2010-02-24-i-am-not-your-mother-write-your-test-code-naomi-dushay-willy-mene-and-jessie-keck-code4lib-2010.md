@@ -7,7 +7,7 @@ excerpt: "<strong>I Am Not Your Mother: Write Your Test Code</strong>\r\n\r\n<ul
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'I Am Not Your Mother: Write Your Test Code - Naomi Dushay, Willy Mene, and
   Jessie Keck - Code4Lib 2010'
 created: 1267074925

@@ -3,7 +3,7 @@ excerpt: "<b>Chris Barr</b> - Villanova University"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Using a CSS Framework
 created: 1198817408
 permalink: /conference/2008/barr/

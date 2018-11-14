@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: page
+layout: post
 title: Code4Lib Journal Issue 5 Published
 created: 1229379384
 ---

@@ -2,7 +2,7 @@
 excerpt: "<h2>Introduction</h2>\r\n\r"
 categories:
 - code4lib 2009
-layout: page
+layout: post
 title: OCLC Grid Services Boot Camp (2009 Preconference)
 created: 1234909159
 ---

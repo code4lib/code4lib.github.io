@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2015
-layout: page
+layout: post
 title: Code4Lib 2015 Diversity Scholarships
 created: 1418420150
 ---

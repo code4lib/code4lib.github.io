@@ -4,7 +4,7 @@ excerpt: "<b>Kim Griggs</b> - Oregon State University<br />\r\n<b>Margaret Melli
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: 'Delivering Library Services in the Web 2.0 environment: OSU Libraries Publishing
   System for and by Librarians'
 created: 1198801803

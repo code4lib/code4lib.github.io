@@ -14,7 +14,7 @@ excerpt: "<b>Fabien Tiburce, Peter Giansante</b>\r\n\r\nVarious (discrete and di
   of results by trusted groups of users - as selected by the Patron.\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Forget the Lipstick. This Pig Just Needs Social Skills.
 created: 1166479264
 permalink: /conference/2007/tiburce/

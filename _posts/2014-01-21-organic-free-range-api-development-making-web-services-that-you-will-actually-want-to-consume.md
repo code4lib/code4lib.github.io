@@ -19,7 +19,7 @@ excerpt: "Steve Meyer and Karen Coombs, OCLC\r\n\r\nBuilding web services can ha
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Organic Free-Range API Development - Making Web Services That You Will Actually
   Want to Consume
 created: 1390337004

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: How people search the library from a single search box - Cory Lown
 created: 1327555616
 ---

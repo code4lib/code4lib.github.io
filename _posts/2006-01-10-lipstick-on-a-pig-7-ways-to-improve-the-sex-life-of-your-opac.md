@@ -10,7 +10,7 @@ excerpt: "Jim Robertson\r\n\r\nJim Robertson will show how NJIT has used a varie
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 'Lipstick on a Pig: 7 Ways to Improve the Sex Life of Your OPAC'
 created: 1136914179
 permalink: /conference/2006/robertson/

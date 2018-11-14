@@ -8,7 +8,7 @@ excerpt: "The Code4Lib Conference Planning Group is putting out a call for\r\npr
   vote.  Voting will begin on or around Wednesday January 25,\r"
 categories:
 - conferences
-layout: page
+layout: post
 title: Code4Lib 2012 Call for Host Proposals
 created: 1292014794
 ---

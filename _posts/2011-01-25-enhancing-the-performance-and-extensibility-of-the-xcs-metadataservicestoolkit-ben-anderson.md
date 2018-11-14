@@ -5,7 +5,7 @@ excerpt: "<strong>Enhancing the Performance and Extensibility of the XC’s Meta
   - 11:15\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Enhancing the Performance and Extensibility of the XC’s MetadataServicesToolkit
   - Ben Anderson
 created: 1296006609

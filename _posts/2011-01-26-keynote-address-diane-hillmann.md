@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Keynote Address - Diane Hillmann
 created: 1296089264
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - metadata
-layout: page
+layout: post
 title: unAPI version 0
 created: 1137187056
 ---

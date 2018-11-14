@@ -5,7 +5,7 @@ excerpt: "<strong>Ask Anything!</strong>\r\n\r\n<ul>\r\n<li>Dan Chudnov, dchud a
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Ask Anything! – Facilitated by Dan Chudnov - Code4Lib 2010
 created: 1267075469
 ---

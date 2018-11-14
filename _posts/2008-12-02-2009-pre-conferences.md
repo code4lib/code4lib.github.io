@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 2009 Pre-Conferences
 created: 1228235291
 ---

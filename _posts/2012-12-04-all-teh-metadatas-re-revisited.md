@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: All Teh Metadatas Re-Revisited
 created: 1354664542
 ---

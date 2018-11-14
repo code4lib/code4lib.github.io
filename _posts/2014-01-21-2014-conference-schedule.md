@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 2014 Conference Schedule
 permalink: /conference/2014/schedule
 created: 1390348747

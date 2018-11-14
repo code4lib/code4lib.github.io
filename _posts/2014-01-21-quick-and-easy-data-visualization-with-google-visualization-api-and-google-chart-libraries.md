@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Quick and Easy Data Visualization with Google Visualization API and Google
   Chart Libraries
 created: 1390332958

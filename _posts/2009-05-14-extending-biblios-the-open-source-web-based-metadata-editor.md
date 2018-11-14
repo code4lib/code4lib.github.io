@@ -8,7 +8,7 @@ excerpt: "<strong>Chris Catalfo</strong>, LibraryThing\r\n\r\nThis talk will det
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Extending biblios, the open source web based metadata editor
 created: 1242346265
 ---

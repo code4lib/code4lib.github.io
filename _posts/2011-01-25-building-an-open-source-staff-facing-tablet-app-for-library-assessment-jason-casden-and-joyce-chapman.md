@@ -5,7 +5,7 @@ excerpt: "<strong>Building an Open Source Staff-Facing Tablet App for Library As
   2011</a>, Thursday 10 February, 09:15 - 09:35\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Building an Open Source Staff-Facing Tablet App for Library Assessment - Jason
   Casden and Joyce Chapman
 created: 1296014923

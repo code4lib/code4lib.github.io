@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Brown University to Host Code4Lib 2009
 created: 1204571656
 ---

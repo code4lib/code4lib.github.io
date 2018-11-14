@@ -12,7 +12,7 @@ excerpt: "<b>Andrew Nagy</b>\r\n\r\nVillanova University’s Falvey Memorial Lib
   we have implemented. I will share our success stories and our failures.\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 'MyResearch Portal: An XML based Catalog-Independent OPAC'
 created: 1166480090
 permalink: /conference/2007/nagy/

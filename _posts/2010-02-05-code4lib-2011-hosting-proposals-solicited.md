@@ -8,7 +8,7 @@ excerpt: "The <a href=\"http://groups.google.com/group/code4libcon?pli=1\">Code4
 categories:
 - conferences
 - code4lib 2011
-layout: page
+layout: post
 title: Code4Lib 2011 Hosting Proposals Solicited
 created: 1265398132
 ---

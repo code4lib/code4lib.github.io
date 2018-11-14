@@ -5,7 +5,7 @@ excerpt: "Registration for the conference, to be held in Toronto June 25-27 2008
   has a reputation for providing a relaxed yet stimulating venue for\r"
 categories:
 - conferences
-layout: page
+layout: post
 title: 'ELPUB 2008 Open Scholarship: Authority, Community and Sustainability in the
   Age of Web 2.0'
 created: 1208462374

@@ -9,7 +9,7 @@ excerpt: "<strong>Toke Eskildsen & Mikkel Kamstrup Erlandsen</strong>, State and
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Complete faceting
 created: 1242346707
 ---

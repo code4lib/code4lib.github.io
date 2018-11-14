@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 2009 Code4lib Scholarship Recipients
 created: 1231688764
 ---

@@ -7,7 +7,7 @@ excerpt: "<p>Presentations and videos are on individual presentation pages and t
   of the presentation audio is available on Odeo</a>.</p>"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: 2007 Code4Lib Conference Schedule
 permalink: /conference/2007/schedule/
 created: 1150396975

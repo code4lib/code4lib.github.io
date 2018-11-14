@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: code4lib2009 registration open!
 created: 1229548604
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2007
-layout: page
+layout: post
 title: Code4Lib 2007 Video Trickling In
 created: 1173495654
 ---

@@ -8,7 +8,7 @@ excerpt: "Here's the content of the release form, attached below:\r\n\r\nCode4Li
   3.0 License (http://creativecommons.org/licenses/by-nc-sa/3.0/ ).\r\n \r"
 categories:
 - code4lib 2010
-layout: page
+layout: post
 title: Code4Lib 2010 Participant Release Form
 created: 1266768563
 ---

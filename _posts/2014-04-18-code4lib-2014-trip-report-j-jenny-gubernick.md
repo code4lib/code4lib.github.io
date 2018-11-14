@@ -9,7 +9,7 @@ excerpt: "<h1>Code4Lib 2014: Conference Review</h1>\r\n<em>J. (Jenny) Gubernick<
   and do, and being ready to apply my skills to a more complex work. I look forward
   to continuing to be part of this community in months and years to come.\r\n\r\n<strong>Takeaways</strong>\r\n\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - J. (Jenny) Gubernick
 created: 1397844748
 ---

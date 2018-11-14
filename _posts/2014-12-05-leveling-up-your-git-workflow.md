@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Leveling Up Your Git Workflow
 created: 1417819115
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2009
-layout: page
+layout: post
 title: Call for Proposals, Code4Lib 2009 Conference
 created: 1224857085
 ---

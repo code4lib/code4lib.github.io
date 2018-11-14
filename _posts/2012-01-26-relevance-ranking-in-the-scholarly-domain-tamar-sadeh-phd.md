@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Relevance Ranking in the Scholarly Domain - Tamar Sadeh, PhD
 created: 1327623353
 ---

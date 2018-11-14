@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Consuming Big Linked Open Data in Practice: Authority Shifts and Identifier
   Drift'
 created: 1417819272

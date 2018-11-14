@@ -12,7 +12,7 @@ excerpt: "Further encouraging active participation, code4lib 2006 is currently h
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: code4lib 2006 T-shirt design contest
 created: 1137089415
 ---

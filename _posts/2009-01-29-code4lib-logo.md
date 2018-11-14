@@ -7,7 +7,7 @@ excerpt: "            <p><a href=\"/files/logo/c4l_logo/c4l_logo.RGB_400px.png\"
   logo design process</a>.</p>\r\n<p>Please read the guidelines below for details
   on creating derivative works.</p>"
 categories: []
-layout: page
+layout: post
 title: Code4Lib Logo
 created: 1233254577
 ---

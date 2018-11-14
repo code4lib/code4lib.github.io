@@ -9,7 +9,7 @@ excerpt: "<strong>7 Ways to Enhance Library Interfaces with OCLC Web Services</s
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 7 Ways to Enhance Library Interfaces with OCLC Web Services - Karen Coombs
   - Code4Lib 2010
 created: 1267072811
