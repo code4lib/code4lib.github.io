@@ -11,7 +11,7 @@ excerpt: "<b>Ross Singer</b>\r\n\r\nIn August, Georgia Tech launched 'the Ümlau
   new issues arise, it is trivial to add new logic to handle them.\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Traversing the Last Mile
 created: 1166479326
 ---

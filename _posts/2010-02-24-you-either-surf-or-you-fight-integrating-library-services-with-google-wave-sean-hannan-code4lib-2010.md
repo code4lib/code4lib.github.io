@@ -6,7 +6,7 @@ excerpt: "<strong>You Either Surf or You Fight: Integrating Library Services Wit
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'You Either Surf or You Fight: Integrating Library Services With Google Wave
   - Sean Hannan - Code4Lib 2010'
 created: 1267077345

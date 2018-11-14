@@ -6,7 +6,7 @@ excerpt: "Lightning talks are scheduled on all three days of the conference.  A 
   lightning talk</a>s, which includes this summary of why you might want to do one:\r\n\r"
 categories:
 - code4lib 2010
-layout: page
+layout: post
 title: Code4Lib 2010 Lightning Talks
 created: 1266895187
 ---

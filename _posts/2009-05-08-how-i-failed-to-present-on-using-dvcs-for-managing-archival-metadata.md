@@ -10,7 +10,7 @@ excerpt: "Mark A. Matienzo</strong>, The New York Public Library\r\n\r\nBuilding
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: How I Failed To Present on Using DVCS for Managing Archival Metadata
 created: 1241806153
 permalink: /conference/2009/matienzo/

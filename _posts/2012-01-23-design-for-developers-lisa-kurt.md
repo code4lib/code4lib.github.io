@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Design for Developers - Lisa Kurt
 created: 1327339111
 ---

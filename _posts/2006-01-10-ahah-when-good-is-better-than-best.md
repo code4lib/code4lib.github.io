@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 'AHAH: When Good is Better than Best'
 created: 1136917792
 permalink: /conference/2006/durfee/

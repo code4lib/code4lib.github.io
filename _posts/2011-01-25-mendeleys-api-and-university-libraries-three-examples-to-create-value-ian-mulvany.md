@@ -5,7 +5,7 @@ excerpt: "<strong>Mendeley's API and University Libraries: Three Examples to Cre
   - 09:55\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: 'Mendeley''s API and University Libraries: Three Examples to Create Value -
   Ian Mulvany'
 created: 1296015305

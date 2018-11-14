@@ -9,7 +9,7 @@ excerpt: "<strong>Erik Hatcher</strong>, Lucid Imagination\r\n\r\nY'all have bee
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'The Rising Sun: Making the most of Solr power'
 created: 1242347046
 permalink: /conference/2009/hatcher/

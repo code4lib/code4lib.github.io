@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: drupal installed
 created: 1132635313
 ---

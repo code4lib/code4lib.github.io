@@ -15,7 +15,7 @@ categories:
 - metadata
 - conferences
 - code4lib 2007
-layout: page
+layout: post
 title: Stone Soup
 created: 1169020585
 ---

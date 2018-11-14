@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: 'The Avalon Media System: A Next Generation Hydra Head For Audio and Video
   Delivery'
 created: 1354661822

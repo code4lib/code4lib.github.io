@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Structured data NOW: seeding schema.org in library systems'
 created: 1390333772
 ---

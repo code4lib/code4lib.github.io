@@ -8,7 +8,7 @@ excerpt: "<strong>The <a href=\"/2007/schedule\">Conference Schedule</a> links t
 categories:
 - conferences
 - code4lib 2007
-layout: page
+layout: post
 title: 2007 Code4Lib Conference
 permalink: /conference/2007/
 created: 1150396752

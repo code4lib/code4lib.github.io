@@ -9,7 +9,7 @@ excerpt: "<strong>Kevin S. Clarke</strong>, Appalachian State University; <stron
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: djatoka for djummies
 created: 1241806809
 permalink: /conference/2009/clarke/

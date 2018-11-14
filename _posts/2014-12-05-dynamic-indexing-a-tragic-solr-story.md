@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Dynamic Indexing: a Tragic Solr Story'
 created: 1417819294
 ---

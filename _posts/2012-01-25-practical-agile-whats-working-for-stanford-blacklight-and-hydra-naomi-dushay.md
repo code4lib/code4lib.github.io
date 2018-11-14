@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'Practical Agile: What''s Working for Stanford, Blacklight, and Hydra - Naomi
   Dushay'
 created: 1327559264

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2015
-layout: page
+layout: post
 title: Annotations as Linked Data with Fedora4 and Triannon (a Real Use Case for RDF!)
 created: 1417819277
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2011
-layout: page
+layout: post
 title: Location of code4lib 2011
 created: 1269346673
 ---

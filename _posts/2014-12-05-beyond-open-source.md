@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Beyond Open Source
 created: 1417819254
 ---

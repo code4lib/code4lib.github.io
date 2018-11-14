@@ -5,7 +5,7 @@ excerpt: "Editorial Introduction - Code4Lib: Long May You Run by Tom Keays\r\n<a
   in Open Source by Joann Ransom with Chris Cormack and Rosalie Blake\r\n<a href=\"http://journal.code4lib.org/articles/1638\">http://journal.code4lib.org/articles/1638</a>\r\n\r"
 categories:
 - journal
-layout: page
+layout: post
 title: 'Code4Lib Journal: new issue 7 now available'
 created: 1246067325
 ---

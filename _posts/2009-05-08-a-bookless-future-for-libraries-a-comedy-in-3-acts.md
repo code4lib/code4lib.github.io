@@ -8,7 +8,7 @@ excerpt: "<strong>Stefano Mazzocchi</strong>\r\nKeynote Address\r\n\r\n<p>&nbsp;
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'A Bookless Future for Libraries: A Comedy in 3 Acts'
 created: 1241804127
 permalink: /conference/2009/mazzocchi/

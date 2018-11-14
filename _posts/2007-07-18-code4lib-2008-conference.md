@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: code4lib 2008 conference
 permalink: /conference/2008/
 created: 1184780330

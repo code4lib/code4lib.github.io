@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Code4Lib 2009 Breakout Sessions
 created: 1233166632
 permalink: /conference/2009/breakout/

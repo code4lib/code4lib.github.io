@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Helping Google (and scholars, researchers, educators, & the public) find archival
   audio
 created: 1417819064

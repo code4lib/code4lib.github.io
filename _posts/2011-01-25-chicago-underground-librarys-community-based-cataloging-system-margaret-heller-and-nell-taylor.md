@@ -6,7 +6,7 @@ excerpt: "<strong>Chicago Underground Library’s Community-Based Cataloging Sys
   - 09:55\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Chicago Underground Library’s Community-Based Cataloging System - Margaret
   Heller and Nell Taylor
 created: 1296004451

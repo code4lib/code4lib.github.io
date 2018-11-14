@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Visualizing Library Resources as Networks
 created: 1390335846
 ---

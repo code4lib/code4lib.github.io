@@ -8,7 +8,7 @@ excerpt: "<p>Oregon State University and Brown University are sponsoring four sc
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Scholarships to Attend the 2010 Code4Lib Conference
 created: 1261409959
 ---

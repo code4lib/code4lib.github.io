@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Code4Lib 2007 T-Shirt Contest
 created: 1169085710
 ---

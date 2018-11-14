@@ -17,7 +17,7 @@ excerpt: "Jennifer Maiko Kishi\r\nCode4Lib 2014 Conference Report\r\n1 April 201
   with scheduled breaks with copious coffee and tea to stay alert and focused throughout
   the day.\r\n\r"
 categories: []
-layout: page
+layout: post
 title: Code4Lib 2014 Trip Report - Jennifer Maiko Kishi
 created: 1397845338
 ---

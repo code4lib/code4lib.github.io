@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: Code4Lib 2010 Call for Prepared Talk Proposals
 created: 1256925369
 ---

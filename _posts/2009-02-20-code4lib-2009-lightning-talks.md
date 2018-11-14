@@ -7,7 +7,7 @@ excerpt: "Lightning talks on are scheduled on all three days of the conference. 
   want to do.\r\n\r\n<!-- BREAK -->\r\n\r"
 categories:
 - code4lib 2009
-layout: page
+layout: post
 title: Code4Lib 2009 Lightning Talks
 created: 1235164772
 permalink: /conference/2009/lightning/

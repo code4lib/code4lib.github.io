@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Personalize your Google Analytics Data with Custom Events and Variables
 created: 1390333588
 ---

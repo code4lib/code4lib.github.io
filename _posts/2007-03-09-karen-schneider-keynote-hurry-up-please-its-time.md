@@ -7,7 +7,7 @@ excerpt: "Karen's posting about the keynote: <a href=\"http://freerangelibrarian
   in PowerPoint</a>\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Karen Schneider Keynote "Hurry up please it's time"
 created: 1173474828
 permalink: /conference/2007/schneider/

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Code4Lib Downtime
 created: 1162179748
 ---

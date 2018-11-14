@@ -7,7 +7,7 @@ excerpt: "<strong>Bess Sadler</strong>, University of Virginia\r\n\r\nAt UVA, Bl
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Blacklight as a unified discovery platform
 created: 1242227854
 permalink: /conference/2009/sadler/

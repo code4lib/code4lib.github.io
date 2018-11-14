@@ -4,7 +4,7 @@ excerpt: "Announcing a new chapter: <a href=\"http://wiki.code4lib.org/index.php
   \r\n\r"
 categories:
 - meetings
-layout: page
+layout: post
 title: Code4Lib North
 created: 1263354034
 ---

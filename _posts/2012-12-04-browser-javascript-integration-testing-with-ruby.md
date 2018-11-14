@@ -16,7 +16,7 @@ excerpt: "<strong>Browser/Javascript Integration Testing with Ruby</strong>\r\n\
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Browser/Javascript Integration Testing with Ruby
 created: 1354664683
 ---

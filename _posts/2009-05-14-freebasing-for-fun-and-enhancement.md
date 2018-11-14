@@ -9,7 +9,7 @@ excerpt: "<strong>Sean Hannan</strong>, Johns Hopkins University\r\nFreebase is 
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Freebasing for Fun and Enhancement
 created: 1242348856
 permalink: /conference/2009/hannan/

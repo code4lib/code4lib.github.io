@@ -3,7 +3,7 @@ excerpt: "<b>Corey A. Harper</b> - Metadata Services Librarian, New York Univers
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: 'RDF and RDA: declaring and modeling library metadata'
 created: 1198817739
 permalink: /conference/2008/harper/

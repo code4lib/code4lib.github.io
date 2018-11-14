@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'Beyond code: Versioning data with Git and Mercurial - Charlie Collett, Martin
   Haye'
 created: 1327337175

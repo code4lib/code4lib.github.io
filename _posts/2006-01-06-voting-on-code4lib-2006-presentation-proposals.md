@@ -17,7 +17,7 @@ excerpt: "<p>Vote for the Code4lib 2006 presentations!</p>\r\n<?php global $user
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Voting on Code4Lib 2006 Presentation Proposals
 created: 1136581781
 ---

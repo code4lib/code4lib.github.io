@@ -12,7 +12,7 @@ excerpt: "<p><strong>Wednesday, February 15</strong></p>\r\n\r\n<p><em>Building 
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: 2006 code4lib Breakout Sessions
 created: 1140537598
 permalink: /conference/2006/breakouts/

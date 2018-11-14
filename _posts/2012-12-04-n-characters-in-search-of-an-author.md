@@ -15,7 +15,7 @@ excerpt: "<strong><i>n</i> Characters in Search of an Author</strong>\r\n<ul>\r\
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: n Characters in Search of an Author
 created: 1354662505
 ---

@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'More Like This: Approaches to Recommending Related Items using Subject Headings'
 created: 1390335096
 ---

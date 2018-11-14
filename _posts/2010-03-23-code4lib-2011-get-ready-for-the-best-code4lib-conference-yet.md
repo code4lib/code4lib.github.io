@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2011
-layout: page
+layout: post
 title: 'Code4Lib 2011: Get Ready for the Best Code4lib Conference Yet!'
 permalink: /conference/2011/
 created: 1269347746

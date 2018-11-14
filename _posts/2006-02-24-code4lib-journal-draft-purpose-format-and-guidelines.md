@@ -8,7 +8,7 @@ excerpt: "There's been some good <a href=\"http://dewey.library.nd.edu/mailing-l
   make changes, additions, and comments (the draft is on the wiki so it can be edited
   directly).\r"
 categories: []
-layout: page
+layout: post
 title: 'code4lib journal: draft purpose, format, and guidelines'
 created: 1140800416
 ---

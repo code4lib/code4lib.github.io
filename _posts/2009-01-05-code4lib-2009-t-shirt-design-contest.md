@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Code4lib 2009 T-shirt Design Contest
 created: 1231177552
 ---

@@ -9,7 +9,7 @@ excerpt: "If your organization would like to help sponsor the Code4Lib 2009 Conf
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Code4Lib 2009 Sponsorship
 created: 1220464839
 permalink: /conference/2009/sponsorship/

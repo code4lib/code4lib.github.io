@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'You Gotta Keep ''em Separated: The Case for "Bento Box" Discovery Interfaces'
 created: 1417819288
 ---

@@ -10,7 +10,7 @@ excerpt: "<strong>Jodi Schneider</strong>, Appalachian State University; <strong
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: What We Talk About When We Talk About FRBR
 created: 1242346405
 permalink: /conference/2009/schneider/

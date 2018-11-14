@@ -9,7 +9,7 @@ excerpt: "<strong>Birkin James Diana</strong>, Brown University\r\n\r\nHow to mo
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: The Dashboard Initiative
 created: 1241805447
 permalink: /conference/2009/diana/

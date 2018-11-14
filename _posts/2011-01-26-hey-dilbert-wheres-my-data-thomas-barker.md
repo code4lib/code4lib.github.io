@@ -11,7 +11,7 @@ excerpt: "<strong>Hey, Dilbert. Where's My Data?!</strong>\r\n\r\n<ul>\r\n<li> T
   require an expensive enterprise edition.\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Hey, Dilbert. Where's My Data?! - Thomas Barker
 created: 1296084299
 ---

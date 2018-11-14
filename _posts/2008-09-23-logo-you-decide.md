@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: Logo? You Decide
 created: 1222180359
 ---

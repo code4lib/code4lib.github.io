@@ -11,7 +11,7 @@ excerpt: "<b>Bess Sadler, Tigran Zargaryan</b>\r\n\r\nLibraries in developing co
   plans of this project. \r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Library-in-a-Box
 created: 1166479838
 permalink: /conference/2007/sadler/

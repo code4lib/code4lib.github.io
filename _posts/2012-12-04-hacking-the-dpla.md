@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Hacking the DPLA
 created: 1354661396
 ---

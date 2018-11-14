@@ -1,7 +1,7 @@
 ---
 categories:
 - irc
-layout: page
+layout: post
 title: "#code4lib irc channel faq"
 permalink: /irc/faq
 created: 1142364428

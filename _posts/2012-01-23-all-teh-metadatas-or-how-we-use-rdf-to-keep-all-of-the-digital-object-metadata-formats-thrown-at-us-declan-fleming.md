@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: ALL TEH METADATAS! or How we use RDF to keep all of the digital object metadata
   formats thrown at us - Declan Fleming
 created: 1327338506

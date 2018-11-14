@@ -3,7 +3,7 @@ excerpt: "<b>Rob Styles</b> - Programme Manager, Talis"
 categories:
 - conferences
 - code4lib 2008
-layout: page
+layout: post
 title: Finding Relationships in MARC Data
 created: 1198801940
 permalink: /conference/2008/styles/

@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: 'Stack View: A Library Browsing Tool - Annie Cain'
 created: 1327557299
 ---

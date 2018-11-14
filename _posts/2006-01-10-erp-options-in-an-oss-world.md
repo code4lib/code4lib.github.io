@@ -13,7 +13,7 @@ excerpt: "<a href=\"http://web2.uwindsor.ca/library/leddy/people/art/\">Art Rhyn
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: ERP Options in an OSS World
 created: 1136914460
 permalink: /conference/2006/rhyno/

@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'American (Archives) Horror Story: LTO Failure and Data Loss'
 created: 1417819240
 ---

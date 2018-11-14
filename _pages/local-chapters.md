@@ -5,6 +5,7 @@ layout: page
 title: Local Chapters
 permalink: /local/
 created: 1223642962
+legacy-date: 2008-10-10
 ---
 <h2>About</h2>
 

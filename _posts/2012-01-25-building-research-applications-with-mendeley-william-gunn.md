@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2012
-layout: page
+layout: post
 title: Building research applications with Mendeley - William Gunn
 created: 1327557195
 ---

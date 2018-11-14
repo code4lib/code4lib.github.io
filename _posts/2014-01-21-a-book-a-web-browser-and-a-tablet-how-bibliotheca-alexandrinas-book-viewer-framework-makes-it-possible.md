@@ -14,7 +14,7 @@ excerpt: "Engy Morsy, Bibliotheca Alexandrina (The new Library of Alexandria)\r\
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'A Book, a Web Browser and a Tablet: How Bibliotheca Alexandrina''s Book Viewer
   Framework Makes It Possible'
 created: 1390332744

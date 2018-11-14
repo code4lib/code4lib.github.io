@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: 'Heiðrún: DPLA''s Metadata Harvesting, Mapping and Enhancement System'
 created: 1417819266
 ---

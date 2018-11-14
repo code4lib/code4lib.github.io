@@ -5,7 +5,7 @@ excerpt: "<strong>Mobile Web App Design: Getting Started</strong>\r\n\r\n<ul>\r\
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Mobile Web App Design: Getting Started - Michael Doran - Code4Lib 2010'
 created: 1267077648
 ---

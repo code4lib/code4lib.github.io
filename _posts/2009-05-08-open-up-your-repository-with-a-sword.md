@@ -8,7 +8,7 @@ excerpt: "<strong>Ed Summers & Mike Giarlo</strong>, Library of Congress\r\n\r\n
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: Open Up Your Repository With a SWORD!
 created: 1241805952
 permalink: /conference/2009/summers/

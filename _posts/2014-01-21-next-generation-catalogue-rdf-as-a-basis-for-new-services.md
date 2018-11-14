@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: Next Generation Catalogue - RDF as a Basis for New Services
 created: 1390334976
 ---

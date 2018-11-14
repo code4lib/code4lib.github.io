@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'Code4lib 2014 Diversity Scholarships (Application Deadline: Dec. 13, 2013,
   5pm EST)'
 created: 1384873151

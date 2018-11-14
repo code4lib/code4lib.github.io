@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2010
-layout: page
+layout: post
 title: 2010 Conference info
 created: 1260821320
 ---

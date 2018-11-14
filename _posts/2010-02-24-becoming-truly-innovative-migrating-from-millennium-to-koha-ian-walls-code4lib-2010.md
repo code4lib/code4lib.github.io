@@ -7,7 +7,7 @@ excerpt: "<strong><a href=\"http://code4lib.org/files/BecomingTrulyInnovative.pp
 categories:
 - conferences
 - code4lib 2010
-layout: page
+layout: post
 title: 'Becoming Truly Innovative: Migrating from Millennium to Koha - Ian Walls -
   Code4Lib 2010'
 created: 1267075320

@@ -4,7 +4,7 @@ excerpt: "<strong>Why (Code4) Libraries Exist</strong>\r\n\r\n<ul>\r\n<li>Eric H
   2011</a>, Thursday 10 February, 11:40 - 12:00\r\n\r"
 categories:
 - code4lib 2011
-layout: page
+layout: post
 title: Why (Code4) Libraries Exist - Eric Hellman
 created: 1296015877
 ---

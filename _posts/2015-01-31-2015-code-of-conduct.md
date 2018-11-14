@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2015
-layout: page
+layout: post
 title: 2015 Code of Conduct
 created: 1422730825
 ---

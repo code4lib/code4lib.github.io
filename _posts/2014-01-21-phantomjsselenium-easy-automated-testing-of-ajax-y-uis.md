@@ -18,7 +18,7 @@ excerpt: "Martin Haye and Mark Redar, California Digital Library\r\n\r\nWeb user
 categories:
 - conferences
 - code4lib 2014
-layout: page
+layout: post
 title: 'PhantomJS+Selenium: Easy Automated Testing of AJAX-y UIs'
 created: 1390337432
 ---

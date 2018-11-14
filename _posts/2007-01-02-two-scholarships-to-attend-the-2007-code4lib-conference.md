@@ -10,7 +10,7 @@ excerpt: "Oregon State University is offering two scholarships for the 2007 code
   or Pacific Islander, African-American, or Hispanic / Latino).\r"
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Two scholarships to attend the 2007 code4lib conference
 created: 1167757179
 ---

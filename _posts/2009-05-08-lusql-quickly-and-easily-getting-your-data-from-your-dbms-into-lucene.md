@@ -8,7 +8,7 @@ excerpt: "<strong>Glen Newton</strong>, CISTI, National Research Council\r\n\r\n
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'LuSql: (Quickly and easily) Getting your data from your DBMS into Lucene'
 created: 1241804920
 permalink: /conference/2009/newton/

@@ -7,7 +7,7 @@ excerpt: "<strong>Timothy McGeary</strong>, Lehigh University\r\n\r\nThis presen
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: A new frontier - the Open Library Environment (OLE)
 created: 1242227665
 permalink: /conference/2009/mcgeary/

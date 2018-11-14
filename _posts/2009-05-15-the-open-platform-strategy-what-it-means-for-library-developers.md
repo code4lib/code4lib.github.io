@@ -9,7 +9,7 @@ excerpt: "<strong>Edward M. Corrado</strong>, Binghamton University\r\n\r\nEx Li
 categories:
 - conferences
 - code4lib 2009
-layout: page
+layout: post
 title: 'The Open Platform Strategy: what it means for library developers'
 created: 1242382705
 permalink: /conference/2009/corrado/

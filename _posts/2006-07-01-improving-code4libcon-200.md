@@ -1,7 +1,7 @@
 ---
 categories:
 - code4lib 2007
-layout: page
+layout: post
 title: Improving Code4LibCon 200*
 created: 1151796157
 ---

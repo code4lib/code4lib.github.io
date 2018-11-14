@@ -2,7 +2,7 @@
 categories:
 - conferences
 - code4lib 2006
-layout: page
+layout: post
 title: Code4lib 2006 T-Shirt design vote!
 created: 1138043062
 ---

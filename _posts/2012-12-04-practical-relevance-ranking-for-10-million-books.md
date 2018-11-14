@@ -18,7 +18,7 @@ excerpt: "<strong>Practical Relevance Ranking for 10 million books</strong>\r\n\
 categories:
 - conferences
 - code4lib 2013
-layout: page
+layout: post
 title: Practical Relevance Ranking for 10 million books.
 created: 1354662285
 ---

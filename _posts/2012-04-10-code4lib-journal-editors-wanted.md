@@ -1,7 +1,7 @@
 ---
 categories:
 - journal
-layout: page
+layout: post
 title: 'Code4Lib Journal: Editors Wanted'
 created: 1334082998
 ---
