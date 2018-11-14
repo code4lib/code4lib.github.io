@@ -12,6 +12,7 @@ categories:
 layout: post
 title: 'The Open Platform Strategy: what it means for library developers'
 created: 1242382705
+permalink: /conference/2009/corrado/
 ---
 <strong>Edward M. Corrado</strong>, Binghamton University
 

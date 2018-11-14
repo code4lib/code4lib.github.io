@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Sebastian Hammer, Keynote Address
 created: 1242227415
+permalink: /conference/2009/hammer/
 ---
 <strong>Sebastian Hammer</strong>, Index Data
 Keynote Address

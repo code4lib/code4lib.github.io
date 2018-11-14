@@ -13,6 +13,7 @@ categories:
 layout: post
 title: What We Talk About When We Talk About FRBR
 created: 1242346405
+permalink: /conference/2009/schneider/
 ---
 <strong>Jodi Schneider</strong>, Appalachian State University; <strong>William Denton</strong>, York University
 

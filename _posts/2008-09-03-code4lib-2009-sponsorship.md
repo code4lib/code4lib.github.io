@@ -12,6 +12,7 @@ categories:
 layout: post
 title: Code4Lib 2009 Sponsorship
 created: 1220464839
+permalink: /conference/2009/sponsorship/
 ---
 If your organization would like to help sponsor the Code4Lib 2009 Conference, please select a sponsorship level and amount, and email <a href="mailto:code4libcon@googlegroups.com">code4libcon@googlegroups.com</a>
 

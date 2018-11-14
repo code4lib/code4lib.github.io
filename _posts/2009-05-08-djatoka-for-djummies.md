@@ -12,6 +12,7 @@ categories:
 layout: post
 title: djatoka for djummies
 created: 1241806809
+permalink: /conference/2009/clarke/
 ---
 <strong>Kevin S. Clarke</strong>, Appalachian State University; <strong>John Fereira</strong>, Cornell University
 

@@ -11,10 +11,11 @@ categories:
 layout: post
 title: Extending biblios, the open source web based metadata editor
 created: 1242346265
+permalink: /conference/2009/catalfo/
 ---
 <strong>Chris Catalfo</strong>, LibraryThing
 
-This talk will detail how to extend biblios, the open source web based metadata editor. It will show how to implement two possible enhancements to biblios: 1) develop a network storage folder which uses CouchDB as its backend and 2) develop an editor which supports editing Dublin Core records. The goal of this talk is to empower other developers to extend and improve biblios. 
+This talk will detail how to extend biblios, the open source web based metadata editor. It will show how to implement two possible enhancements to biblios: 1) develop a network storage folder which uses CouchDB as its backend and 2) develop an editor which supports editing Dublin Core records. The goal of this talk is to empower other developers to extend and improve biblios.
 <p>&nbsp;</p>
 <strong>QuickTime Video:</strong>
 <a href="http://dl.lib.brown.edu/code4lib/catalfo.html" target="_blank">

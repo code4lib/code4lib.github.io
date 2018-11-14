@@ -12,6 +12,7 @@ categories:
 layout: post
 title: 'Visualizing Media Archives: A Case Study'
 created: 1242382963
+permalink: /conference/2009/beer/
 ---
 <strong>Chris Beer</strong>, WGBH Interactive; <strong>Courtney Michael</strong>, WGBH Media Library and Archives
 

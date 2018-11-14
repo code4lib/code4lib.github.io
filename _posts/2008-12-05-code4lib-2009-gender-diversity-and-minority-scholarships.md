@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Code4lib 2009 Gender Diversity and Minority Scholarships
 created: 1228503859
+permalink: /conference/2009/scholarships/
 ---
 <p>Brown University, Oregon State University, and Code4lib are offering four scholarships to promote gender and cultural diversity.</p>
 <!--break-->

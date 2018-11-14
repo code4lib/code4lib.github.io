@@ -12,6 +12,7 @@ categories:
 layout: post
 title: 'The Rising Sun: Making the most of Solr power'
 created: 1242347046
+permalink: /conference/2009/hatcher/
 ---
 <strong>Erik Hatcher</strong>, Lucid Imagination
 

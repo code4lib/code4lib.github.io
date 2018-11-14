@@ -5,6 +5,7 @@ categories:
 layout: post
 title: OCLC Grid Services Boot Camp (2009 Preconference)
 created: 1234909159
+permalink: /conference/2009/oclc-precon/
 ---
 <h2>Introduction</h2>
 

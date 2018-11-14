@@ -11,6 +11,7 @@ categories:
 layout: post
 title: Open Up Your Repository With a SWORD!
 created: 1241805952
+permalink: /conference/2009/summers/
 ---
 <strong>Ed Summers & Mike Giarlo</strong>, Library of Congress
 

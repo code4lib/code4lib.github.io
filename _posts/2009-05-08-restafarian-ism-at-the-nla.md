@@ -11,6 +11,7 @@ categories:
 layout: post
 title: RESTafarian-ism at the NLA
 created: 1241805134
+permalink: /conference/2009/ingram/
 ---
 <strong>Terence Ingram</strong>, National Library of Australia
 

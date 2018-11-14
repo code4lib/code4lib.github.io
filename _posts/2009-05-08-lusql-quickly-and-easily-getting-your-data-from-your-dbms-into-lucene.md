@@ -11,6 +11,7 @@ categories:
 layout: post
 title: 'LuSql: (Quickly and easily) Getting your data from your DBMS into Lucene'
 created: 1241804920
+permalink: /conference/2009/newton/
 ---
 <strong>Glen Newton</strong>, CISTI, National Research Council
 

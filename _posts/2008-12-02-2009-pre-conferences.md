@@ -5,11 +5,12 @@ categories:
 layout: post
 title: 2009 Pre-Conferences
 created: 1228235291
+permalink: /conference/2009/precon/
 ---
 <div xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  xmlns:swc="http://data.semanticweb.org/ns/swc/ontology#" about="http://code4lib.org/266#preconferences">
 
-We have 8 pre-conferences for <a rel="swc:isSubEventOf" href="http://code4lib.org/2009#conference">code4lib2009</a> -- 2 full day and 6 half day.  The plan is to charge a flat $25 pre-conference fee to cover room and break costs.  Plan to arrive at morning sessions beginning at 8:30 am, and afternoon sessions beginning at 1.
- 
+We have 8 pre-conferences for <a rel="swc:isSubEventOf" href="/conference/2009/">code4lib2009</a> -- 2 full day and 6 half day. The plan is to charge a flat $25 pre-conference fee to cover room and break costs. Plan to arrive at morning sessions beginning at 8:30 am, and afternoon sessions beginning at 1.
+
 Two 12-passenger shuttles circling between the Renaissance and Brown will run 7:45-9:45, 11:45-1:45, 4:15-6:15. Some may prefer to walk; allow at least 20 minutes for the 1 mile walk to the John Hay Library, or 30 minutes for the 1.5 miles to the Inn at Brown.  Maps will be available.
 
 <!--break-->
@@ -17,13 +18,13 @@ Two 12-passenger shuttles circling between the Renaissance and Brown will run 7:
 <h3><strong>Full Day Pre-conferences</strong></h3>
 <a name="oclc"></a>
 <ul>
-      <li about="http://code4lib.org/node/266#oclc-grid-services-preconf" typeof="swc:WorkshopEvent"><strong><span property="rdfs:label"><a href="/2009/oclc-precon">OCLC Grid Services Boot Camp</a></span></strong><br />
+      <li about="/conference/2009/precon/#oclc-grid-services-preconf" typeof="swc:WorkshopEvent"><strong><span property="rdfs:label"><a href="/conference/2009/oclc-precon">OCLC Grid Services Boot Camp</a></span></strong><br />
         The goals of this full-day workshop are to give participants a firm grounding in a variety of OCLC-provided APIs as well as the protocols upon which they are based (e.g., SRU, CQL). APIs to be highlighted will include the WorldCat Search API, xID services (xISBN, xISSN, and xOCLCNUM), WorldCat Identities, Terminologies, and others. All of these services are free to OCLC cataloging institutions. Besides learning about these services directly from the people involved with building them, you will have time to use them while having the experts in the room to answer questions and assist. You will emerge an expert in using a rich array of library APIs that can be used to enhance your local services. <br />
           <strong>Time Slot:</strong> Full Day <br />
         <strong>Attendees:</strong> 20-?<br />
         <strong>Organizer: </strong>Roy Tennant <br />
-<strong>Location: </strong>Brown University, <a href="http://dl.lib.brown.edu/libweb/about/hay/">John Hay Library</a>, <a href="http://picasaweb.google.com/bbuzzell/Code4libPreconfRooms?authkey=fq5GovG1jWo&feat=directlink#">Lownes (History of Science) Room</a>. Google maps: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=5+Avenue+of+the+Arts,+Providence,+RI+02903&daddr=20+Prospect+St,+Providence,+RI+02906&hl=en&geocode=&mra=ls&sll=41.830128,-71.416668&sspn=0.012343,0.017295&gl=us&ie=UTF8&ll=41.828706,-71.410961&spn=0.012344,0.017295&z=16">driving</a> or <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=5+Avenue+of+the+Arts,+Providence,+RI+02903&daddr=20+Prospect+St,+Providence,+RI+02906&hl=en&geocode=&mra=ls&dirflg=w&sll=41.828706,-71.410961&sspn=0.012344,0.017295&gl=us&ie=UTF8&ll=41.827859,-71.410553&spn=0.012344,0.017295&z=16">walking</a>.</p>
-        <strong>Instructors:      </strong><br />
+<strong>Location: </strong>Brown University, <a href="http://dl.lib.brown.edu/libweb/about/hay/">John Hay Library</a>, <a href="http://picasaweb.google.com/bbuzzell/Code4libPreconfRooms?authkey=fq5GovG1jWo&feat=directlink#">Lownes (History of Science) Room</a>. Google maps: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=5+Avenue+of+the+Arts,+Providence,+RI+02903&daddr=20+Prospect+St,+Providence,+RI+02906&hl=en&geocode=&mra=ls&sll=41.830128,-71.416668&sspn=0.012343,0.017295&gl=us&ie=UTF8&ll=41.828706,-71.410961&spn=0.012344,0.017295&z=16">driving</a> or <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=5+Avenue+of+the+Arts,+Providence,+RI+02903&daddr=20+Prospect+St,+Providence,+RI+02906&hl=en&geocode=&mra=ls&dirflg=w&sll=41.828706,-71.410961&sspn=0.012344,0.017295&gl=us&ie=UTF8&ll=41.827859,-71.410553&spn=0.012344,0.017295&z=16">walking</a>.<br />
+        <strong>Instructors:</strong><br />
   Ralph LeVan, SRU expert <br />
   Bruce Washburn, WorldCat Search API programmer <br />
   Xiaoming Liu, xID programmer <br />
@@ -34,14 +35,14 @@ Two 12-passenger shuttles circling between the Renaissance and Brown will run 7:
 </ul>
 <ul>
 <a name="linkeddata"></a>
-      <li about="http://code4lib.org/node/266#linked-data-preconf" typeof="swc:WorkshopEvent"><strong><span property="rdfs:label">LinkedData</span></strong>  <br />
+      <li about="/conference/2009/precon/#linked-data-preconf" typeof="swc:WorkshopEvent"><strong><span property="rdfs:label">LinkedData</span></strong>  <br />
         Description:   <a href="http://wiki.code4lib.org/index.php/LinkedData">http://wiki.code4lib.org/index.php/LinkedData</a> <br />
         <strong>Time Slot:</strong> Full Day (could be half days:  instruction (am) & collaboration (pm)) <br />
         <strong>Attendees:</strong> 10 to 50<br />
         <strong>Organizer:</strong> Ed Summers <br />
         <strong>Location:</strong> Ballroom, Renaissance Providence Hotel <br />
         <strong>Participants:</strong><br />
-  <span rel="swc:hasAttendee" src="http://iandavis.com/id/me">Ian Davis</span> (Talis)</br>
+  <span rel="swc:hasAttendee" src="http://iandavis.com/id/me">Ian Davis</span> (Talis)<br />
   <span rel="swc:hasAttendee" src="http://lackoftalent.org/michael/foaf.rdf#mjg">Mike Giarlo</span> (Library of Congress) <br />
   Corey Harper (New York University) <br />
   <span rel="swc:hasAttendee" src="http://blog.reallywow.com/foaf#me">Jay Luker</span> (Ex Libris) <br />
@@ -52,8 +53,8 @@ Dan Chudnov (Library of Congress) <br />
 Anders Söderbäck (National Library of Sweden)
 </li>
 </ul>
-    
-<h3><strong>Morning Pre-conferences</strong></h3>   
+
+<h3><strong>Morning Pre-conferences</strong></h3>
 <ul>
 <a name="xml"></a>
       <li> <strong>XML In Libraries</strong><br />
@@ -84,11 +85,11 @@ Chris Barr, Villanova University</li>
 <li><strong>Koha</strong><br />
 We intend to show you how to get the most out of (or into) Koha, open source ILS.  Without attempting to be a comprehensive ILS demo, we will discuss software components used by Koha and how they are applied to problems like searching, internationalization, customization, 3rd party content, automation, etc.  Participants should bring laptops and will receive access to a stock Koha installation for experimentation (if they opt not to use their own).<br /><br />
 
-After seeing how Koha works, you then get to break it, or make it work differently, perhaps better.  The distributed version control Git will be introduced, including how to use it to make a change, generate a patch, and send it for inclusion in the mainline Koha project.  Similarly we will show how to use Git to keep your repositories updated, even when you have local changes.  Koha developers will be on hand to help you get your git on, and otherwise answer the question "How do I make Koha do X?" 
+After seeing how Koha works, you then get to break it, or make it work differently, perhaps better.  The distributed version control Git will be introduced, including how to use it to make a change, generate a patch, and send it for inclusion in the mainline Koha project.  Similarly we will show how to use Git to keep your repositories updated, even when you have local changes.  Koha developers will be on hand to help you get your git on, and otherwise answer the question "How do I make Koha do X?"
 <strong>Time Slot:</strong> Half Day<br />
 <strong>Attendees:</strong> 8-25<br />
 <strong>Organizers:</strong> Joe Atzberger, LibLime<br />
-<strong>Location:</strong> Vartan Gregorian Quad, 101 Thayer Street, room 116-B </br>
+<strong>Location:</strong> Vartan Gregorian Quad, 101 Thayer Street, room 116-B <br />
 <br /><b>Presentations</b>
 <ul>
 <li><a href="/files/Koha_International_Development.pdf">Presentation by Henri-Damien LAURENT in PDF</a></li>
@@ -96,7 +97,7 @@ After seeing how Koha works, you then get to break it, or make it work different
 </li>
 </ul>
 
-<h3><strong>Afternoon Pre-conferences</strong></h3>   
+<h3><strong>Afternoon Pre-conferences</strong></h3>
 
 <a name="fedora"></a>
   <ul>
@@ -116,10 +117,9 @@ After seeing how Koha works, you then get to break it, or make it work different
         <strong>Time Slot:</strong> Half Day<br />
         <strong>Attendees:</strong> 30 <br />
         <strong>Organizer:</strong> A. Soroka / Digital Scholarship Services R & D, the University of Virginia Library, ocymum@gmail.com
-       <strong>Location:</strong>Vartan Gregorian Quad, 101 Thayer Street, room 116-E</br>
+       <strong>Location:</strong>Vartan Gregorian Quad, 101 Thayer Street, room 116-E<br/>
       </li>
 </ul>
-
 
 <a name="libx"></a>
 <ul>
@@ -131,9 +131,8 @@ Description: <a href="http://wiki.code4lib.org/index.php/LibX_Preconference">htt
 <strong>Presenters:</strong><br />
 Godmar Back<br />
 Michael Doyle<br />
-<strong>Location:</strong>Vartan Gregorian Quad, 101 Thayer Street, room 116-B  </br>
+<strong>Location:</strong>Vartan Gregorian Quad, 101 Thayer Street, room 116-B<br/>
 <a href="/files/Preconf-LibX2.0-Code4Lib-2009-Public.ppt">Slides in PPT</a>
 </li>
 </ul>
-
 </div>

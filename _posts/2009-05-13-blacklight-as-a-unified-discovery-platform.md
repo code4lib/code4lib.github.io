@@ -10,6 +10,7 @@ categories:
 layout: post
 title: Blacklight as a unified discovery platform
 created: 1242227854
+permalink: /conference/2009/sadler/
 ---
 <strong>Bess Sadler</strong>, University of Virginia
 

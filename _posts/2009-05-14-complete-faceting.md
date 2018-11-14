@@ -12,6 +12,7 @@ categories:
 layout: post
 title: Complete faceting
 created: 1242346707
+permalink: /conference/2009/eskildsen/
 ---
 <strong>Toke Eskildsen & Mikkel Kamstrup Erlandsen</strong>, State and University Library, Denmark
 
