@@ -8,6 +8,7 @@ categories:
 layout: post
 title: Ask Anything! – Facilitated by Dan Chudnov - Code4Lib 2010
 created: 1267075469
+permalink: /conference/2010/chudnov/
 ---
 <strong>Ask Anything!</strong>
 

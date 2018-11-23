@@ -10,6 +10,7 @@ layout: post
 title: 'Vampires vs. Werewolves: Ending the War Between Developers and Sysadmins with
   Puppet - Bess Sadler - Code4Lib 2010'
 created: 1267074745
+permalink: /conference/2010/sadler/
 ---
 <strong>Vampires vs. Werewolves: Ending the War Between Developers and Sysadmins with Puppet</strong>
 

@@ -9,6 +9,7 @@ layout: post
 title: Media, Blacklight, and Viewers Like You (pdf, 2.61MB) - Chris Beer - Code4Lib
   2010
 created: 1267075177
+permalink: /conference/2010/beer/
 ---
 <strong>Media, Blacklight, and Viewers Like You</strong>
 

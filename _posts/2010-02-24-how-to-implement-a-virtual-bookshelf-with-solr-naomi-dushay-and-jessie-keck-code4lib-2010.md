@@ -10,6 +10,7 @@ layout: post
 title: How to Implement A Virtual Bookshelf With Solr - Naomi Dushay and Jessie Keck
   - Code4Lib 2010
 created: 1267076411
+permalink: /conference/2010/dushay_keck2/
 ---
 <strong>How to Implement A Virtual Bookshelf With Solr</strong>
 

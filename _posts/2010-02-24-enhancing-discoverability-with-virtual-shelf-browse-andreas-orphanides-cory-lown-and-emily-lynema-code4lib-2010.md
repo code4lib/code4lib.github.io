@@ -11,6 +11,7 @@ layout: post
 title: Enhancing Discoverability With Virtual Shelf Browse  - Andreas Orphanides,
   Cory Lown, and Emily Lynema - Code4Lib 2010
 created: 1267076150
+permalink: /conference/2010/orphanides_lown_lynema/
 ---
 <strong>Enhancing Discoverability With Virtual Shelf Browse</strong>
 

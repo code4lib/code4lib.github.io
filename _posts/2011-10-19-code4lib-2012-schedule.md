@@ -4,7 +4,7 @@ categories:
 - code4lib 2012
 layout: post
 title: Code4Lib 2012 Schedule
-permalink: /conference/2012/schedule
+permalink: /conference/2012/schedule/
 created: 1319065801
 ---
 <p>The schedule for the 2012 Code4Lib Conference in Seattle, Washington.</p>

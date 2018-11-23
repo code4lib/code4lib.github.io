@@ -9,6 +9,7 @@ layout: post
 title: Do It Yourself Cloud Computing with Apache and R - Harrison Dekker - Code4Lib
   2010
 created: 1267070442
+permalink: /conference/2010/dekker/
 ---
 <strong>Do It Yourself Cloud Computing with Apache and R</strong>
 

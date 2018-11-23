@@ -4,7 +4,7 @@ categories:
 - code4lib 2009
 layout: post
 title: Code4Lib 2009 Schedule
-permalink: /conference/2009/schedule
+permalink: /conference/2009/schedule/
 created: 1228330238
 ---
 <p>All conference events listed below will take place at the <a href="http://www.marriott.com/hotels/travel/pvdbr-renaissance-providence-hotel">Renaissance Providence Hotel</a>. Some pre-conferences may take place on the Brown University campus.</p>

@@ -4,7 +4,7 @@ categories:
 - code4lib 2014
 layout: post
 title: 2014 Conference Schedule
-permalink: /conference/2014/schedule
+permalink: /conference/2014/schedule/
 created: 1390348747
 ---
 <p>Schedule for the 2014 Code4Lib Conference in Raleigh, NC.</p>

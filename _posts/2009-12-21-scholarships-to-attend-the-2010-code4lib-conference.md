@@ -29,12 +29,14 @@ created: 1261409959
 <p>To apply, please send an email to Jean_Rainwater@brown.edu with the following:</p>
 
 <ul>
-<li>A brief letter of interest, which:
-<ol><li>Describes your interest in the conference and how you intend to participate</li>
-<li>Discusses your statement of need</li>
-<li>Indicates your eligibility</li></ol></li>
-<li>A résumé or CV</li>
-<li>Contact information for two professional or academic references</li>
+  <li>A brief letter of interest, which:
+  <ol>
+  <li>Describes your interest in the conference and how you intend to participate</li>
+  <li>Discusses your statement of need</li>
+  <li>Indicates your eligibility</li>
+  </ol></li>
+  <li>A résumé or CV</li>
+  <li>Contact information for two professional or academic references</li>
 </ul>
 
 <p>The application deadline is January 7, 2010.</p>

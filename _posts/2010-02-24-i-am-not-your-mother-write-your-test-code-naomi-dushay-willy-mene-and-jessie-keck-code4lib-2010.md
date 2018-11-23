@@ -11,6 +11,7 @@ layout: post
 title: 'I Am Not Your Mother: Write Your Test Code - Naomi Dushay, Willy Mene, and
   Jessie Keck - Code4Lib 2010'
 created: 1267074925
+permalink: /conference/2010/dushay_mene_keck/
 ---
 <strong>I Am Not Your Mother: Write Your Test Code</strong>
 

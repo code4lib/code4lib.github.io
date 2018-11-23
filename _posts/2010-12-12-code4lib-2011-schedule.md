@@ -4,7 +4,7 @@ categories:
 - code4lib 2011
 layout: post
 title: Code4Lib 2011 schedule
-permalink: /conference/2011/schedule
+permalink: /conference/2011/schedule/
 created: 1292176382
 ---
 <p>The schedule for the 2011 Code4Lib Conference in Bloomington, IN. If you would like this schedule in your calendering app <a href="http://suda.co.uk/projects/microformats/hcalendar/get-cal.php?uri=http://code4lib.org/conference/2011/schedule">convert</a> the hCalendar in this page to iCal.</p>

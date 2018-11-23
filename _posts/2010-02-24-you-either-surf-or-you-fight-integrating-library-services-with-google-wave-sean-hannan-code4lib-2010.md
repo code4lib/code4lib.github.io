@@ -10,6 +10,7 @@ layout: post
 title: 'You Either Surf or You Fight: Integrating Library Services With Google Wave
   - Sean Hannan - Code4Lib 2010'
 created: 1267077345
+permalink: /conference/2010/hannan/
 ---
 <strong>You Either Surf or You Fight: Integrating Library Services With Google Wave</strong>
 

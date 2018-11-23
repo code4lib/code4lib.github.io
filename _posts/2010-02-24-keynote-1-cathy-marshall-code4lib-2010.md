@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'Keynote #1: Cathy Marshall - Code4Lib 2010'
 created: 1267069309
+permalink: /conference/2010/marshall/
 ---
 <strong>Keynote #1 - </strong>
 <ul>

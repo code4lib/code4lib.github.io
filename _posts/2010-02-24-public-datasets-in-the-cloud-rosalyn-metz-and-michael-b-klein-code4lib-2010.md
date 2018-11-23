@@ -10,6 +10,7 @@ layout: post
 title: Public Datasets in the Cloud - Rosalyn Metz and Michael B. Klein - Code4Lib
   2010
 created: 1267071153
+permalink: /conference/2010/metz_klein/
 ---
 <strong>Public Datasets in the Cloud</strong>
 

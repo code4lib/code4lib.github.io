@@ -11,6 +11,7 @@ layout: post
 title: 'Becoming Truly Innovative: Migrating from Millennium to Koha - Ian Walls -
   Code4Lib 2010'
 created: 1267075320
+permalink: /conference/2010/walls/
 ---
 <strong><a href="http://code4lib.org/files/BecomingTrulyInnovative.ppt">Becoming Truly Innovative: Migrating from Millennium to Koha</a></strong>
 

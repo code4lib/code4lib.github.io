@@ -3,7 +3,7 @@ categories:
 - code4lib 2013
 layout: post
 title: Code4Lib 2013 Schedule
-permalink: /conference/2013/schedule
+permalink: /conference/2013/schedule/
 created: 1351897007
 ---
 Schedule for the 2013 Code4Lib Conference in Chicago, IL.
