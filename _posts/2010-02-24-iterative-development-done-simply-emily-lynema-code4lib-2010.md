@@ -9,6 +9,7 @@ categories:
 layout: post
 title: Iterative Development Done Simply - Emily Lynema - Code4Lib 2010
 created: 1267074568
+permalink: /conference/2010/lynema/
 ---
 <strong>Iterative Development Done Simply</strong>
 

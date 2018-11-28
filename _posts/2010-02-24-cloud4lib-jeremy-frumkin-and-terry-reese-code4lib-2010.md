@@ -9,6 +9,7 @@ categories:
 layout: post
 title: Cloud4Lib - Jeremy Frumkin and Terry Reese - Code4Lib 2010
 created: 1267070003
+permalink: /conference/2010/frumkin_reese/
 ---
 <strong>Cloud4Lib</strong>
 

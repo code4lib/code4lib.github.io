@@ -8,15 +8,13 @@ created: 1253561650
 ---
 (Copied from the email sent out by Michael Giarlo earlier today.)
 
-Yo code4lib, it's time to vote for keynote speakers for the code4lib 2010 conference:             
-                                                                                
-<a href="http://vote.code4lib.org/election/index/11">http://vote.code4lib.org/election/index/11</a>
+Yo code4lib, it's time to vote for keynote speakers for the code4lib 2010 conference: <a href="http://vote.code4lib.org/election/index/11">http://vote.code4lib.org/election/index/11</a>
 
 The ballot will stay open through 11:59PM Eastern on Monday, October 5th.
 
 <!--break-->
 
-Next to each of the nominated keynote speakers, you'll find ranks ranging from 0 to 3: 0 indicating no interest in seeing a keynote by the nominee and 3 indicating heavy interest in seeing a keynote by the nominee.  You can change your rankings at any time until the ballot closes.            
+Next to each of the nominated keynote speakers, you'll find ranks ranging from 0 to 3: 0 indicating no interest in seeing a keynote by the nominee and 3 indicating heavy interest in seeing a keynote by the nominee.  You can change your rankings at any time until the ballot closes.
 
 -Mike
 

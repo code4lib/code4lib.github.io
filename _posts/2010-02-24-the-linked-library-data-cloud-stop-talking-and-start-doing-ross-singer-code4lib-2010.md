@@ -9,6 +9,7 @@ layout: post
 title: 'The Linked Library Data Cloud: Stop talking and start doing - Ross Singer
   - Code4Lib 2010'
 created: 1267070268
+permalink: /conference/2010/singer/
 ---
 <strong>The Linked Library Data Cloud: Stop talking and start doing</strong>
 

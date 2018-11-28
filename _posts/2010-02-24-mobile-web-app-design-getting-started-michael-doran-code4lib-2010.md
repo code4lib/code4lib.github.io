@@ -8,6 +8,7 @@ categories:
 layout: post
 title: 'Mobile Web App Design: Getting Started - Michael Doran - Code4Lib 2010'
 created: 1267077648
+permalink: /conference/2010/doran/
 ---
 <strong>Mobile Web App Design: Getting Started</strong>
 

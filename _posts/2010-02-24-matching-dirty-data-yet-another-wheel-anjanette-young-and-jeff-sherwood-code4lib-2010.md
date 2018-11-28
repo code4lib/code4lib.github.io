@@ -10,6 +10,7 @@ layout: post
 title: Matching Dirty Data – Yet Another Wheel - Anjanette Young and Jeff Sherwood
   - Code4Lib 2010
 created: 1267073116
+permalink: /conference/2010/young_sherwood/
 ---
 <strong>Matching Dirty Data – Yet Another Wheel</strong>
 

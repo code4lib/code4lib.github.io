@@ -11,6 +11,7 @@ categories:
 layout: post
 title: 'library/mobile: Developing a Mobile Catalog - Kim Griggs - Code4Lib 2010'
 created: 1267077473
+permalink: /conference/2010/griggs/
 ---
 <strong>library/mobile: Developing a Mobile Catalog</strong>
 

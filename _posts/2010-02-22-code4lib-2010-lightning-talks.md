@@ -9,8 +9,9 @@ categories:
 layout: post
 title: Code4Lib 2010 Lightning Talks
 created: 1266895187
+permalink: /conference/2010/lightning/
 ---
-Lightning talks are scheduled on all three days of the conference.  A lightning talk is a fast-paced 5 minute talk on a topic of your choosing. 
+Lightning talks are scheduled on all three days of the conference.  A lightning talk is a fast-paced 5 minute talk on a topic of your choosing.
 
 Needed: volunteer to ensure presentation files get added to this page.
 

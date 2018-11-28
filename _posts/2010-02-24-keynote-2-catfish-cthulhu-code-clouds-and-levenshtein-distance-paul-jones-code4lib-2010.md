@@ -6,6 +6,7 @@ layout: post
 title: 'Keynote #2: catfish, cthulhu, code, clouds and Levenshtein distance - Paul
   Jones - Code4Lib 2010'
 created: 1267077162
+permalink: /conference/2010/jones/
 ---
 <strong>Keynote #2: catfish, cthulhu, code, clouds and Levenshtein distance</strong>
 

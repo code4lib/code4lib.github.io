@@ -9,6 +9,7 @@ categories:
 layout: post
 title: A Better Advanced Search - Naomi Dushay and Jessie Keck - Code4Lib 2010
 created: 1267075737
+permalink: /conference/2010/dushay_keck/
 ---
 <strong>A Better Advanced Search</strong>
 

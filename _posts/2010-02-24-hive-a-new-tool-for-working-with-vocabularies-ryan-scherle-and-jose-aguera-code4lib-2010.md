@@ -10,6 +10,7 @@ layout: post
 title: 'HIVE: A New Tool for Working With Vocabularies - Ryan Scherle and Jose Aguera
   - Code4Lib 2010'
 created: 1267073599
+permalink: /conference/2010/scherle_aguera/
 ---
 <strong>HIVE: A New Tool for Working With Vocabularies</strong>
 
