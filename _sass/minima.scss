@@ -79,7 +79,7 @@ $on-laptop:        800px !default;
 .piped-list ul {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
   margin: 1em;
 }     
