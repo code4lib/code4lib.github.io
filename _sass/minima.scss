@@ -43,15 +43,17 @@ $on-laptop:        800px !default;
   text-align: center;
 }
 
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
+  //   .wrapper {
+    //     padding-right: $spacing-unit / 2;
+    //     padding-left: $spacing-unit / 2;
+    //   }
+    // }
+    @mixin media-query($device) {
+      @media screen and (max-width: $device) {
     @content;
   }
 }
@@ -62,7 +64,32 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
-  "minima/base",
+"minima/base",
   "minima/layout",
   "minima/syntax-highlighting"
-;
+  ;
+
+// Custom
+
+// Piped List
+.piped-list {
+  position: relative;
+  overflow: hidden;
+}
+.piped-list ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: 1em;
+}     
+.piped-list ul li {
+  list-style: none;
+  margin: .25em 0;
+  padding: 0;
+  text-align: center;
+}
+li + li::before {
+  content: "|";
+  margin: 0 .5em;
+}

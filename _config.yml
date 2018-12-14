@@ -24,15 +24,17 @@ logo: "/files/logo/c4l_logo/c4l_logo.RGB_400px.png"
 logo_alt: "Code4Lib"
 include: ['_pages']
 
+# Minima theme's menu builder. Pages added to header_pages appear in navigation.
 header_pages:
   - about.md
+
 
 #  - music  last.fm's group pages taken down
 #  - https://shop.spreadshirt.com/code4lib/
 
 # external links are in _includes/header.html
 
-
+# social links
 twitter_username: code4lib
 github_username:  code4lib
 youtube_username: code4lib
@@ -43,15 +45,37 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+  - jekyll-seo-tag
+
+# jekyll-archives configuration
+# See https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+jekyll-archives:
+  enabled: all # The string 'all', or an array of enabled archive types
+  layouts: # Specify layouts for each type of archive
+    year: year
+    month: month
+    day: day
+    category: archive
+    tag: archive
+  permalinks: # Specify permalinks for archive pages
+    year: 'archives/:year/'
+    month: 'archives/:year/:month/'
+    day: 'archives/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+keep:
+  - files
