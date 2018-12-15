@@ -32,8 +32,10 @@ legacy-date:
 <ul>
 {% assign counter = 0 %}
 {% for post in site.posts %}
-  {% assign thisyear = post.date | date: "%Y" %}
-  {% assign prevyear = post.previous.date | date: "%Y" %}
+  {% if post.date %}
+    {% assign thisyear = post.date | date: "%Y" %}
+    {% assign prevyear = post.previous.date | date: "%Y" %}
+  {% endif %}
   {% assign counter = counter | plus: 1 %}
   {% if thisyear != prevyear %}
     <li><a href="/archives/{{ post.date | date:'%Y' }}">{{ thisyear }} ({{ counter }})</a></li>

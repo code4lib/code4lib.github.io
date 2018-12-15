@@ -89,7 +89,7 @@ $on-laptop:        800px !default;
   padding: 0;
   text-align: center;
 }
-li + li::before {
+.piped-list li + li::before {
   content: "|";
   margin: 0 .5em;
 }
