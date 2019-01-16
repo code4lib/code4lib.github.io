@@ -8,6 +8,7 @@ categories:
 layout: post
 title: 'VuFind Beyond MARC: Discovering Everything Else - Demian Katz'
 created: 1296087065
+permalink: /conference/2011/katz/
 ---
 <strong>VuFind Beyond MARC: Discovering Everything Else</strong>
 

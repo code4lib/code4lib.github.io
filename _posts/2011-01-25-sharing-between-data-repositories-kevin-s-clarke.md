@@ -9,6 +9,7 @@ categories:
 layout: post
 title: Sharing Between Data Repositories - Kevin S. Clarke
 created: 1296015693
+permalink: /conference/2011/clarke/
 ---
 <strong>Sharing Between Data Repositories</strong>
 

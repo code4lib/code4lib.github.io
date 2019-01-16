@@ -7,6 +7,7 @@ categories:
 layout: post
 title: Why (Code4) Libraries Exist - Eric Hellman
 created: 1296015877
+permalink: /conference/2011/hellman/
 ---
 <strong>Why (Code4) Libraries Exist</strong>
 

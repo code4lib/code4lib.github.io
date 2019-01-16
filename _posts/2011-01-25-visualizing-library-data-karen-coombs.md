@@ -19,6 +19,7 @@ categories:
 layout: post
 title: Visualizing Library Data - Karen Coombs
 created: 1295983055
+permalink: /conference/2011/coombs/
 ---
 <strong>Visualizing Library Data</strong>
 

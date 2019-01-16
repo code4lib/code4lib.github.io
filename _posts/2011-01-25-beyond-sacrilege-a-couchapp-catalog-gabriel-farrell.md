@@ -7,6 +7,7 @@ categories:
 layout: post
 title: 'Beyond Sacrilege: A CouchApp Catalog - Gabriel Farrell'
 created: 1296005240
+permalink: /conference/2011/farrell/
 ---
 <strong>Beyond Sacrilege: A CouchApp Catalog</strong>
 

@@ -9,6 +9,7 @@ categories:
 layout: post
 title: Practical Relevancy Testing - Naomi Dushay
 created: 1296015485
+permalink: /conference/2011/dushay/
 ---
 <strong>Practical Relevancy Testing</strong>
 
@@ -16,7 +17,7 @@ created: 1296015485
 <li>Naomi Dushay, Stanford University Libraries, ndushay@stanford.edu</li>
 </ul>
 
-<strong><a href="http://www.stanford.edu/~ndushay/code4lib2011/dushay-relevancy-testing.pdf>Slides</a></strong>
+<strong><a href="http://www.stanford.edu/~ndushay/code4lib2011/dushay-relevancy-testing.pdf">Slides</a></strong>
 <br/>
 Additional Info
 <ul>

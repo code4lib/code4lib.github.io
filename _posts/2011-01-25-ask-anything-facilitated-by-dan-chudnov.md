@@ -7,6 +7,7 @@ categories:
 layout: post
 title: Ask Anything! – Facilitated by Dan Chudnov
 created: 1296007054
+permalink: /conference/2011/chudnov/
 ---
 <strong>Ask Anything!</strong>
 

@@ -9,6 +9,7 @@ layout: post
 title: 'Enhancing the Mobile Experience: Mobile Library Services at Illinois - Josh
   Bishoff - Josh Bishoff'
 created: 1296088161
+permalink: /conference/2011/bishoff/
 ---
 <strong>Enhancing the Mobile Experience: Mobile Library Services at Illinois</strong>
 

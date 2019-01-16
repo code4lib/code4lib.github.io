@@ -10,6 +10,7 @@ layout: post
 title: "(Yet Another) Home-Grown Digital Library System, Built Upon Open Source XML
   Technologies and Metadata Standards - David Lacy"
 created: 1296008234
+permalink: /conference/2011/lacy/
 ---
 <strong>(Yet Another) Home-Grown Digital Library System, Built Upon Open Source XML Technologies and Metadata Standards</strong>
 

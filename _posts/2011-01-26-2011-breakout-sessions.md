@@ -12,6 +12,7 @@ categories:
 layout: post
 title: 2011 Breakout Sessions
 created: 1296088599
+permalink: /conference/2011/breakout/
 ---
 Breakout sessions at <a href="/conference/2011/schedule">Code4Lib 2011</a> are scheduled for Tuesday and Wednesday afternoons.
 

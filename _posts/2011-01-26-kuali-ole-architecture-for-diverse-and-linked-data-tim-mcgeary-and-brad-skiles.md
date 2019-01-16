@@ -21,6 +21,7 @@ layout: post
 title: 'Kuali OLE: Architecture for Diverse and Linked Data - Tim McGeary and Brad
   Skiles'
 created: 1296085956
+permalink: /conference/2011/mcgeary/
 ---
 <strong>Kuali OLE: Architecture for Diverse and Linked Data</strong>
 
