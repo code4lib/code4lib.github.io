@@ -1,14 +1,8 @@
 ---
-excerpt: "code4lib isn't entirely about code or libraries. It is a volunteer-driven
-  collective of hackers, designers, architects, curators, catalogers, artists and
-  instigators from around the world, who largely work for and with libraries, archives
-  and museums on technology \"stuff.\" It started in the fall of 2003 as a <a href=\"https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB\">mailing
-  list</a> when a group of library programmers decided to create an overarching community
-  agnostic towards any particular language or technology. \r\n\r\nCode4Lib is dedicated
-  to providing a harassment-free community experience for everyone regardless of gender,
-  sexual orientation, disability, physical appearance, body size, race, or religion.
-  For more information, please see our emerging <a href=\"https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md\">CodeofConduct4Lib</a>.\r\n\r\n"
-categories: []
+excerpt: "code4lib isn't entirely about code or libraries. It is a volunteer-driven collective of hackers, designers, architects, curators, catalogers, artists and instigators from around the world, who largely work for and with libraries, archives and museums on technology \"stuff.\" It started in the fall of 2003 as a <a href=\"https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB\">mailing list</a> when a group of library programmers decided to create an overarching community agnostic towards any particular language or technology. \r\n\r\nCode4Lib is dedicated to providing a harassment-free community experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. 
+
+For more information, please see our emerging <a href=\"https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md\">CodeofConduct4Lib</a>.\r\n\r\n"
+categories:
 layout: page
 title: About
 permalink: /about/
