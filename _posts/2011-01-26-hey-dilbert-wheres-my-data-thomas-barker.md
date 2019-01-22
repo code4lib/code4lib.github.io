@@ -14,6 +14,7 @@ categories:
 layout: post
 title: Hey, Dilbert. Where's My Data?! - Thomas Barker
 created: 1296084299
+permalink: /conference/2011/barker/
 ---
 <strong>Hey, Dilbert. Where's My Data?!</strong>
 

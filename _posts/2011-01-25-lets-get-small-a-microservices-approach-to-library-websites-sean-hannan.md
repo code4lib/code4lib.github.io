@@ -9,6 +9,7 @@ categories:
 layout: post
 title: 'Let''s Get Small: A Microservices Approach to Library Websites - Sean Hannan'
 created: 1296007775
+permalink: /conference/2011/hannan/
 ---
 <strong>Let's Get Small: A Microservices Approach to Library Websites</strong>
 

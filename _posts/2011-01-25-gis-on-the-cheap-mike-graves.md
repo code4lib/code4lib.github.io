@@ -9,6 +9,7 @@ categories:
 layout: post
 title: GIS on the Cheap - Mike Graves
 created: 1296007511
+permalink: /conference/2011/graves/
 ---
 <strong><a href="https://docs.google.com/present/edit?id=0AaAHjV7nFQ21ZGc3MzhxdzRfMTA2ZGp0cXpmY2Q&hl=en&authkey=CO3C7MkJ">GIS on the Cheap</a></strong>
 

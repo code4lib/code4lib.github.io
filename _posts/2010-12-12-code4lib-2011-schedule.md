@@ -222,6 +222,5 @@ In this talk, I will show how breaking the construction of the library website i
 
 <dt class="vevent" id="hcal1010"><abbr class="dtstart" title="2011-02-10T12:00:00-05:00">12:00</abbr>-<abbr class="dtend" title="2011-02-10T12:15:00-05:00">12:15</abbr> - <span class="summary">Wrap-Up</span></dt>
 
-
 </dl>
 <!--break-->

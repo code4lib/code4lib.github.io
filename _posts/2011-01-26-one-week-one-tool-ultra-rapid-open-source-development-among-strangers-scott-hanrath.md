@@ -10,6 +10,7 @@ layout: post
 title: 'One Week | One Tool: Ultra-Rapid Open Source Development Among Strangers -
   Scott Hanrath'
 created: 1296087429
+permalink: /conference/2011/hanrath/
 ---
 <strong>One Week | One Tool: Ultra-Rapid Open Source Development Among Strangers</strong>
 

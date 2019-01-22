@@ -11,6 +11,7 @@ layout: post
 title: 'Letting In the Light: Using Solr as an External Search Component - Jay Luker
   and Benoit Thiell'
 created: 1296086640
+permalink: /conference/2011/luker/
 ---
 <strong>Letting In the Light: Using Solr as an External Search Component </strong>
 

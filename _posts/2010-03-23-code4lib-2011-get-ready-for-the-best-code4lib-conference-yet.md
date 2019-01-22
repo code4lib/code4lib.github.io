@@ -56,7 +56,7 @@ Thank you to all of our generous sponsors who have made this year's code4lib pos
 <strong>Scholarships</strong>
 Three scholarship competitions are underway this year.
 
-Oregon State University and the Western North Carolina Library Network are sponsoring four scholarships to promote gender and cultural diversity, with an application deadline of Dec. 6, 2010. See <a href="http://code4lib.org/conference/2011/scholarship-announcement">how to apply</a>.
+Oregon State University and the Western North Carolina Library Network are sponsoring four scholarships to promote gender and cultural diversity, with an application deadline of Dec. 6, 2010. See <a href="/conference/2011/scholarship-announcement">how to apply</a>.
 
 The AngelFund4Code4Lib is proud to announce the second annual AngelFund4Code4Lib -- a $1,500 stipend to attend Code4Lib 2011. AngelFund4Code4Lib is now accepting applications through December 17, 2010. To apply: in 500 words or less, write what you hope to learn at the conference and email it to angelfund4code4lib@infomotions.com.
 

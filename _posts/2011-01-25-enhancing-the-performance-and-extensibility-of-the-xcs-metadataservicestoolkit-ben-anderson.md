@@ -9,6 +9,7 @@ layout: post
 title: Enhancing the Performance and Extensibility of the XC’s MetadataServicesToolkit
   - Ben Anderson
 created: 1296006609
+permalink: /conference/2011/anderson/
 ---
 <strong>Enhancing the Performance and Extensibility of the XC’s MetadataServicesToolkit</strong>
 

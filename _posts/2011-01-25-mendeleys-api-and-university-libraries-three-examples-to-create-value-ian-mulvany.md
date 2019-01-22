@@ -9,6 +9,7 @@ layout: post
 title: 'Mendeley''s API and University Libraries: Three Examples to Create Value -
   Ian Mulvany'
 created: 1296015305
+permalink: /conference/2011/mulvany/
 ---
 <strong>Mendeley's API and University Libraries: Three Examples to Create Value</strong>
 

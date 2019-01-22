@@ -10,6 +10,7 @@ layout: post
 title: 'fiwalk With Me: Building Emergent Pre-Ingest Workflows for Digital Archival
   Records using Open Source Forensic Software - Mark M'
 created: 1296008009
+permalink: /conference/2011/matienzo/
 ---
 <strong>fiwalk With Me: Building Emergent Pre-Ingest Workflows for Digital Archival Records using Open Source Forensic Software</strong>
 

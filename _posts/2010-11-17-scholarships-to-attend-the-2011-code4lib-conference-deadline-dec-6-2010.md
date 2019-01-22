@@ -5,8 +5,9 @@ categories:
 layout: post
 title: Scholarships to Attend the 2011 Code4Lib Conference  (Deadline Dec. 6, 2010)
 created: 1289999061
+permalink: /conference/2011/scholarship-announcement/
 ---
-Oregon State University and the Western North Carolina Library Network are sponsoring four scholarships to promote gender and cultural diversity. Each scholarship will provide up to $1,000 to cover travel costs and conference fees for one qualified attendee to attend the <a href="http://code4lib.org/conference/2011/">2011 Code4lib conference</a>, which will be held in Bloomington, Indiana, from Monday, February 7 through Thursday, February 10. The Code4Lib scholarship committee will award these scholarships based on merit and need.
+Oregon State University and the Western North Carolina Library Network are sponsoring four scholarships to promote gender and cultural diversity. Each scholarship will provide up to $1,000 to cover travel costs and conference fees for one qualified attendee to attend the <a href="/conference/2011/">2011 Code4lib conference</a>, which will be held in Bloomington, Indiana, from Monday, February 7 through Thursday, February 10. The Code4Lib scholarship committee will award these scholarships based on merit and need.
 
 <em>Eligibility</em>
 Applicants, if eligible, may apply for both scholarships, but no applicant will receive more than one scholarship. Past winners of either scholarship are not eligible for either scholarship. Scholarship recipients will be required to write a short trip report to be submitted to the scholarships committee by March 15, 2011.

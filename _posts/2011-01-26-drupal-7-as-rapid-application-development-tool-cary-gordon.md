@@ -10,6 +10,7 @@ categories:
 layout: post
 title: Drupal 7 as Rapid Application Development Tool - Cary Gordon
 created: 1296086229
+permalink: /conference/2011/gordon/
 ---
 <strong>Drupal 7 as Rapid Application Development Tool</strong>
 

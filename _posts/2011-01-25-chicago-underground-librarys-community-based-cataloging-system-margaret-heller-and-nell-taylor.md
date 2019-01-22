@@ -10,6 +10,7 @@ layout: post
 title: Chicago Underground Library’s Community-Based Cataloging System - Margaret
   Heller and Nell Taylor
 created: 1296004451
+permalink: /conference/2011/hellertaylor/
 ---
 <strong>Chicago Underground Library’s Community-Based Cataloging System</strong>
 

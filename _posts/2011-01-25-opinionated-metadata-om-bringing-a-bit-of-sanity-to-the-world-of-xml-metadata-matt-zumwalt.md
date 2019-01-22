@@ -9,6 +9,7 @@ layout: post
 title: 'Opinionated Metadata (OM): Bringing a Bit of Sanity to the World of XML Metadata
   - Matt Zumwalt'
 created: 1296005933
+permalink: /conference/2011/zumwalt/
 ---
 <strong>Opinionated Metadata (OM): Bringing a Bit of Sanity to the World of XML Metadata</strong>
 
