@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Hacking the DPLA
 created: 1354661396
+permalink: /conference/2013/hill-klein/
 ---
 <strong>Hacking the DPLA</strong>
 <br/>

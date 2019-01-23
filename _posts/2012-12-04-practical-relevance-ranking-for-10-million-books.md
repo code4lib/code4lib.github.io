@@ -21,6 +21,7 @@ categories:
 layout: post
 title: Practical Relevance Ranking for 10 million books.
 created: 1354662285
+permalink: /conference/2013/burton-west/
 ---
 <strong>Practical Relevance Ranking for 10 million books</strong>
 

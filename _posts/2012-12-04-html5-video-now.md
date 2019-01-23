@@ -18,6 +18,7 @@ categories:
 layout: post
 title: HTML5 Video Now!
 created: 1354665738
+permalink: /conference/2013/ronallo/
 ---
 <strong>HTML5 Video Now!</strong>
 

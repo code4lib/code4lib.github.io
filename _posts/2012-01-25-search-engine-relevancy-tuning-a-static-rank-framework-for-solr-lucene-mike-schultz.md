@@ -5,11 +5,12 @@ layout: post
 title: Search Engine Relevancy Tuning - A Static Rank Framework for Solr/Lucene -
   Mike Schultz
 created: 1327557072
+permalink: /conference/2012/schultz/
 ---
 <strong>Search Engine Relevancy Tuning - A Static Rank Framework for Solr/Lucene</strong>
 <ul>
 <li>Mike Schultz, formerly Summon Search Architect, mike.schultz@gmail.com</li>
-</ul
+</ul>
 <p><a href="/conference/2012">code4lib 2012</a>, Thursday, February 9 2012, 11:40-12:00</p>
 <p>
 Solr/Lucene provides a lot of flexibility for adjusting relevancy scoring and improving search results. Roughly speaking there are two areas of concern: Firstly, a 'dynamic rank' calculation that is a function of the user query and document text fields. And secondly, a 'static rank' which is independent of the query and generally is a function of non-text document metadata. In this talk I will outline an easily understood, hand-tunable static rank system with a minimal number of parameters.

@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Discovering Digital Library User Behavior with Google Analytics - Kirk Hess
 created: 1327554397
+permalink: /conference/2012/hess/
 ---
 <strong>Discovering Digital Library User Behavior with Google Analytics</strong>
 <ul>

@@ -20,6 +20,7 @@ layout: post
 title: 'Actions speak louder than words: Analyzing large-scale query logs to improve
   the research experience'
 created: 1354665448
+permalink: /conference/2013/chandrasekar-price/
 ---
 <strong>Actions speak louder than words: Analyzing large-scale query logs to improve the research experience</strong>
 

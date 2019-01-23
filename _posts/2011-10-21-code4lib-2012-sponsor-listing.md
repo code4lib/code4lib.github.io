@@ -4,6 +4,7 @@ categories:
 layout: post
 title: code4lib 2012 Sponsor Listing
 created: 1319225953
+permalink: /conference/2012/sponsors/
 ---
 <img src="http://code4lib.org/files/2012-sponsors.png" alt="2012 Sponsors" width="600" />
 

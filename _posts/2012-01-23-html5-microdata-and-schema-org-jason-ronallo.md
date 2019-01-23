@@ -4,6 +4,7 @@ categories:
 layout: post
 title: HTML5 Microdata and Schema.org - Jason Ronallo
 created: 1327338145
+permalink: /conference/2012/ronallo/
 ---
 <strong>HTML5 Microdata and Schema.org</strong>
 <ul>

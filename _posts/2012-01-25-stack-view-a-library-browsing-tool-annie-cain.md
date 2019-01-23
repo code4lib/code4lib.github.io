@@ -4,6 +4,7 @@ categories:
 layout: post
 title: 'Stack View: A Library Browsing Tool - Annie Cain'
 created: 1327557299
+permalink: /conference/2012/cain/
 ---
 <strong>Stack View: A Library Browsing Tool</strong>
 <ul>

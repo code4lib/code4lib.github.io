@@ -5,6 +5,7 @@ layout: post
 title: Kill the search button II - the handheld devices are coming - Jørn Thøgersen,
   Michael Poltorak Nielsen
 created: 1327623159
+permalink: /conference/2012/thogersen/
 ---
 <strong>Kill the search button II - the handheld devices are coming</strong>
 <ul>

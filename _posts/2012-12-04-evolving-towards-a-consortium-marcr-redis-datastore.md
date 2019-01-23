@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Evolving Towards a Consortium MARCR Redis Datastore
 created: 1354662651
+permalink: /conference/2013/nelson-yeh/
 ---
 <strong>Evolving Towards a Consortium MARCR Redis Datastore</strong>
 <br/>

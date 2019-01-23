@@ -6,6 +6,7 @@ layout: post
 title: 'The Avalon Media System: A Next Generation Hydra Head For Audio and Video
   Delivery'
 created: 1354661822
+permalink: /conference/2013/klein-rogers/
 ---
 <strong>The Avalon Media System: A Next Generation Hydra Head For Audio and Video Delivery</strong>
 <br/>

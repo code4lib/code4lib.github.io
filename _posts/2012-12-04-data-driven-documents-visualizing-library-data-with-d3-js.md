@@ -21,6 +21,7 @@ categories:
 layout: post
 title: 'Data-Driven Documents: Visualizing library data with D3.js'
 created: 1354665641
+permalink: /conference/2013/davidson/
 ---
 <strong>Data-Driven Documents: Visualizing library data with D3.js</strong>
 

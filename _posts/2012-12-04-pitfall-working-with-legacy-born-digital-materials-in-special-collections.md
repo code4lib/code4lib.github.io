@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Pitfall! Working with Legacy Born Digital Materials in Special Collections
 created: 1354661104
+permalink: /conference/2013/mennerich-matienzo/
 ---
 <strong>Pitfall! Working with Legacy Born Digital Materials in Special Collections</strong>
 <br/>

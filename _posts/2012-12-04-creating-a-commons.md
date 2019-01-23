@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Creating a Commons
 created: 1354663319
+permalink: /conference/2013/sadler/
 ---
 <strong>"Creating a Commons"</strong>
 <ul>

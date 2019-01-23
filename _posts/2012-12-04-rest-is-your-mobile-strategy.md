@@ -5,6 +5,7 @@ categories:
 layout: post
 title: REST IS Your Mobile Strategy
 created: 1354664134
+permalink: /conference/2013/wolf/
 ---
 <strong>REST IS Your Mobile Strategy </strong>
 <ul>

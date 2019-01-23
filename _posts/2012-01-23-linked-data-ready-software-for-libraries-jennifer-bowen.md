@@ -4,6 +4,7 @@ categories:
 layout: post
 title: "“Linked-Data-Ready” Software for Libraries - Jennifer Bowen"
 created: 1327337731
+permalink: /conference/2012/bowen/
 ---
 <strong>“Linked-Data-Ready” Software for Libraries</strong>
 <ul>

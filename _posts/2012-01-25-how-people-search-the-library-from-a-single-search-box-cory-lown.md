@@ -4,6 +4,7 @@ categories:
 layout: post
 title: How people search the library from a single search box - Cory Lown
 created: 1327555616
+permalink: /conference/2012/lown/
 ---
 <strong>How people search the library from a single search box</strong>
 <ul>

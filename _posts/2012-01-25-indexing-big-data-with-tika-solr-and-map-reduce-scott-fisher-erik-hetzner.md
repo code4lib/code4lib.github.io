@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Indexing big data with Tika, Solr & map-reduce - Scott Fisher, Erik Hetzner
 created: 1327558664
+permalink: /conference/2012/fisher/
 ---
 <strong>Indexing big data with Tika, Solr & map-reduce</strong>
 <ul>

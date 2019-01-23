@@ -4,6 +4,7 @@ categories:
 layout: post
 title: In-browser data storage and me - Jason Casden
 created: 1327558748
+permalink: /conference/2012/casden/
 ---
 <strong>In-browser data storage and me</strong>
 <ul>

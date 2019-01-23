@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Ask Anything! – Facilitated by Carmen Mitchell- Code4Lib 2012
 created: 1328297826
+permalink: /conference/2012/ask/
 ---
 <strong>Ask Anything!</strong>
 
