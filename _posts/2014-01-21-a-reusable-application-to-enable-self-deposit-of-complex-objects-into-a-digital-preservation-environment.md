@@ -10,6 +10,7 @@ layout: post
 title: A reusable application to enable self deposit of complex objects into a digital
   preservation environment
 created: 1390336812
+permalink: /conference/2014/sexton/
 ---
 Jill Sexton, Mike Daines, Greg Jansen, UNC Chapel Hill Libraries
 

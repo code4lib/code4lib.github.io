@@ -16,6 +16,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report- Nabil Kashyap
 created: 1397845465
+permalink: /conference/2014/kashyap/
 ---
 Diversity Scholarship Trip Report
 Code4Lib, 2014

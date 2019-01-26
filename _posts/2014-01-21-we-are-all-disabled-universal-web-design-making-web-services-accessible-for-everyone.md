@@ -6,6 +6,7 @@ layout: post
 title: We Are All Disabled! Universal Web Design Making Web Services Accessible for
   Everyone
 created: 1390335930
+permalink: /conference/2014/ng/
 ---
 Cynthia Ng, Accessibility Librarian, CAPER-BC at Langara College
 

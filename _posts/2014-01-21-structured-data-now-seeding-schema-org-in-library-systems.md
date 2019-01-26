@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'Structured data NOW: seeding schema.org in library systems'
 created: 1390333772
+permalink: /conference/2014/scott/
 ---
 Dan Scott, Laurentian University
 

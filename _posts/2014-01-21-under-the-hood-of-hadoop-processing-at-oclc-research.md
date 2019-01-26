@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Under the Hood of Hadoop Processing at OCLC Research
 created: 1390337860
+permalink: /conference/2014/tennant/
 ---
 Roy Tennant, OCLC Research
 

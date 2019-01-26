@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Visualizing Library Resources as Networks
 created: 1390335846
+permalink: /conference/2014/miller/
 ---
 Matt Miller, New York Public Library, NYPL Labs.
 

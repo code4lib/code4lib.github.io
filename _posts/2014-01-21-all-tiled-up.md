@@ -5,6 +5,7 @@ categories:
 layout: post
 title: All Tiled Up
 created: 1390338069
+permalink: /conference/2014/graves/
 ---
 Mike Graves, MIT Libraries
 

@@ -22,6 +22,7 @@ categories:
 layout: post
 title: 2014 Code of Conduct
 created: 1391479836
+permalink: /conference/2014/code_of_conduct/
 ---
 Code4Lib seeks to provide a welcoming, fun, and safe community and conference experience and ongoing community for everyone. We do not tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks, or any community channel such as the chatroom or mailing list.
@@ -34,7 +35,7 @@ Harassment is understood as any behavior that threatens another person or group,
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please inform the offender that he/she has affected you negatively. Oftentimes, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion.
 
-2. Escalation 
+2. Escalation
 
 If the offender insists that he/she did not offend, or if offender is actively harassing you, then you will need a third party to step in.
 

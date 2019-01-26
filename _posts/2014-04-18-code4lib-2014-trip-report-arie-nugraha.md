@@ -20,16 +20,13 @@ categories:
 layout: post
 title: CODE4LIB 2014 Trip Report - Arie Nugraha
 created: 1397844263
+permalink: /conference/2014/nugraha/
 ---
 Code4Lib Conference 2014
 Scholarship Brief Report
 
-
 Arie Nugraha
 University of Indonesia
-
-
-
 
 For me, the Code4Lib Conference 2014 was not only the first conference that I've attended abroad, but also my gateway for my first step in the United States. First I want to say, a big thank you to all scholarship sponsors, Council on Library and Information Resources/Digital Library Federation, EBSCO, ProQuest and also Sumana Harihareswara, without their generous sponsorship, it would have been impossible for me to come to Code4Lib Conference 2014.
 

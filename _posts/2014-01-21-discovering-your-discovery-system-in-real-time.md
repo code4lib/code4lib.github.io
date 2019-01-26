@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Discovering your Discovery System in Real Time
 created: 1390333692
+permalink: /conference/2014/back/
 ---
 Godmar Back and Annette Bailey, Virginia Tech
 

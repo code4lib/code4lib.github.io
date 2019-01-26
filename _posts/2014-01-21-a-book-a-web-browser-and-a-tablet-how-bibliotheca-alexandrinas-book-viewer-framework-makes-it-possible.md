@@ -18,6 +18,7 @@ layout: post
 title: 'A Book, a Web Browser and a Tablet: How Bibliotheca Alexandrina''s Book Viewer
   Framework Makes It Possible'
 created: 1390332744
+permalink: /conference/2014/morsy/
 ---
 Engy Morsy, Bibliotheca Alexandrina (The new Library of Alexandria)
 

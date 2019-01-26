@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'Building for others (and ourselves): the Avalon Media System'
 created: 1390336205
+permalink: /conference/2014/klein/
 ---
 Michael B Klein, Senior Software Developer, and Julie Rudder, Digital Initiatives Project Manager, Northwestern University
 

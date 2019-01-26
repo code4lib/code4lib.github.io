@@ -20,6 +20,7 @@ layout: post
 title: 'Towards Pasta Code Nirvana: Using JavaScript MVC to Fill Your Programming
   Ravioli'
 created: 1390337176
+permalink: /conference/2014/davidson/
 ---
 Bret Davidson, North Carolina State University Libraries
 
