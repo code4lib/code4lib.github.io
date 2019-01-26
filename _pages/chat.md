@@ -51,7 +51,7 @@ Code4Lib also has a Slack team that is used for discussion, questions, announcem
 
 Slack team: <a href="https://code4lib.slack.com">https://code4lib.slack.com</a>
 
-Joining a Slack team requires an invitation, but anyone can generate an automatic invite using the following form: <a href="https://code4lib.org/slack">https://code4lib.org/slack</a>. (If this form does not work, you may want to use this backup form: <a target="_blank" href="https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1">https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1</a>) If you need help getting connected, ping slack@projecthydra.org and someone will be in touch.
+Joining a Slack team requires an invitation, but anyone can generate an automatic invite using the following form: <a href="https://code4lib.org/slack">https://code4lib.org/slack</a>. (If this form does not work, you may want to use this backup form: <a target="_blank" href="https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1">https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1</a>)
 
 A tutorial can be found at <a href="https://code4lib.slack.com/getting-started">https://code4lib.slack.com/getting-started</a>.  Slack has clients for Mac, PC, Linux, and mobile devices, and may be used via any web browser.
 
