@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Our $50,000 Problem: Why Library School?'
 created: 1417819320
+permalink: /conference/2015/halperin/
 ---
 - Jennie Rose Halperin, jhalperin@safaribooksonline.com
 

@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Beyond Open Source
 created: 1417819254
+permalink: /conference/2015/casden/
 ---
 - Jason Casden, jmcasden@ncsu.edu, NCSU Libraries
 - Bret Davidson, bddavids@ncsu.edu, NCSU Libraries

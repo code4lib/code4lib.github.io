@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Heiðrún: DPLA''s Metadata Harvesting, Mapping and Enhancement System'
 created: 1417819266
+permalink: /conference/2015/altman/
 ---
 - Audrey Altman, audrey at dp.la, Digital Public Library of America
 - Gretchen Gueguen, gretchen at dp.la, Digital Public Library of

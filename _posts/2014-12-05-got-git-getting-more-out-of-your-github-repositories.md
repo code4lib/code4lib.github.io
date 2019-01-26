@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Got Git? Getting More Out of Your GitHub Repositories
 created: 1417819323
+permalink: /conference/2015/brady/
 ---
 -  Terry Brady, twb27@georgetown.edu, Georgetown University Library
 

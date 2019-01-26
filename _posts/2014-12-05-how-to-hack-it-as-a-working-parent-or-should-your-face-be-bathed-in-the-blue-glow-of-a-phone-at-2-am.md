@@ -4,6 +4,7 @@ layout: post
 title: 'How to Hack it as a Working Parent: or, Should Your Face be Bathed in the
   Blue Glow of a Phone at 2 AM?'
 created: 1417819316
+permalink: /conference/2015/heller/
 ---
 - Margaret Heller, Loyola University Chicago, mheller1@luc.edu
 - Christina Salazar, California State University Channel Islands,

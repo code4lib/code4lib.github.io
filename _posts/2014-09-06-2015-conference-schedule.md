@@ -27,7 +27,7 @@ created: 1410030541
 <li>09:00-09:15 - Welcome to Code4Lib 2015</li>
 <li>09:15-10:00 - Opening Keynote - Selena Deckelmann [<a href="https://speakerdeck.com/selenamarie/code4lib-what-beginners-teach-us">Slides</a>]</li>
 <li>10:00-10:30 - <em>Break</em></li>
-<li>10:30-10:50 - <a href='/conference/2015/yoose'>Your code does not exist in a vacuum</a> - Becky Yoose [<a href="http://code4lib.org/files/c4l15yoose.pdf">Slides</a>]</li>
+<li>10:30-10:50 - <a href='/conference/2015/yoose'>Your code does not exist in a vacuum</a> - Becky Yoose [<a href="/files/c4l15yoose.pdf">Slides</a>]</li>
 <li>10:50-11:10 - <a href='/conference/2015/schaefer'>Designing and Leading a Kick A** Tech Team</a> - Sibyl Schaefer [<a href="http://sibylschaefer.com/presentations/c4l2015">Slides</a>]</li>
 <li>11:10-11:30 - <a href='/conference/2015/white'>Programmers are not projects: lessons learned from managing humans</a> - Erin White [<a href="https://github.com/erinrwhite/managing-humans">Slides</a>]</li>
 <li>11:30-11:50 - <a href='/conference/2015/sheldon-hess'>Level Up Your Coding with Code Club (yes, you can talk about it)</a> - Coral Sheldon-Hess [<a href="http://bit.ly/coral-c4l">Slides</a>]</li>
@@ -41,7 +41,7 @@ created: 1410030541
 <li>15:30-15:50 - <em>Break</em></li>
 <li>15:50-16:10 - <a href='/conference/2015/english'>Book Reader Bingo: Which Page-Turner Should I Use?</a> - Eben English [<a href="http://slidesha.re/1DiNNuc">Slides</a>]</li>
 <li>16:10-16:30 - <a href='/conference/2015/kudzia'>Leveling Up Your Git Workflow</a> - Megan Kudzia and Kate Sears [<a href="http://slides.com/mkudzia/levelup#/">Slides</a>]</li>
-<li>16:30-16:50 - <a href='/conference/2015/brady'>Got Git? Getting More Out of Your GitHub Repositories</a> - Terry Brady [<a href="http://code4lib.org/files/Got%20Git-%20Getting%20More%20Out%20of%20Your%20GitHub%20Repositories%20%281%29.pdf">Slides</a>]</li>
+<li>16:30-16:50 - <a href='/conference/2015/brady'>Got Git? Getting More Out of Your GitHub Repositories</a> - Terry Brady [<a href="/files/Got%20Git-%20Getting%20More%20Out%20of%20Your%20GitHub%20Repositories%20%281%29.pdf">Slides</a>]</li>
 <li>16:50-17:00 - Daily Wrap-up</li>
 </ul>
 
@@ -74,19 +74,20 @@ created: 1410030541
 
 <h3><span class="date">Thursday, February 12</span></h3>
 <ul>
-<li>08:00-08:30 - Registration; Continental Breakfast & Coffee</li>
-<li>08:30-08:35 - Announcements/Housekeeping</li>
-<li>08:35-09:20 - Closing Keynote - Architect for Wanderlust: the Web and Open Things - Andromeda Yelton [<a href="http://andromedayelton.com/blog/2015/02/12/c4l15-talk-extras/">Slides etc</a>]</li>
-<li>09:20-09:30 - Break</li>
-<li>09:30-10:15 - <a href="http://wiki.code4lib.org/2015_Lightning_Talks">Lightning Talks 3</a></li>
-<li>10:15-10:45 – Break – CHANGE ROOMS</li>
-<li>10:45-11:45 - Breakout Sessions (List on Easel by Reg. Desk) / <a href='/conference/2015/askanything'>Ask Anything</a></li>
-<ul>
-<li>Mobile dev/code4lib app - Galleria 1</li>
-<li>Code4lib mentor program - Galleria 3</li>
-<li>Project management/ management styles - Skyline 2 (23rd floor)</li>
-<li>Fedora 4 - Skyline 4 (23rd Floor)</li>
-<li>C4lcon hosting grudgematch - Skyline 1 (23rd Floor)</li>
-<li>everything else - galleria 2 (Ask Anything; ReqFlow; SolrMarc; Linked Data Shift/drift</li></ul>
+    <li>08:00-08:30 - Registration; Continental Breakfast & Coffee</li>
+    <li>08:30-08:35 - Announcements/Housekeeping</li>
+    <li>08:35-09:20 - Closing Keynote - Architect for Wanderlust: the Web and Open Things - Andromeda Yelton [<a href="http://andromedayelton.com/blog/2015/02/12/c4l15-talk-extras/">Slides etc</a>]</li>
+    <li>09:20-09:30 - Break</li>
+    <li>09:30-10:15 - <a href="http://wiki.code4lib.org/2015_Lightning_Talks">Lightning Talks 3</a></li>
+    <li>10:15-10:45 – Break – CHANGE ROOMS</li>
+    <li>10:45-11:45 - Breakout Sessions (List on Easel by Reg. Desk) / Ask Anything</li>
+    <ul>
+        <li>Mobile dev/code4lib app - Galleria 1</li>
+        <li>Code4lib mentor program - Galleria 3</li>
+        <li>Project management/ management styles - Skyline 2 (23rd floor)</li>
+        <li>Fedora 4 - Skyline 4 (23rd Floor)</li>
+        <li>C4lcon hosting grudgematch - Skyline 1 (23rd Floor)</li>
+        <li>everything else - galleria 2 (Ask Anything; ReqFlow; SolrMarc; Linked Data Shift/drift</li>
+    </ul>
 </ul>
 </div>

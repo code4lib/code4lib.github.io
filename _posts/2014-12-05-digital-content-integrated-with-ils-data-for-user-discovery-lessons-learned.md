@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Digital Content Integrated with ILS Data for User Discovery: Lessons Learned'
 created: 1417819300
+permalink: /conference/2015/dushay/
 ---
 - Naomi Dushay, ndushay@stanford.edu, Stanford University Libraries
 - Laney McGlohon, laneymcg@stanford.edu, Stanford University Libraries

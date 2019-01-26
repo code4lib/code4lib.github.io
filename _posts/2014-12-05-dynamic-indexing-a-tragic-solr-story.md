@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Dynamic Indexing: a Tragic Solr Story'
 created: 1417819294
+permalink: /conference/2015/schneider/
 ---
 - Wayne Schneider, wschneider at hclib.org, [Hennepin County Library](//www.hclib.org)
 

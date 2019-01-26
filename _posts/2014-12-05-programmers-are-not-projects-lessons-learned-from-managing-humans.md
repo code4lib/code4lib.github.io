@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Programmers are not projects: lessons learned from managing humans'
 created: 1417818918
+permalink: /conference/2015/white/
 ---
 - Erin White, erwhite@vcu.edu, Virginia Commonwealth University -
 first-time presenter

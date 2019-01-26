@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Leveling Up Your Git Workflow
 created: 1417819115
+permalink: /conference/2015/kudzia/
 ---
 - Megan Kudzia, moneill@albion.edu, Albion College Library
 - Kate Sears, eks11@albion.edu, Albion College Library

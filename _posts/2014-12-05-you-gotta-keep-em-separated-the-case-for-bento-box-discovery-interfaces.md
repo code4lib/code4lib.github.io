@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'You Gotta Keep ''em Separated: The Case for "Bento Box" Discovery Interfaces'
 created: 1417819288
+permalink: /conference/2015/thomale/
 ---
 - Jason Thomale, jason.thomale@unt.edu, University of North Texas
 Libraries

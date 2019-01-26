@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Level Up Your Coding with Code Club (yes, you can talk about it)
 created: 1417818941
+permalink: /conference/2015/sheldon-hess/
 ---
 - Coral Sheldon-Hess, coral@sheldon-hess.org
 

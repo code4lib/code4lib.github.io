@@ -1,8 +1,10 @@
 ---
-categories: []
+categories:
+- code4lib 2015
 layout: post
 title: A Semantic Makeover for CMS Data
 created: 1417818966
+permalink: /conference/2015/levay/
 ---
 - Bill Levay, @wjlevay, wjlevay@gmail.com, Linked Jazz Project, Code4Lib first-timer
 

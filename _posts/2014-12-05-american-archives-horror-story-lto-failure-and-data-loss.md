@@ -1,8 +1,10 @@
 ---
-categories: []
+categories:
+- code4lib 2015
 layout: post
 title: 'American (Archives) Horror Story: LTO Failure and Data Loss'
 created: 1417819240
+permalink: /conference/2015/fraimow/
 ---
 - Rebecca Fraimow, rebecca\_fraimow@wgbh.org, NDSR Resident, WGBH
 - Casey Davis, casey\_davis@wgbh.org, Project Manager, American

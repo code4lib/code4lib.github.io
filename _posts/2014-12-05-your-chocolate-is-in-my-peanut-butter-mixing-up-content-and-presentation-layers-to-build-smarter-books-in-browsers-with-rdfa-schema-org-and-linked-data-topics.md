@@ -4,6 +4,7 @@ layout: post
 title: Your Chocolate is in My Peanut Butter! Mixing up Content and Presentation Layers
   to Build Smarter Books in Browsers with RDFa, Schema.org, and Linked Data Topics
 created: 1417819012
+permalink: /conference/2015/clark/
 ---
 - Jason A. Clark [@jaclark], Head, Library Informatics & Computing,
 Montana State University, jaclark@montana.edu
