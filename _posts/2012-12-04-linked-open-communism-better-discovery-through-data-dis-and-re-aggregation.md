@@ -22,6 +22,7 @@ categories:
 layout: post
 title: 'Linked Open Communism: Better discovery through data dis- and re- aggregation'
 created: 1354664904
+permalink: /conference/2013/harper/
 ---
 <strong>Linked Open Communism: Better discovery through data dis- and re- aggregation</strong>
 <ul>

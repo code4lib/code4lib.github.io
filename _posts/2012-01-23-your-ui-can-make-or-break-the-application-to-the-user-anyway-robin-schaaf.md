@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Your UI can make or break the application (to the user, anyway) - Robin Schaaf
 created: 1327340379
+permalink: /conference/2012/schaaf/
 ---
 <strong>Your UI can make or break the application (to the user, anyway)</strong>
 <ul>

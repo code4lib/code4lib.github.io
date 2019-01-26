@@ -4,10 +4,11 @@ categories:
 layout: post
 title: Lies, Damned Lies, and Lines of Code Per Day - James Stuart
 created: 1327558890
+permalink: /conference/2012/stuart/
 ---
 <strong>Lies, Damned Lies, and Lines of Code Per Day</strong>
 <ul>
-<li>James Stuart, Columbia University, james.stuart@columbia.edu</li>
+    <li>James Stuart, Columbia University, james.stuart@columbia.edu</li>
 </ul>
 <p><a href="/conference/2012">code4lib 2012</a>, Wednesday, February 8 2012, 13:40-14:00</p>
 <p>
@@ -16,10 +17,9 @@ We've all heard about that one study that showed that Pair Programming was 20% e
 <p>
 A quick examination of some of the research surrounding programming efficiency and methodology, with a focus on personal productivity, and how to incorporate the more believable research into your own team's workflow.
 </p>
-<p>
-<strong>Slides:</slides>
+<strong>Slides:</strong>
 <ul>
-<li><a href="http://tastyhat.com/code4lib/lies_damned_lies.key">Keynote</a></li>
-<li><a href="http://tastyhat.com/code4lib/lies_damned_lies_no_notes.pdf">PDF (no notes)</a></li>
-<li><a href="http://tastyhat.com/code4lib/lies_damned_lies_with_notes.pdf">PDF (with notes)</a></li>
+    <li><a href="http://tastyhat.com/code4lib/lies_damned_lies.key">Keynote</a></li>
+    <li><a href="http://tastyhat.com/code4lib/lies_damned_lies_no_notes.pdf">PDF (no notes)</a></li>
+    <li><a href="http://tastyhat.com/code4lib/lies_damned_lies_with_notes.pdf">PDF (with notes)</a></li>
 </ul>

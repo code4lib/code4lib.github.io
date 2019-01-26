@@ -5,11 +5,12 @@ categories:
 layout: post
 title: All Teh Metadatas Re-Revisited
 created: 1354664542
+permalink: /conference/2013/cowles-critchlow-westbrook/
 ---
 <ul>
-<li>Esme Cowles, UC San Diego Library, escowles AT ucsd DOT edu</li>
-<li>Matt Critchlow, UC San Diego Library, mcritchlow AT ucsd DOT edu</li>
-<li>Bradley Westbrook, UC San Diego Library, bdwestbrook AT ucsd DOT edu</li>
+    <li>Esme Cowles, UC San Diego Library, escowles AT ucsd DOT edu</li>
+    <li>Matt Critchlow, UC San Diego Library, mcritchlow AT ucsd DOT edu</li>
+    <li>Bradley Westbrook, UC San Diego Library, bdwestbrook AT ucsd DOT edu</li>
 </ul>
 
 <p><a href="http://www.slideshare.net/mattcritchlow/c4-l-alltehmetadatas2013final">Slides</a>, <a href="http://archive.org/details/code4libEsmeMattBradley">Video</a></p>

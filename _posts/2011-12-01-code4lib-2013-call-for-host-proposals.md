@@ -30,11 +30,11 @@ and past hosting proposals from 2011 for ideas:
 <a href="http://www.library.yale.edu/~dlovins/c4l/code4lib2011.html">http://www.library.yale.edu/~dlovins/c4l/code4lib2011.html</a>
 <a href="http://sites.google.com/site/code4libvancouver2011">http://sites.google.com/site/code4libvancouver2011</a>
 
-and 
+and
 
 
 1. <a href="http://code4lib.org/conference/hosting">http://code4lib.org/conference/hosting</a>
 2. <a href="http://wiki.code4lib.org/index.php/How_To_Plan_A_Code4LibCon">http://wiki.code4lib.org/index.php/How_To_Plan_A_Code4LibCon</a>
-3. code4libcon@googlegroups.com 
+3. code4libcon@googlegroups.com
 
 <!--break-->

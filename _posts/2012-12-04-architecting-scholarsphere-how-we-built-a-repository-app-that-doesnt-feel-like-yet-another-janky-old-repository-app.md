@@ -6,6 +6,7 @@ layout: post
 title: 'ARCHITECTING ScholarSphere: How We Built a Repository App That Doesn''t Feel
   Like Yet Another Janky Old Repository App'
 created: 1354660782
+permalink: /conference/2013/coughlin-giarlo/
 ---
 <strong>ARCHITECTING ScholarSphere: How We Built a Repository App That Doesn't Feel Like Yet Another Janky Old Repository App</strong>
 <br/>

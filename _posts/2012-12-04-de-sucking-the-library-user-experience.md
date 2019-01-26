@@ -18,6 +18,7 @@ categories:
 layout: post
 title: De-sucking the Library User Experience
 created: 1354665188
+permalink: /conference/2013/prevost/
 ---
 <strong>De-sucking the Library User Experience</strong>
 <ul>

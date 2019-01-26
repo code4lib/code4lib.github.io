@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Hybrid Archival Collections Using Blacklight and Hydra
 created: 1354662909
+permalink: /conference/2013/wead/
 ---
 <strong>Hybrid Archival Collections Using Blacklight and Hydra</strong>
 <br/>

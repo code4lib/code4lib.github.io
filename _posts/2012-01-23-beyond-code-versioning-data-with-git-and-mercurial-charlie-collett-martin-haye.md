@@ -5,6 +5,7 @@ layout: post
 title: 'Beyond code: Versioning data with Git and Mercurial - Charlie Collett, Martin
   Haye'
 created: 1327337175
+permalink: /conference/2012/collett/
 ---
 <strong>Beyond code: Versioning data with Git and Mercurial</strong>
 <ul>

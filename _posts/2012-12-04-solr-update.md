@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Solr Update
 created: 1354665029
+permalink: /conference/2013/hatcher/
 ---
 <strong>Solr Update</strong>
 

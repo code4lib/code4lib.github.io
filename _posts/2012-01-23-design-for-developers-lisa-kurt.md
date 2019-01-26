@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Design for Developers - Lisa Kurt
 created: 1327339111
+permalink: /conference/2012/kurt/
 ---
 <strong>Design for Developers</strong>
 <ul>

@@ -19,6 +19,7 @@ categories:
 layout: post
 title: The Care and Feeding of a Crowd
 created: 1354663225
+permalink: /conference/2013/averkamp-butler/
 ---
 <strong>The Care and Feeding of a Crowd</strong>
 

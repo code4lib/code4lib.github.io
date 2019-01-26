@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'Code4Lib 2013 Scholarship (deadline: December 14, 2012)'
 created: 1354301801
+permalink: /conference/2013/scholarship/
 ---
 Oregon State University and the Digital Library Federation are sponsoring five scholarships to promote gender and cultural diversity. Each scholarship will provide up to $1,000 to cover travel costs and conference fees for one qualified attendee to attend the 2013 Code4Lib Conference, which will be held in Chicago, Illinois, from Monday,February 11 through Thursday, February 14. The Code4Lib scholarship committee will award two scholarships per category, awarding the remaining scholarship to the best remaining candidate in either category. The Code4Lib scholarship committee will award these scholarships based on merit and need.
 <!--break-->
@@ -14,7 +15,7 @@ Applicants, if eligible, may apply for both scholarships, but no applicant will 
 
 <strong>CONFERENCE INFO</strong>
 
-For more information on the Code4Lib Conference, please see the conference website: <a href="http://code4lib.org/conference/2013">http://code4lib.org/conference/2013</a>
+For more information on the Code4Lib Conference, please see the conference website: <a href="/conference/2013">http://code4lib.org/conference/2013</a>
 
 and write-ups of previous Code4Lib Conferences:
 <ul>
@@ -42,7 +43,7 @@ To apply, please send an email to Jeremy Frumkin (<a href="mailto:frumkinj@u.lib
 <li>A brief letter of interest, which:
   1. Describes your interest in the conference and how you intend to participate
   2. Discusses your statement of need
-   3. Indicates your eligibility</li>
+   1. Indicates your eligibility</li>
 <li>A résumé or CV</li>
 <li>Contact information for two professional or academic references</li>
 </ul>

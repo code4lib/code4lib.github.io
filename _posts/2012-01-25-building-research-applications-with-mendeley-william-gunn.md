@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Building research applications with Mendeley - William Gunn
 created: 1327557195
+permalink: /conference/2012/gunn/
 ---
 <strong>Building research applications with Mendeley</strong>
 <ul>

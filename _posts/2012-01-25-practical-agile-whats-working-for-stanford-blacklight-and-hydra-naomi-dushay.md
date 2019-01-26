@@ -5,6 +5,7 @@ layout: post
 title: 'Practical Agile: What''s Working for Stanford, Blacklight, and Hydra - Naomi
   Dushay'
 created: 1327559264
+permalink: /conference/2012/dushay/
 ---
 <strong>Practical Agile: What's Working for Stanford, Blacklight, and Hydra</strong>
 <ul>

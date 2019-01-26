@@ -18,6 +18,7 @@ categories:
 layout: post
 title: n Characters in Search of an Author
 created: 1354662505
+permalink: /conference/2013/luker/
 ---
 <strong><i>n</i> Characters in Search of an Author</strong>
 <ul>

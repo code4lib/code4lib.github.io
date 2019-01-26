@@ -5,6 +5,7 @@ layout: post
 title: 'The Golden Road (To Unlimited Devotion): Building a Socially Constructed Archive
   of Grateful Dead Artifacts - Robin Chandler'
 created: 1327340767
+permalink: /conference/2012/chandler/
 ---
 <strong>The Golden Road (To Unlimited Devotion): Building a Socially Constructed Archive of Grateful Dead Artifacts</strong>
 <ul>

@@ -5,14 +5,15 @@ categories:
 layout: post
 title: Ask Anything!
 created: 1359676934
+permalink: /conference/2013/ask/
 ---
  <strong>Ask Anything!</strong>
 <br>
-Wherein you ask...anything, a.k.a. "Human Search Engine". A chance for you to ask a roomful of code4libbers anything that's on your mind: questions seeking answers (short or long), requests for things (hardware, software, skills, or help), or offers of things. We'll keep the pace fast, and the answers faster. 
+Wherein you ask...anything, a.k.a. "Human Search Engine". A chance for you to ask a roomful of code4libbers anything that's on your mind: questions seeking answers (short or long), requests for things (hardware, software, skills, or help), or offers of things. We'll keep the pace fast, and the answers faster.
 <br>Come with questions and line up at the start of the session and we'll go through as many as we can; sometimes we'll stop at finding the right person or people to answer a query and it'll be up to you to find each other after the session.  If you don't ask questions, you get a stand-up routine, and poorly told jokes. (No pirates this year...)
 <p>
 
-Facilitated by Carmen Mitchell, California State University, San Marcos. 
+Facilitated by Carmen Mitchell, California State University, San Marcos.
 <br>carmenmitchell at gmail. also <a href="http://twitter.com/carmendarlene">@carmendarlene</a>
 <br>
 

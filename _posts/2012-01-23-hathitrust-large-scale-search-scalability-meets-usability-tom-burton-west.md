@@ -4,6 +4,7 @@ categories:
 layout: post
 title: 'HathiTrust Large Scale Search: Scalability meets Usability - Tom Burton-West'
 created: 1327338930
+permalink: /conference/2012/burton-west/
 ---
 <strong>HathiTrust Large Scale Search: Scalability meets Usability</strong>
 <ul>

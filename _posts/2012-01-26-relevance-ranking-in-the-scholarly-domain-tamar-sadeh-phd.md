@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Relevance Ranking in the Scholarly Domain - Tamar Sadeh, PhD
 created: 1327623353
+permalink: /conference/2012/sadeh/
 ---
 <strong>Relevance Ranking in the Scholarly Domain</strong>
 <ul>

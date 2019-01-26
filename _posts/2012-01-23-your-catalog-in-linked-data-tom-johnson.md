@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Your Catalog in Linked Data - Tom Johnson
 created: 1327337931
+permalink: /conference/2012/johnson/
 ---
 <strong>Your Catalog in Linked Data</strong>
 <ul>

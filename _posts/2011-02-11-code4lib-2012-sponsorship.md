@@ -5,8 +5,9 @@ categories:
 layout: post
 title: Code4Lib 2012 Sponsorship
 created: 1297454375
+permalink: /conference/2012/sponsorship/
 ---
-<img src="http://code4lib.org/files/2012-sponsors.png" alt="2012 Sponsors" width="600" />
+<img src="/files/2012-sponsors.png" alt="2012 Sponsors" width="600" />
 
 <strong>Scholarship Donors:</strong>
 

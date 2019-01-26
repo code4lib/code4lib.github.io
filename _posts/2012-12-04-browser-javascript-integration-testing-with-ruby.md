@@ -19,6 +19,7 @@ categories:
 layout: post
 title: Browser/Javascript Integration Testing with Ruby
 created: 1354664683
+permalink: /conference/2013/keck/
 ---
 <strong>Browser/Javascript Integration Testing with Ruby</strong>
 

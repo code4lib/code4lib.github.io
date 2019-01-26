@@ -18,6 +18,7 @@ categories:
 layout: post
 title: Google Analytics, Event Tracking and Discovery Tools
 created: 1354665337
+permalink: /conference/2013/lynema-constabaris/
 ---
 <strong>Google Analytics, Event Tracking and Discovery Tools</strong>
 

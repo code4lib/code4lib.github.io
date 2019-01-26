@@ -5,6 +5,7 @@ layout: post
 title: 'NoSQL Bibliographic Records: Implementing a Native FRBR Datastore with Redis
   - Jeremy Nelson'
 created: 1327557715
+permalink: /conference/2012/nelson/
 ---
 <strong>NoSQL Bibliographic Records: Implementing a Native FRBR Datastore with Redis</strong>
 <ul>

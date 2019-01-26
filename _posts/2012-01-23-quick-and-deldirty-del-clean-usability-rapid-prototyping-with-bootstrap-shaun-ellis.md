@@ -5,6 +5,7 @@ layout: post
 title: 'Quick and <del>Dirty</del> Clean Usability: Rapid Prototyping with Bootstrap
   - Shaun Ellis'
 created: 1327339960
+permalink: /conference/2012/ellis/
 ---
 <strong>Quick and <del>Dirty</del> <ins>Clean</ins> Usability: Rapid Prototyping with Bootstrap</strong>
 <ul>

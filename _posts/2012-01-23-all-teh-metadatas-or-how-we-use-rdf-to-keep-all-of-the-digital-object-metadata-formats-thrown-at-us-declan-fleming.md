@@ -5,6 +5,7 @@ layout: post
 title: ALL TEH METADATAS! or How we use RDF to keep all of the digital object metadata
   formats thrown at us - Declan Fleming
 created: 1327338506
+permalink: /conference/2012/fleming/
 ---
 <strong>ALL TEH METADATAS! or How we use RDF to keep all of the digital object metadata formats thrown at us</strong>
 <ul>

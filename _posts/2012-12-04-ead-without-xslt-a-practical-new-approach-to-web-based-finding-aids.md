@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'EAD without XSLT: A Practical New Approach to Web-Based Finding Aids'
 created: 1354661545
+permalink: /conference/2013/thornton/
 ---
 <strong>EAD without XSLT: A Practical New Approach to Web-Based Finding Aids</strong>
 <br/>

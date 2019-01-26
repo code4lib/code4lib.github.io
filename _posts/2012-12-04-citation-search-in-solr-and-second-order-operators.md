@@ -17,6 +17,7 @@ categories:
 layout: post
 title: Citation search in SOLR and second-order operators
 created: 1354662799
+permalink: /conference/2013/chyla/
 ---
 <strong>Citation search in SOLR and second-order operators</strong>
 

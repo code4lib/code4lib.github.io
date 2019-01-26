@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Hands off! Best Practices and Top Ten Lists for Code Handoffs
 created: 1354663069
+permalink: /conference/2013/dushay/
 ---
 <strong>Hands off! Best Practices and Top Ten Lists for Code Handoffs</strong>
 
