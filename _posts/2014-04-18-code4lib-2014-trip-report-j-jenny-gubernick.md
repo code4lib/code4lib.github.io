@@ -12,6 +12,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report - J. (Jenny) Gubernick
 created: 1397844748
+permalink: /conference/2014/gubernick/
 ---
 <h1>Code4Lib 2014: Conference Review</h1>
 <em>J. (Jenny) Gubernick</em>

@@ -22,6 +22,7 @@ layout: post
 title: Queue Programming -- how using job queues can make the Library coding world
   a better place
 created: 1390337743
+permalink: /conference/2014/diana/
 ---
 Birkin James Diana, Brown University
 

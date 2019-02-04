@@ -19,6 +19,7 @@ categories:
 layout: post
 title: 'Dead-simple Video Content Management: Let Your Filesystem Do The Work'
 created: 1390336013
+permalink: /conference/2014/orphanides/
 ---
 Andreas Orphanides, NCSU Libraries
 

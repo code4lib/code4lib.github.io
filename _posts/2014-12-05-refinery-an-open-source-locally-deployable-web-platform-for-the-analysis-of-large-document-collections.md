@@ -4,6 +4,7 @@ layout: post
 title: Refinery — An open source locally deployable web platform for the analysis
   of large document collections
 created: 1417819260
+permalink: /conference/2015/kim/
 ---
 **TALK HAS BEEN CANCELLED**
 

@@ -11,6 +11,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report - Christina Harlow
 created: 1397844494
+permalink: /conference/2014/harlow/
 ---
 A Newbie, Troublesome Cataloger at Code4Lib
 
@@ -27,5 +28,5 @@ Looking towards the future, I am not sure how to improve the Code4Lib Conference
 All things considered, the 2014 Code4Lib Conference was absolutely amazing, and I look forward to not only attending the 2015 Conference, but to being more involved with the Code4Lib community. Thank you to both the conference organizers and the sponsors for the opportunity to attend this year. It has positively changed my perspective on both my professional community and my career path.
 
 Christina Harlow
-@cm_harlow
+<a href="https://twitter.com/cm_harlow">@cm_harlow</a>
 cmh2166@columbia.edu

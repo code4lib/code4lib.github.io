@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Code4Lib 2015 Diversity Scholarships
 created: 1418420150
+permalink: /conference/2015/scholarships/
 ---
 The [Code4Lib Scholarship Committee](http://wiki.code4lib.org/2015_Conference_Committees#Scholarships_Committee) will award 5 diversity scholarships based on merit and need. Each scholarship will provide up to $1,000 to cover travel costs and conference fees for a qualified attendee to attend the [2015 Code4Lib Conference](/conference/2015), which will be held in Portland, Oregon, from February 9 - 12, 2015.
 

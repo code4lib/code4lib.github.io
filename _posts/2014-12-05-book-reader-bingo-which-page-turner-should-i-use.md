@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'Book Reader Bingo: Which Page-Turner Should I Use?'
 created: 1417819101
+permalink: /conference/2015/english/
 ---
 - Eben English, eenglish [at] bpl.org, Boston Public Library
 

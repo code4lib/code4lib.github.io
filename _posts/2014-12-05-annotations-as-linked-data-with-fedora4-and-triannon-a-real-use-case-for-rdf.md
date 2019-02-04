@@ -4,6 +4,7 @@ categories:
 layout: post
 title: Annotations as Linked Data with Fedora4 and Triannon (a Real Use Case for RDF!)
 created: 1417819277
+permalink: /conference/2015/sanderson/
 ---
 - Rob Sanderson, azaroth@stanford.edu, Stanford University Libraries
 - Naomi Dushay, ndushay@stanford.edu, Stanford University Libraries

@@ -23,6 +23,7 @@ layout: post
 title: Organic Free-Range API Development - Making Web Services That You Will Actually
   Want to Consume
 created: 1390337004
+permalink: /conference/2014/meyer/
 ---
 Steve Meyer and Karen Coombs, OCLC
 

@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Designing and Leading a Kick A** Tech Team
 created: 1417818901
+permalink: /conference/2015/schaefer/
 ---
 - Sibyl Schaefer, sschaefer@rockarch.org, Rockefeller Archive Center
 

@@ -4,6 +4,7 @@ layout: post
 title: 'Consuming Big Linked Open Data in Practice: Authority Shifts and Identifier
   Drift'
 created: 1417819272
+permalink: /conference/2015/stine/
 ---
 - Kathryn Stine, katstine@berkeley.edu, UC Berkeley (first-time
 presenter)

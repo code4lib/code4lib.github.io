@@ -5,6 +5,7 @@ categories:
 layout: post
 title: WebSockets for Real-Time and Interactive Interfaces
 created: 1390333077
+permalink: /conference/2014/ronallo/
 ---
 Jason Ronallo, NCSU Libraries
 

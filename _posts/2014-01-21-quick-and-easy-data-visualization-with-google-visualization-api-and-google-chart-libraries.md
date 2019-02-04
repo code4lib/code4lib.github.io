@@ -6,6 +6,7 @@ layout: post
 title: Quick and Easy Data Visualization with Google Visualization API and Google
   Chart Libraries
 created: 1390332958
+permalink: /conference/2014/kim/
 ---
 Bohyun Kim, University of Maryland, Baltimore - Health Sciences and Human Services Library.
 

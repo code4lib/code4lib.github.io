@@ -20,6 +20,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report - Jennifer Maiko Kishi
 created: 1397845338
+permalink: /conference/2014/kishi/
 ---
 Jennifer Maiko Kishi
 Code4Lib 2014 Conference Report

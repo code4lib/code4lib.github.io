@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Docker? VMs? EC2? Yes! With Packer.io
 created: 1417819312
+permalink: /conference/2015/clarke/
 ---
 - Kevin S. Clarke, ksclarke@gmail.com, Digital Library Programmer,
 UCLA

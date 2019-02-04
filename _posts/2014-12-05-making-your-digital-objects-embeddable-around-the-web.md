@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Making your digital objects embeddable around the web
 created: 1417819304
+permalink: /conference/2015/keck/
 ---
 - Jessie Keck, jkeck@stanford.edu, Stanford University Libraries
 - Jack Reed, pjreed@stanford.edu, Stanford University Libraries

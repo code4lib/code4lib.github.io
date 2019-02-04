@@ -21,6 +21,7 @@ categories:
 layout: post
 title: 'PhantomJS+Selenium: Easy Automated Testing of AJAX-y UIs'
 created: 1390337432
+permalink: /conference/2014/haye/
 ---
 Martin Haye and Mark Redar, California Digital Library
 

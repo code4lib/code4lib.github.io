@@ -6,6 +6,7 @@ layout: post
 title: Visualizing Solr Search Results with D3.js for User-Friendly Navigation of
   Large Results Sets
 created: 1390335713
+permalink: /conference/2014/bauder/
 ---
 Julia Bauder, Grinnell College Libraries
 

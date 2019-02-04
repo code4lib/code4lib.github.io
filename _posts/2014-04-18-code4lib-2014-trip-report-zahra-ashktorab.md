@@ -11,6 +11,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report - Zahra Ashktorab
 created: 1397845531
+permalink: /conference/2014/ashktorab/
 ---
 Zahra Ashktorab
 March 28, 2014

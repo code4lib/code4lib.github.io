@@ -4,6 +4,7 @@ categories:
 layout: post
 title: 2015 Code of Conduct
 created: 1422730825
+permalink: /conference/2015/code-conduct/
 ---
 Code4Lib seeks to provide a welcoming, fun, and safe community and
 conference experience as well as an ongoing community for everyone. We do not

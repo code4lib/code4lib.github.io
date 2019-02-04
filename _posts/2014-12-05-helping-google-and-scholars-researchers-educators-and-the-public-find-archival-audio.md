@@ -4,6 +4,7 @@ layout: post
 title: Helping Google (and scholars, researchers, educators, & the public) find archival
   audio
 created: 1417819064
+permalink: /conference/2015/wootton/
 ---
 - Anne Wootton, anne@popuparchive.org, Pop Up Archive
 (www.popuparchive.org)

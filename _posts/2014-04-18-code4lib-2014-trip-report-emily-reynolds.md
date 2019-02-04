@@ -17,6 +17,7 @@ categories: []
 layout: post
 title: Code4Lib 2014 Trip Report - Emily Reynolds
 created: 1397844680
+permalink: /conference/2014/reynolds/
 ---
 Emily Reynolds
 Code4Lib trip report
@@ -36,7 +37,7 @@ I would have liked to see more hands-on workshop sessions, particularly targeted
 
 Conference sessions
 
-Many of the conference sessions that I found most useful related to tools that most of us are already familiar with, but applied to new uses. For example, I don’t think I’ll ever look at Google Docs spreadsheets the same way again after Bohyun Kim’s talk, “Quick and Easy Data Visualization with Google Visualization API and Google Chart Libraries.” Similarly, Josh Wilson spoke about the customization possibilities of Google Analytics with in his presentation, “Personalize your Google Analytics Data With Custom Events and Variables.” And although I had used visualization tools like Gephi before, I was amazed by the NYPL Labs work presented by Matt Miller in “Visualizing Library Resources as Networks." 
+Many of the conference sessions that I found most useful related to tools that most of us are already familiar with, but applied to new uses. For example, I don’t think I’ll ever look at Google Docs spreadsheets the same way again after Bohyun Kim’s talk, “Quick and Easy Data Visualization with Google Visualization API and Google Chart Libraries.” Similarly, Josh Wilson spoke about the customization possibilities of Google Analytics with in his presentation, “Personalize your Google Analytics Data With Custom Events and Variables.” And although I had used visualization tools like Gephi before, I was amazed by the NYPL Labs work presented by Matt Miller in “Visualizing Library Resources as Networks."
 
 
 In light of the discussion around next year’s conference possibly having concurrent sessions (rather than the current model, where there is a single presentation track), I’ve been reflecting on the experience and feel strongly in favor of the one-track model. Although allowing concurrent sessions would mean that more people could present on their work, I found that only having one option both exposed me to content that I would perhaps not have seen otherwise and created a greater sense of community and camaraderie. While I am confident that the organizers would be successful in implementing a different scheduling model, I hope the possible risks of altering the conference in this way are taken fully into account.

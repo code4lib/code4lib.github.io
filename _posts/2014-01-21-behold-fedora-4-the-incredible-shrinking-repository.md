@@ -5,8 +5,9 @@ categories:
 layout: post
 title: 'Behold Fedora 4: The Incredible Shrinking Repository!'
 created: 1390336479
+permalink: /conference/2014/cowles/
 ---
-Esmé Cowles, UC San Diego Library. 
+Esmé Cowles, UC San Diego Library.
 
 <ul>
 <li>One repository contains untold numbers of digital objects and powers many Hydra and Islandora apps

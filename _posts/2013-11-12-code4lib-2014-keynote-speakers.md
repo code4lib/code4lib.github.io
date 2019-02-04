@@ -22,6 +22,7 @@ categories:
 layout: post
 title: Code4Lib 2014 Keynote Speakers
 created: 1384281682
+permalink: /conference/2014/keynotes/
 ---
 The Code4Lib 2014 Keynote Speakers Committee is excited to announce the
 selection by open vote of this year's keynote speakers: <b>Valerie Aurora</b> and

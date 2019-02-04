@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Feminist Human Computer Interaction (HCI) in Library Software
 created: 1417817605
+permalink: /conference/2015/sadler/
 ---
 <div markdown="1" itemscope itemtype="http://schema.org/Event">
 <span itemprop="name" content="Feminist Human Computer Interaction (HCI) in Library Software"></span>
@@ -24,7 +25,6 @@ Academic Publishers.
 [2] Bardzell, Shaowen. Feminist HCI: Taking Stock and Outlining an
 Agenda for Design. CHI 2010: HCI For All.
 <http://dmrussell.net/CHI2010/docs/p1301.pdf>
-
 
 <span itemprop="startDate" content="2015-02-10T10:20:00-08:00"></span>
 <span itemprop="endDate" content="2015-02-10T10:40:00-08:00"></span>

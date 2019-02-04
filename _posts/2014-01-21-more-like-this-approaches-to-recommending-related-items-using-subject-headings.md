@@ -5,6 +5,7 @@ categories:
 layout: post
 title: 'More Like This: Approaches to Recommending Related Items using Subject Headings'
 created: 1390335096
+permalink: /conference/2014/beswick/
 ---
 Kevin Beswick, NCSU Libraries 
 

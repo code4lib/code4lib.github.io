@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Awesome Pi, LOL!
 created: 1417819248
+permalink: /conference/2015/connolly/
 ---
 - Matt Connolly, mconnolly@cornell.edu, Cornell University Library
 - Jennifer Colt, jrc88@cornell.edu, Cornell University Library

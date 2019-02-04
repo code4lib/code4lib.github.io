@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Your code does not exist in a vacuum
 created: 1417818764
+permalink: /conference/2015/yoose/
 ---
 - Becky Yoose, yoosebec at grinnell dot edu, Grinnell College
 

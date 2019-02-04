@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Lucene's Latest (for Libraries)
 created: 1390338006
+permalink: /conference/2014/hatcher/
 ---
 Erik Hatcher, LucidWorks
 

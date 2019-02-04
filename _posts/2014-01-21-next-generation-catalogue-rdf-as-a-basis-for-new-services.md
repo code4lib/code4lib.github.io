@@ -5,6 +5,7 @@ categories:
 layout: post
 title: Next Generation Catalogue - RDF as a Basis for New Services
 created: 1390334976
+permalink: /conference/2014/westrum/
 ---
 Anne-Lena Westrum, Benjamin Rokseth, Asgeir Rekkavik, Petter Goksøyr Åsen
 

@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: 'BYOB: Build Your Own Bootstrap'
 created: 1417819308
+permalink: /conference/2015/liauw/
 ---
 - Axa Mei Liauw, aliauw@princeton.edu, Princeton University Library
 - Kevin Reiss, kr2@princeton.edu, Princeton University Library
