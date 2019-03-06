@@ -15,7 +15,7 @@ In addition to having a discussion list, a blog aggregator, an IRC channel, an e
 
 <ul>
 <li><a href="http://appalachia.code4lib.org">appalachia.code4lib.org</a></li>
-<li><a href="http://ne.code4lib.org">ne.code4lib.org</a></li>
+<li><a href="https://wiki.code4lib.org/NEC4L">Code4Lib NE</a></li>
 <li><a href="https://www.meetup.com/code4libnyc/">Code4Lib NYC</a></li>
 <li><a href="http://ny3rs.org/code4libnys">Code4Lib NYS</a></li>
 <li><a href="http://wiki.code4lib.org/index.php/MDC">code4MDC (Maryland/Washington, DC, USA)</a></li>
