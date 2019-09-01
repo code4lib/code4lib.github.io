@@ -2,8 +2,8 @@
 excerpt: "<p><a href=\"/files/logo/c4l_logo/c4l_logo.RGB_400px.png\"><img
   src=\"/files/logo/c4l_logo/c4l_logo.RGB_400px.png\" alt=\"Code4Lib Logo\" width=\"401\"
   height=\"88\" /></a></p>\r\n<p>The Code4Lib logo was designed by Stephanie Brinley
-  of <a href=\"http://www.adeliedesign.com/c4liblogo/\">Adelie Design</a>. For information
-  on how we worked with her to design the logo, see information on <a href=\"http://wiki.code4lib.org/index.php/Logo_Design_Process\">the
+  of <a href=\"https://flightless.us/project/versatile-logo-for-librarian-organization/\">Adelie Design</a>. For information
+  on how we worked with her to design the logo, see information on <a href=\"https://wiki.code4lib.org/index.php/Logo_Design_Process\">the
   logo design process</a>.</p>\r\n<p>Please read the guidelines below for details
   on creating derivative works.</p>"
 categories: []
@@ -13,7 +13,7 @@ created: 1233254577
 ---
 <p><a href="/files/logo/c4l_logo/c4l_logo.RGB_400px.png"><img src="/files/logo/c4l_logo/c4l_logo.RGB_400px.png" alt="Code4Lib Logo" width="401" height="88"></a></p>
 
-<p>The Code4Lib logo was designed by Stephanie Brinley of <a href="http://www.adeliedesign.com/c4liblogo/">Adelie Design</a>. For information on how we worked with her to design the logo, see information on <a href="http://wiki.code4lib.org/index.php/Logo_Design_Process">the logo design process</a>.</p>
+<p>The Code4Lib logo was designed by Stephanie Brinley of <a href="https://flightless.us/project/versatile-logo-for-librarian-organization/">Adelie Design</a>. For information on how we worked with her to design the logo, see information on <a href="http://wiki.code4lib.org/index.php/Logo_Design_Process">the logo design process</a>.</p>
 
 <p>Please read the guidelines below for details on creating derivative works.</p>
 
@@ -21,12 +21,12 @@ created: 1233254577
 
 <h2>License</h2>
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License" /><br />
-</a> Code4Lib Logo licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>. A link to the <a href="http://www.adeliedesign.com/c4liblogo/">Adelie Design page</a> is only necessary if you are making the files available for download.</p>
+<p><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/"><img style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License" /><br />
+</a> Code4Lib Logo licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>. A link to the <a href="https://flightless.us/project/versatile-logo-for-librarian-organization/">Adelie Design page</a> is only necessary if you are making the files available for download.</p>
 
 <h2>Guidelines</h2>
 
-<p>Although the Code4Lib logo is released under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>, for consistency sake it would be best to adhere to the guidelines below when creating derivative works. Adobe Illustrator and EPS files are available for all the logos to make derivative creation easier.</p>
+<p>Although the Code4Lib logo is released under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>, for consistency sake it would be best to adhere to the guidelines below when creating derivative works. Adobe Illustrator and EPS files are available for all the logos to make derivative creation easier.</p>
 
 <h3>Colors</h3>
 
@@ -54,8 +54,8 @@ created: 1233254577
 
 <h2>Fonts</h2>
 
-<p>The logo is based on the font <a href="http://www.google.com/search?q=centabel+book">Centabel Book</a>.</p>
-<p>When additional text is added for variations of Code4Lib, the font used is <a href="http://www.google.com/search?hl=en&amp;q=tunga+font">Tunga</a>. This is a Microsoft Font.</p>
+<p>The logo is based on the font <a href="https://www.google.com/search?q=centabel+book">Centabel Book</a>.</p>
+<p>When additional text is added for variations of Code4Lib, the font used is <a href="https://www.google.com/search?hl=en&amp;q=tunga+font">Tunga</a>. This is a Microsoft Font.</p>
 
 <p>The size of the additional text is around 70-80pt, depending on the amount of text. The tracking is 150. It is in all caps and placed somewhere around the Code4Lib logo that is visually pleasing. This text is also brown.</p>
 
@@ -79,6 +79,6 @@ created: 1233254577
 
 <p><a href="/files/logo/index.html">Download individual files.</a></p>
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License" /></a><br />
+<p><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/"><img style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License" /></a><br />
 
-<span>Code4Lib Logo Variations</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>. A link to this page is only necessary if you are making the files available for download.</p>
+<span>Code4Lib Logo Variations</span> are licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>. A link to this page is only necessary if you are making the files available for download.</p>
