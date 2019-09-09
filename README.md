@@ -12,4 +12,4 @@ Please make a Pull Request for any changes, referencing any Issue(s) addressed.
 
 ## Deployment
 
-The static site is deployed to a webserver which is currently a manual process - Slack or email Ryan Wick.
+The site is hosted on GitHub Pages, merges to master should deploy the changes automatically.
