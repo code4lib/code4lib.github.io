@@ -17,10 +17,6 @@ permalink: /conference/2009/corrado/
 <strong>Edward M. Corrado</strong>, Binghamton University
 
 Ex Libris has announced an Open Platform Strategy. As part of this approach they will supply well-documented “Open-APIs” and Web services. They have also created EL Commons, a collaborative Web-based platform that includes a Developer Zone and a code-sharing platform for customers. OCLC also has an Open-API approach with the WorldCat Grid. This presentation will investigate what this Open-API strategy means for customers and why (or why not) libraries should support this “open”-proprietary strategy.
-<p>&nbsp;</p>
-<strong>QuickTime Video:</strong>
-<a href="http://dl.lib.brown.edu/code4lib/corrado.html" target="_blank">
-<img src="http://dl.lib.brown.edu/code4lib//25_corrado.jpg" border="0" width="320" height="213"></a>
 
 <p>&nbsp;</p>
 
