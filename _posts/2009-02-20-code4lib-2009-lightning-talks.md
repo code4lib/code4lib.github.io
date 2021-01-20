@@ -34,7 +34,7 @@ See <a href="/conference/2008/lightning">2008 Lightning Talks</a>.
 
 <p><a href="mailto:roytennant@gmail.com">Email Roy Tennant</a> with presentation files and/or corrections to this page.</p>
 
-<h2>Tuesday, February 24, <a href="http://dl.lib.brown.edu/code4lib/lightning_day1.html" target="_blank">[QuickTime Video]</a>  <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayOne" target="_blank">[Internet Archive Video]</a></h2>
+<h2>Tuesday, February 24, <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayOne" target="_blank">[Internet Archive Video]</a></h2>
 
 <ol>
 <li>The eXtensible Catalog Project [<a href="/files/XC_Lightning.ppt">Slides in PPT</a>], David Lindahl</li>
@@ -56,7 +56,7 @@ See <a href="/conference/2008/lightning">2008 Lightning Talks</a>.
 </ol>
 
 
-<h2>Wednesday, February 25, <a href="http://dl.lib.brown.edu/code4lib/lightning_day2.html" target="_blank">[QuickTime Video]</a>  <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayTwo" target="_blank">[Internet Archive Video]</a></h2>
+<h2>Wednesday, February 25, <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayTwo" target="_blank">[Internet Archive Video]</a></h2>
 <ol>
 <li>Build A Connector Online Now : the Connector Framework Firefox extension / Mike Taylor (IndexData)</li>
 <li>Code4Lib Annual Award for Some Sort of Good Software (that should probably be open source) / Eric Lease Morgan</li>
@@ -76,7 +76,7 @@ See <a href="/conference/2008/lightning">2008 Lightning Talks</a>.
 <li>SALT Project / Chris Fitzpatrick (Stanford University)</li>
 </ol>
 
-<h2>Thursday, February 26, <a href="http://dl.lib.brown.edu/code4lib/lightning_day3.html" target="_blank">[QuickTime Video]</a>  <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayThree" target="_blank">[Internet Archive Video]</a></h2>
+<h2>Thursday, February 26, <a href="http://www.archive.org/details/Code4lib2009LightningTalksDayThree" target="_blank">[Internet Archive Video]</a></h2>
 
 <ol>
 <li>bookgenius.org / Chris Morgan</li>

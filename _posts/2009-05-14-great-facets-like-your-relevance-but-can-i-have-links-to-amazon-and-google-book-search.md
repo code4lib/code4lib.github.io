@@ -17,10 +17,6 @@ permalink: /conference/2009/wallis/
 <strong>Richard Wallis</strong>, Talis
 
 Solr enabled great innovation and prompted even more. But they are still just OPACs. Users want much more than a library catalogue alone can provide. This presentation shares some of the experience, code, and techniques used to embed a multiplicity of extension points in to an OPAC interface in a consistent way that can be built upon by others. From author videos to LibraryThing Common Knowledge by way of an audio page reader and beyond.
-<p>&nbsp;</p>
-<strong>QuickTime Video:</strong>
-<a href="http://dl.lib.brown.edu/code4lib/wallis.html" target="_blank">
-<img src="http://dl.lib.brown.edu/code4lib//21_wallis.jpg" border="0" width="320" height="213"></a>
 
 <p>&nbsp;</p>
 
@@ -30,4 +26,3 @@ Solr enabled great innovation and prompted even more. But they are still just OP
 
 <strong>Presentation:</strong>
 <a href="http://www.slideshare.net/rjw/squeezing-more-from-the-opac" target="_blank">Slides on Slideshare</a>
-

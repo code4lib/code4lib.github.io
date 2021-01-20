@@ -17,10 +17,6 @@ permalink: /conference/2009/beer/
 <strong>Chris Beer</strong>, WGBH Interactive; <strong>Courtney Michael</strong>, WGBH Media Library and Archives
 
 A scholar walks into your archive and asks “what do you have for me?” You point to your finding aids and set them a-slogging. What if they could orient themselves to, and interact with, the collection dynamically online? What if they could see the connections between collections, series, even items? We will present our latest approach to showcasing the breadth and depth of media collections using rich cataloging and data visualization techniques.
-<p>&nbsp;</p>
-<strong>QuickTime Video:</strong>
-<a href="http://dl.lib.brown.edu/code4lib/beer.html" target="_blank">
-<img src="http://dl.lib.brown.edu/code4lib//26_beer.jpg" border="0" width="320" height="213"></a>
 
 <p>&nbsp;</p>
 

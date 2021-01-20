@@ -16,10 +16,6 @@ permalink: /conference/2009/shoemaker/
 <strong>Chris Shoemaker</strong>, Public Display
 
 FreeCite is an open-source Ruby On Rails application that parses document citations into OpenURL-style fielded data. You can use it either as a web application or through a RESTful Web API. We will explain some difficulties we encountered in developing FreeCite, describe the current architecture, discuss some of the enhancements we would like to see and explain how you can run your own server and/or improve the FreeCite software.
-<p>&nbsp;</p>
-<strong>QuickTime Video:</strong>
-<a href="http://dl.lib.brown.edu/code4lib/shoemaker.html" target="_blank">
-<img src="http://dl.lib.brown.edu/code4lib//20_shoemaker.jpg" border="0" width="320" height="213"></a>
 
 <p>&nbsp;</p>
 

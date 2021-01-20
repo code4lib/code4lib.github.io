@@ -17,11 +17,6 @@ permalink: /conference/2009/mcgeary/
 This presentation will be a progress update on the design of the Open Library Environment. At the time of the conference, business process modeling workshops will have been completed, thus allowing for presenting how the service-oriented architecture is taking shape. There will also be details on how to participate in the project.
 
 <p>&nbsp;</p>
-<strong>QuickTime Video:</strong>
-<a href="http://dl.lib.brown.edu/code4lib/mcgeary.html" target="_blank">
-<img src="http://dl.lib.brown.edu/code4lib//13_mcgeary.jpg" border="0" width="320" height="213"></a>
-
-<p>&nbsp;</p>
 
 <a href="http://www.archive.org/details/Code4lib2009ANewFrontier-TheOpenLibraryEnvironmentole">Video on Internet Archive</a>
 
@@ -29,7 +24,3 @@ This presentation will be a progress update on the design of the Open Library En
 
 <strong>Presentation:</strong>
 <a href="http://code4lib.org/files/TMcGeary_code4lib09.pdf" target="_blank">Slides in PDF</a>
-
-
-
-
