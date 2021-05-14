@@ -12,4 +12,4 @@ Please make a Pull Request for any changes, referencing any Issue(s) addressed.
 
 ## Deployment
 
-The site is hosted on GitHub Pages, merges to master should deploy the changes automatically.
+The site is hosted on GitHub Pages, merges to main should deploy the changes automatically. 
