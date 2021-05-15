@@ -9,7 +9,7 @@ legacy-date: 2006-02-24
 ---
 There are code4lib chat rooms for folks who are interested in the convergence of technology and cultural heritage. These are less formal and more interactive alternative to the code4lib mailing list for the discussion of code, projects, ideas, music, first computers, etc.
 
-<h2>IRC</h2>
+<h2 id="irc">IRC</h2>
 <ul>
 <li><strong>Server:</strong> chat.freenode.net</li>
 <li><strong>Channels:</strong> <a href="irc://irc.freenode.net/code4lib">#code4lib</a> (alternate port for if port 6667 is blocked by your firewall: <a href="irc://irc.freenode.net:8000/code4lib">8000</a>)</li>
@@ -45,7 +45,7 @@ Finally, #code4lib is a social and technical discussion channel. Keep in mind th
 
 <p>The channel is not publicly logged. </p>
 
-<h2>Slack</h2>
+<h2 id="slack">Slack</h2>
 
 Code4Lib also has a Slack team that is used for discussion, questions, announcements, interest groups, and working groups. Anyone can create a new channel within the Code4Lib Slack team once they have registered for an account.
 
