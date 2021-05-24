@@ -23,13 +23,13 @@ Not publicly, no.
 
 ### Who can I ask for help?
 
-#code4lib has a designated group of "helpers," who can answer questions or provide support. The channel's official group contacts to Freenode are Mark Matienzo (`anarchivist`), Becky Yoose (`yo_bj`), and Ross Singer (`rsinger`); all three of them have channel operator privileges.
+#code4lib has a designated group of "helpers," who can answer questions or provide support. The channel's official group contacts to Libera are Mark Matienzo (`anarchivist`), Becky Yoose (`yo_bj`), and Ross Singer (`rsinger`); all three of them have channel operator privileges.
 
 ### What about ~~panizzi~~ zoia?
 
 Zoia is a [supybot](https://github.com/Supybot/Supybot) who hangs out in #code4lib. To get a list of commands it understands, type `@list` (the "@" symbol tells zoia you're talking to it). Here's a quick list of the more common commands:
 
-#### `@help`<
+#### `@help`
 
 Find out how to use a particular command. The correct syntax is (usually) `@help` followed by the command name, e.g. `@help karma`. You can also just ask the other people on the channel how to do something.
 
@@ -78,7 +78,7 @@ Information technology, software development, librarianship, cultural heritage, 
 3. Be sensitive of the fact that cultures, opinions and ideas of what is funny or appropriate are different, and that text is a very poor medium for conveying humor.
 4. Because this is the case, and people will be people, be quick to forgive and slow to take offense.
 
-Aside from that, it's a bit of a free-for-all. Basically, use common sense, be respectful of others, and don't do anything that will get everyone kicked off of Freenode.
+Aside from that, it's a bit of a free-for-all. Basically, use common sense, be respectful of others, and don't do anything that will get everyone kicked off of Libera.
 
 ### What does "++" mean?
 
