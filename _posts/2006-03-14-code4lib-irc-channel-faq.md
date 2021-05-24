@@ -23,7 +23,7 @@ Not publicly, no.
 
 ### Who can I ask for help?
 
-#code4lib has a designated group of "helpers," who can answer questions or provide support. The channel's official group contacts to Libera are Mark Matienzo (`anarchivist`), Becky Yoose (`yo_bj`), and Ross Singer (`rsinger`); all three of them have channel operator privileges.
+#code4lib has a designated group of "helpers," who can answer questions or provide support. The channel's official group contacts to Libera are Mark Matienzo (`anarchivist`), Dan Scott (`dbs`), and `jeff`; all three of them have channel operator privileges.
 
 ### What about ~~panizzi~~ zoia?
 
