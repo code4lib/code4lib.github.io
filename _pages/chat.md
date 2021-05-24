@@ -11,7 +11,7 @@ There are code4lib chat rooms for folks who are interested in the convergence of
 
 <h2 id="irc">IRC</h2>
 <ul>
-<li><strong>Network:</strong <a href="https://libera.chat">Libera.chat</a></li>
+<li><strong>Network:</strong> <a href="https://libera.chat">Libera.chat</a></li>
 <li><strong>Server:</strong> irc.libera.chat</li>
 <li><strong>Channels:</strong> <a href="ircs://irc.libera.chat/code4lib">#code4lib</a> (alternate port for if port 6697 is blocked by your firewall: <a href="irc://irc.libera.chat:8000/code4lib">8000</a>)</li>
 <li><a href="http://code4lib.org/irc/faq">FAQ</a></li>
@@ -21,10 +21,12 @@ There are code4lib chat rooms for folks who are interested in the convergence of
 Stop by and say hello.
 
 If you don't already have an IRC client, there are several options available at no cost.
-<ul>
 
 If you can't install a client, or if IRC traffic is blocked on your network,
-</li>
+
+
+<ul>
+
 <li><a href="http://irccloud.com/">IRCCloud</a> is a <abbr title="software as a service">SaaS</abbr> IRC client that runs in most modern browsers.</li>
 <li>
   If you have <a href="http://pidgin.im/">Pidgin</a> installed, it provides IRC access.
