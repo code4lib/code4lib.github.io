@@ -10,6 +10,7 @@ categories: []
 layout: post
 title: Code4Lib Logo
 created: 1233254577
+permalink: /logo/
 ---
 <p><a href="/files/logo/c4l_logo/c4l_logo.RGB_400px.png"><img src="/files/logo/c4l_logo/c4l_logo.RGB_400px.png" alt="Code4Lib Logo" width="401" height="88"></a></p>
 
