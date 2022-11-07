@@ -12,6 +12,7 @@ legacy-date: 2006-02-23
 <p>Code4Lib conferences are subject to our community maintained <a href="https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md">CodeofConduct4Lib</a>
 
 <ul>
+    <li><a href="/conference/2023/">code4lib 2023</a> - Princeton, NJ. March 14-17. See the <a href="https://2023.code4lib.org/">2023 conference website</a>.</li>
     <li><a href="/conference/2022/">code4lib 2022</a> - Buffalo, NY. May 23-26. See the <a href="https://2022.code4lib.org/">2022 conference website</a>.</li>
     <li><a href="/conference/2021/">code4lib 2021</a> - Online. March 22-26. See the <a href="https://2021.code4lib.org/">2021 conference website</a>.</li>
     <li><a href="/conference/2020/">code4lib 2020</a> - Pittsburgh, PA. March 8-11. See the <a href="https://2020.code4lib.org/">2020 conference website</a>.</li>
