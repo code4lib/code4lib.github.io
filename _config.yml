@@ -33,7 +33,6 @@ header_pages:
 # external links are in _includes/header.html
 
 
-twitter_username: code4lib
 github_username:  code4lib
 youtube_username: code4lib
 mastodon_instance: code4lib.social
